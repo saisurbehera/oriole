@@ -1,0 +1,56 @@
+# Test configuration for LLM Prompted Agent
+agent: 
+  type: llm_prompted       # Use our new prompted agent
+  prompt_strategy: multiple_choice  # Try simpler strategy
+  remember_cot: True         
+  max_text_history: 16       
+  max_image_history: 0       
+  max_cot_history: 1         
+  max_icl_history: 1000      
+  cache_icl: False
+
+eval:
+  output_dir: "llm_prompted_results"
+  resume_from: null          
+  num_workers: 1             
+  num_episodes:              
+    nle: 3                   # Run 3 episodes
+  max_steps_per_episode: 50  # Quick test
+  save_trajectories: True    
+  save_images: False         
+  icl_episodes: 1
+  icl_dataset: records
+  feedback_on_invalid_action: True
+
+client:
+  client_name: openai        
+  model_id: meta-llama/Llama-3.2-1B-Instruct
+  base_url: http://0.0.0.0:8080/v1
+  generate_kwargs:
+    temperature: 0.1         # Low temperature for consistency
+    max_tokens: 50           # Short responses
+  timeout: 60                
+  max_retries: 5             
+  delay: 2                   
+  alternate_roles: False     
+
+envs:
+  names: nle                 
+  env_kwargs:
+    seed: 42                 
+  nle_kwargs:
+    character: "@"           
+    max_episode_steps: 50    # Short episodes
+    no_progress_timeout: 30  
+    savedir: null            
+    save_ttyrec_every: 0     
+    skip_more: True          
+
+tasks:
+  nle_tasks:
+    - NetHackChallenge-v0    
+
+hydra:
+  run:
+    dir: .                   
+  output_subdir: null

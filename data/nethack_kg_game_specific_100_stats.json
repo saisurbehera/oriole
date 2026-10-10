@@ -1,0 +1,40 @@
+{
+  "total_triples": 264,
+  "unique_entities": 488,
+  "unique_relations": 14,
+  "relation_counts": {
+    "contains": 202,
+    "grants_ability": 15,
+    "cures": 5,
+    "found_in": 1,
+    "causes": 14,
+    "grants_resistance": 1,
+    "damage": 1,
+    "alignment": 3,
+    "resists": 2,
+    "weight": 1,
+    "beatitude": 6
+  },
+  "top_entities": {
+    "You": 5,
+    "which": 5,
+    "cursed": 5,
+    "and": 4,
+    "lawful": 3,
+    "no effect": 3,
+    "may": 3,
+    "Amulet of Yendor": 3,
+    "We": 2,
+    "of monster that appears in": 2,
+    "it": 2,
+    "Archeologists": 2,
+    "been generated": 2,
+    "the": 2,
+    "base 1": 2,
+    "It": 2,
+    "we": 2,
+    "if they": 2,
+    "hero": 2,
+    "This page": 2
+  }
+}

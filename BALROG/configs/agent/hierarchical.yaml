@@ -1,0 +1,10 @@
+# Hierarchical DreamCoder Agent Configuration
+_target_: balrog.agents.hierarchical_dreamcoder_v2.HierarchicalDreamCoderAgentV2
+
+# Agent settings
+type: hierarchical
+environment: nle
+
+# Optional parameters could be added here in the future
+max_episode_steps: 1000
+reasoning_depth: 4

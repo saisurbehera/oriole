@@ -1,0 +1,12 @@
+{
+  "total_episodes": 1934,
+  "quality_episodes": 1629,
+  "training_steps": 2158,
+  "user_skills": {
+    "1185200751": "novice"
+  },
+  "dataset_stats": {
+    "train_size": 1942,
+    "val_size": 216
+  }
+}

@@ -1,0 +1,287 @@
+head	type	tail	source
+Main Page	special_attack	edit. This wiki is one big spoiler, so turn back n	Main Page
+Soldier ant	also_known_as	soldier ant	Soldier ant
+Soldier ant	speed	18	Soldier ant
+Soldier ant	alignment	neutral	Soldier ant
+Soldier ant	property	genocidable	Soldier ant
+Soldier ant	attack_type	bite	Soldier ant
+Soldier ant	attack_damage	2d4	Soldier ant
+Soldier ant	attack_type	sting	Soldier ant
+Soldier ant	attack_damage	3d4	Soldier ant
+Soldier ant	damage_type	poison	Soldier ant
+Soldier ant	has_resistance	poison resistance	Soldier ant
+Soldier ant	has_resistance	resistance resistance	Soldier ant
+Soldier ant	type_of	monster	Soldier ant
+Soldier ant	type_of	oviparous and carnivorous insect	Soldier ant
+Soldier ant	found_in	''NetHack''	Soldier ant
+Soldier ant	found_in	small groups of 2-4	Soldier ant
+Soldier ant	found_in	Valkyrie quest	Soldier ant
+Soldier ant	found_in	NetHack 3	Soldier ant
+Soldier ant	eating_effect	corpse or tin has a   chance of granting poison re	Soldier ant
+Soldier ant	special_attack	work for soldier ants: avoid being surrounded at a	Soldier ant
+Soldier ant	special_attack	work as well since they also have no Magic resista	Soldier ant
+Soldier ant	special_attack	work in a cautious fighter's favor and can also wo	Soldier ant
+Soldier ant	size	human	Soldier ant
+Special level	appears_on_level	1-1	Special level
+Special level	appears_on_level	2-2	Special level
+Special level	appears_on_level	3-3	Special level
+Special level	appears_on_level	4-4	Special level
+Cheating	type_of	gameplay feature	Cheating
+Cheating	grants	players the ability	Cheating
+Cheating	eating_effect	nd declare a trickery	Cheating
+Cheating	special_attack	use '''metagaming''' to gain an advantage, most of	Cheating
+Wumpus	magic_resistance	10	Wumpus
+Wumpus	alignment	neutral	Wumpus
+Wumpus	property	genocidable	Wumpus
+Wumpus	attack_type	bite	Wumpus
+Wumpus	attack_damage	3d6	Wumpus
+Wumpus	type_of	monster	Wumpus
+Wumpus	type_of	omnivorous quadruped	Wumpus
+Wumpus	type_of	homage to the game	Wumpus
+Wumpus	type_of	large creature with sucker feet	Wumpus
+Wumpus	found_in	''NetHack''	Wumpus
+Wumpus	found_in	level creation has a   chance of being created asl	Wumpus
+Wumpus	found_in	Ranger quest locate level at level creation	Wumpus
+Wumpus	found_in	Hack 1	Wumpus
+Wumpus	found_in	Gehennom	Wumpus
+Wumpus	special_attack	fall into upon entering, while two others contain 	Wumpus
+Wumpus	special_attack	smell a Wumpus, hear a bat, or feel a draft from a	Wumpus
+Wumpus	special_attack	also kill	Wumpus
+Wumpus	special_attack	change direction in mid-air, which they must use t	Wumpus
+Wumpus	special_attack	travel through, and then enters each cave that the	Wumpus
+Wumpus	special_attack	move to a new cave; and if it hits the Wumpus,	Wumpus
+Archeologist	type_of	little dog or kitten with equal probability	Archeologist
+Archeologist	grants	magic resistance, telepathy and half spell damage,	Archeologist
+Archeologist	grants_intrinsic	magic	Archeologist
+Archeologist	type_of	"""prettytable"""	Archeologist
+Boulder fort	special_attack	read a blessed scroll of earth if an arch-lich is 	Boulder fort
+Boulder fort	special_attack	take out difficult monsters such as quest nemeses 	Boulder fort
+Boulder fort	special_attack	force monsters to be created on (and able to attac	Boulder fort
+Boulder fort	special_attack	also move onto squares containing boulders. Howeve	Boulder fort
+Score	grants	score	Score
+Score	grants	points, however, and must be avoided	Score
+Score	special_attack	see it on the bottom line at all times. Score also	Score
+Score	special_attack	have to formally identify this potion, or see a mo	Score
+Score	special_attack	get one, a wraith corpse is also a viable method o	Score
+Ascension	type_of	ascension kit beforehand with items to handle various complications	Ascension
+Special room	found_in	random rooms-and-corridors levels in the Dungeons 	Special room
+Special room	found_in	below table	Special room
+Special room	appears_on_level	9-9	Special room
+Special room	type_of	"""prettytable"""	Special room
+Role	found_in	Talk:Role#Initial attribute simulation code	Role
+Role	special_attack	also set the role in	Role
+Role	type_of	"""prettytable"""	Role
+Artifact	found_in	ground have a base   chance (5%) of being made int	Artifact
+Artifact	found_in	ground are affected by the amount of artifacts tha	Artifact
+Artifact	found_in	a given game even if that artifact is destroyed or	Artifact
+Artifact	found_in	current character's game or act as that character'	Artifact
+Weapon	type_of	item used to attack opponents	Weapon
+Weapon	special_attack	be improvised to serve as one, such as a cream pie	Weapon
+Weapon	special_attack	ready a second weapon for use, and use   to exchan	Weapon
+Weapon	special_attack	wield both weapons at once using the #twoweapon co	Weapon
+Weapon	when_equipped	with   and used to hit enemies; you cannot wield a	Weapon
+Weapon	when_equipped	weapon	Weapon
+Weapon	when_equipped	in order to shoot them as ammo - still other items	Weapon
+Weapon	type_of	"""wikitable"""	Weapon
+Weapon	type_of	"""prettytable striped sortable"""	Weapon
+Scroll	found_in	book shops	Scroll
+Scroll	grants	the greatest number of magic marker charges requir	Scroll
+Scroll	special_attack	be a random amount from Ink/2 to Ink-1; if	Scroll
+Scroll	special_attack	only write scrolls on blank paper, which can be ma	Scroll
+Scroll	special_attack	select non-blank scrolls to write on, but this wil	Scroll
+Scroll	special_attack	"be told, ""That scroll is not blank!"""	Scroll
+Scroll	special_attack	be used up and disappear (except blank paper). The	Scroll
+Scroll	type_of	"""prettytable sortable striped"""	Scroll
+NetHack General Public License	grants	everyone the right	NetHack General Public License
+NetHack General Public License	grants	the recipients all the rights that you have	NetHack General Public License
+NetHack General Public License	grants	more extensive warranty protection	NetHack General Public License
+NetHack General Public License	special_attack	get it if	NetHack General Public License
+NetHack General Public License	special_attack	get the source code.  And	NetHack General Public License
+NetHack General Public License	special_attack	copy and distribute verbatim copies of NetHack sou	NetHack General Public License
+NetHack General Public License	special_attack	modify	NetHack General Public License
+Monster	special_attack	encounter while exploring the Mazes of Menace. The	Monster
+Monster	special_attack	attack any monster	Monster
+Monster	special_attack	retaliate. Monsters may be pet, peaceful, or hosti	Monster
+Religion	type_of	portal to detailed articles about the religious aspects of the game	Religion
+Religion	type_of	Bad Idea	Religion
+Religion	type_of	obscure bug where certain favorable events occur most likely if your Luck is 7	Religion
+Religion	type_of	number	Religion
+Religion	grants	you an artifact weapon	Religion
+Religion	grants	or improves intrinsic protection	Religion
+Religion	grants	temporary clairvoyance, improve your alignment rec	Religion
+Religion	grants_intrinsic	or improves	Religion
+Religion	special_attack	cause beneficial outcomes, from restoring	Religion
+Religion	special_attack	improve	Religion
+Religion	special_attack	also grant	Religion
+Religion	special_attack	convert it (if	Religion
+Religion	special_attack	instead lower	Religion
+Religion	special_attack	instead convert	Religion
+Religion	special_attack	grant temporary clairvoyance, improve	Religion
+Religion	special_attack	have an alignment as well. Some entities loyal to 	Religion
+Religion	special_attack	serve all gods.	Religion
+Religion	special_attack	change it temporarily by wearing a helm of opposit	Religion
+Religion	special_attack	never send	Religion
+Religion	type_of	"""wikitable"" style=""text-align:center"""	Religion
+Attribute	type_of	"""prettytable"""	Attribute
+Attribute	type_of	"""prettytable sortable striped"""	Attribute
+NetHack	special_attack	be completed in an afternoon,	NetHack
+NetHack	special_attack	die quickly, and come back worrying about how to s	NetHack
+NetHack	special_attack	learn, eventually, and move onto higher concerns.	NetHack
+NetHack	special_attack	stop worrying about	NetHack
+NetHack	special_attack	consult tables and guides in search of an edge bec	NetHack
+NetHack	special_attack	dive into the very source code, looking to explain	NetHack
+Inventory	type_of	list of all the items	Inventory
+Inventory	type_of	popular myth	Inventory
+Inventory	special_attack	occupy a special slot labeled '$' if necessary), a	Inventory
+Inventory	special_attack	easily light lamps and candles, so it is implied t	Inventory
+Sokoban	appears_on_level	6-6	Sokoban
+Sokoban	appears_on_level	1-1	Sokoban
+Sokoban	appears_on_level	2-2	Sokoban
+Sokoban	type_of	"""prettytable"""	Sokoban
+Item	type_of	stack of one or more identical items	Item
+Item	found_in	dungeon	Item
+Item	found_in	floor and in containers	Item
+Item	drops	when you kill a monster and it leaves a corpse	Item
+Item	special_attack	be placed in	Item
+Item	special_attack	be randomly found on the floor and in containers. 	Item
+Item	type_of	"""wikitable"""	Item
+Medusa	difficulty	25	Medusa
+Medusa	base_level	20	Medusa
+Medusa	speed	12	Medusa
+Medusa	magic_resistance	50	Medusa
+Medusa	alignment	−15	Medusa
+Medusa	frequency	Unique	Medusa
+Medusa	attack_type	weapon	Medusa
+Medusa	attack_damage	2d4	Medusa
+Medusa	attack_type	attack	Medusa
+Medusa	attack_damage	1d8	Medusa
+Medusa	attack_type	gaze	Medusa
+Medusa	attack_damage	0d0	Medusa
+Medusa	damage_type	stoning	Medusa
+Medusa	attack_type	bite	Medusa
+Medusa	attack_damage	1d6	Medusa
+Medusa	damage_type	poison	Medusa
+Medusa	type_of	unique monster	Medusa
+Medusa	type_of	dangerous humanoid being	Medusa
+Medusa	type_of	strong omnivore	Medusa
+Medusa	found_in	''NetHack''	Medusa
+Medusa	found_in	Dungeons of Doom on Medusa's Island	Medusa
+Medusa	found_in	a bones file	Medusa
+Trap	type_of	chance of placing an additional possession after each one	Trap
+Trap	found_in	top	Trap
+Trap	found_in	pits are usually from generated monsters that fell	Trap
+Trap	appears_on_level	4-4	Trap
+Trap	special_attack	activate when	Trap
+Trap	special_attack	kill	Trap
+Trap	special_attack	minimize	Trap
+Trap	special_attack	also not be visible under items like these, so it'	Trap
+Trap	special_attack	have already been in that area and discovered all 	Trap
+Trap	special_attack	avoid most traps. Remember where	Trap
+Hole	type_of	chance you escape its effects	Hole
+Hole	found_in	levels with non-diggable floors	Hole
+Hole	appears_on_level	2-2	Hole
+Hole	special_attack	let	Hole
+Hole	special_attack	digging downward with a pick-axe or dwarvish matto	Hole
+Hole	special_attack	fall through to the same random level as	Hole
+Hole	special_attack	fall down at least one dungeon level:  75% chance 	Hole
+Hole	special_attack	come along, and each object only on	Hole
+Hole	special_attack	be placed on	Hole
+Hole	special_attack	fall a random number of dungeon levels, with incre	Hole
+Hole	special_attack	be dragged after	Hole
+Wand of digging	type_of	wand	Wand of digging
+Wand of digging	found_in	''NetHack''	Wand of digging
+Wand of digging	grants	them the item before their monster flags are set	Wand of digging
+Wand of digging	eating_effect	hole for them to fall (or fly) through	Wand of digging
+Wand of digging	type_of	ray	Wand of digging
+Amulet of Yendor	found_in	Rogue level	Amulet of Yendor
+Amulet of Yendor	found_in	level creation will have a web placed underneath t	Amulet of Yendor
+Amulet of Yendor	grants	additional effects	Amulet of Yendor
+Amulet of Yendor	grants	extrinsic clairvoyance, unless it would be blocked	Amulet of Yendor
+Amulet of Yendor	drops	you without enough power to cast it otherwise	Amulet of Yendor
+Amulet of Yendor	special_attack	resist being put into any type of container, and w	Amulet of Yendor
+Amulet of Yendor	special_attack	confer extrinsic clairvoyance, unless it would be 	Amulet of Yendor
+Amulet of Yendor	special_attack	drain a random amount of additional energy up to t	Amulet of Yendor
+Amulet of Yendor	special_attack	depend on	Amulet of Yendor
+Amulet of Yendor	special_attack	ask for more gold than	Amulet of Yendor
+Amulet of Yendor	special_attack	follow	Amulet of Yendor
+Amulet of Yendor	special_attack	steal it from	Amulet of Yendor
+Amulet of Yendor	special_attack	work against	Amulet of Yendor
+Amulet of Yendor	when_equipped	or worn	Amulet of Yendor
+Amulet of Yendor	material	mithril	Amulet of Yendor
+Amulet	type_of	item	Amulet
+Amulet	found_in	''NetHack'' and is represented by a cyan double qu	Amulet
+Amulet	eating_effect	jewelry by polymorphing into a metallivore	Amulet
+Amulet	special_attack	be eating jewelry by polymorphing into a metallivo	Amulet
+Amulet	special_attack	become obvious after a while, such as for the amul	Amulet
+Amulet	special_attack	always remove it if it is strangulation or restful	Amulet
+Amulet	when_equipped	by monsters	Amulet
+Amulet	when_equipped	safely and beneficially as long as you don't have 	Amulet
+Amulet	material	iron	Amulet
+Amulet	material	plastic	Amulet
+Amulet	type_of	"""wikitable sortable"""	Amulet
+Amulet	type_of	"""wikitable"""	Amulet
+Pit	type_of	trap consisting of a hole in the ground	Pit
+Pit	found_in	any dungeon level	Pit
+Pit	found_in	first floor in Sokoban	Pit
+Pit	eating_effect	#untrap command several times	Pit
+Pit	drops	something into a pit	Pit
+Pit	special_attack	be randomly generated at any dungeon level, anywhe	Pit
+Pit	special_attack	dig down with a pick-axe, or zap a wand of digging	Pit
+Pit	special_attack	also create pits by applying a wand of digging or 	Pit
+Pit	special_attack	be removed by pushing a boulder into them. Any ite	Pit
+Pit	special_attack	likely immediately fall back into the pit. However	Pit
+Pit	special_attack	rot away within 250 turns, and	Pit
+Pit	special_attack	be useful for hunting unicorns, controlling aligne	Pit
+Pit	special_attack	''only'' earn	Pit
+Pit	effect	Prevents movement, damage	Pit
+Peaceful	special_attack	also become hostile or scared. Some monsters who b	Peaceful
+Peaceful	special_attack	strike whatever is in its path; the artifact sword	Peaceful
+Peaceful	special_attack	and will attack peaceful monsters with no penalty 	Peaceful
+Peaceful	special_attack	have a peaceful/hostile status based on	Peaceful
+Peaceful	special_attack	always be generated hostile to a non-coaligned pla	Peaceful
+Peaceful	type_of	prettytable	Peaceful
+Player	grants	a limited interaction with other (former) players	Player
+Player	special_attack	provide a limited interaction with other (former) 	Player
+Player	special_attack	instead be that of	Player
+Player	special_attack	be any one of the following roles: Archeologist, B	Player
+Player	type_of	"""prettytable"""	Player
+Dungeon feature	grants	some more or less useful function	Dungeon feature
+Rec.games.roguelike.nethack	type_of	Usenet newsgroup	Rec.games.roguelike.nethack
+Message	special_attack	be vital to understanding	Message
+Message	special_attack	display a --More-- prompt and wait for	Message
+Message	special_attack	increase	Message
+Encumbrance	special_attack	become burdened and slow down. A character can car	Encumbrance
+Encumbrance	special_attack	reduce	Encumbrance
+Encumbrance	special_attack	interfere with	Encumbrance
+Encumbrance	type_of	"""prettytable"""	Encumbrance
+Statue	type_of	object	Statue
+Statue	found_in	''NetHack''	Statue
+Statue	appears_on_level	3-3	Statue
+Statue	appears_on_level	24-24	Statue
+Statue	drops	empty statues of themselves behind in place of a c	Statue
+Statue	type_of	"""prettytable"""	Statue
+BUC	grants	additional bonuses	BUC
+BUC	drops	the shop	BUC
+BUC	special_attack	always be read successfully, regardless of the spe	BUC
+BUC	special_attack	wake all sleeping and meditating monsters on the l	BUC
+BUC	special_attack	quickly warp to	BUC
+BUC	when_equipped	or wielded is reluctant to be taken off or put asi	BUC
+Staircase	type_of	magical connection and may be unusable	Staircase
+Staircase	appears_on_level	1-1	Staircase
+Staircase	eating_effect	hole in the ground	Staircase
+Staircase	special_attack	take	Staircase
+Staircase	special_attack	petrify	Staircase
+Staircase	special_attack	find	Staircase
+Staircase	special_attack	be very helpful in the early game, especially in t	Staircase
+Staircase	special_attack	follow	Staircase
+Staircase	special_attack	be behind a secret door or hidden corridor square.	Staircase
+Staircase	special_attack	be hidden under useless items. It is also a good i	Staircase
+Escaping the dungeon	appears_on_level	1-1	Escaping the dungeon
+Escaping the dungeon	special_attack	teleport to any level from &minus;1 to &minus;9 wh	Escaping the dungeon
+Escaping the dungeon	special_attack	offer the Amulet of Yendor to Moloch and refuse to	Escaping the dungeon
+Escaping the dungeon	special_attack	"then be ejected from the dungeon in ""a cloud of bl"	Escaping the dungeon
+Escaping the dungeon	special_attack	wish for a magic portal, which will lead to nowher	Escaping the dungeon
+Closet	type_of	single square	Closet
+Closet	type_of	chance	Closet
+Closet	found_in	top or bottom edge of a room	Closet
+Closet	found_in	closet   - the closet will also have a scroll of t	Closet

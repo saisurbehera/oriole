@@ -1,0 +1,59 @@
+---
+# Title for release notes page
+name-template: 'v$RESOLVED_VERSION'
+
+# Tag to be used in GitHub for the release
+tag-template: 'v$RESOLVED_VERSION'
+
+# Group the PRs together for easy reading
+categories:
+  - title: '💣 BREAKING CHANGE'
+    label: 'breaking change'
+  - title: '🚀 New Features'
+    label: 'enhancement'
+  - title: '🐛 Bug Fixes'
+    label: 'bug'
+  - title: '📝 Documentation'
+    label: 'documentation'
+  - title: '🔨 Maintenance'
+    label: 'maintenance'
+
+exclude-labels:
+  - 'skip changelog'
+
+change-template: '- $TITLE (#$NUMBER, @$AUTHOR)'
+
+version-resolver:
+  major:
+    labels:
+      - 'major'
+      - 'breaking change'
+  minor:
+    labels:
+      - 'minor'
+      - 'enhancement'
+      - 'maintenance'
+  patch:
+    labels:
+      - 'patch'
+      - 'bug'
+      - 'documentation'
+  default: patch
+
+template: |
+  # Installing NLE
+
+  Install with pip: `pip install nle==$RESOLVED_VERSION`.
+
+  See [README.md](https://github.com/NetHack-LE/nle/blob/v$RESOLVED_VERSION/README.md) and/or [docker/README.md](https://github.com/NetHack-LE/nle/blob/v$RESOLVED_VERSION/docker/README.md) for further instructions.
+
+  # New in NLE v$RESOLVED_VERSION
+
+  $CHANGES
+
+  # Acknowledgements
+  
+  Thanks to the following contributors for supporting the development of NLE! 🙏
+
+  $CONTRIBUTORS
+...

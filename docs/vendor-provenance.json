@@ -1,0 +1,46 @@
+[
+  {
+    "path": "nle/third_party/deboost.context",
+    "commit": "259fc4103bad6bb484d5ff426ace56ac557107a4"
+  },
+  {
+    "path": "nle/third_party/bzip2",
+    "commit": "fbc4b11da543753b3b803e5546f56e26ec90c2a7"
+  },
+  {
+    "path": "nle/third_party/pybind11",
+    "commit": "8a099e44b3d5f85b20f05828d919d2332a8de841"
+  },
+  {
+    "path": "BALROG/prime-rl",
+    "commit": "8c44bb8836578809beed28d3bfd538a8f0739abf"
+  },
+  {
+    "path": "BALROG/autoascend",
+    "commit": "8527910bd85c4d851c18ad912aae606c92cd516a"
+  },
+  {
+    "path": "BALROG/treequest",
+    "commit": "37fd989bd2cfe715a3eb4a5cc735f63a44cc7866"
+  },
+  {
+    "path": "BALROG/BALROG",
+    "commit": "bf9e75b67aa048d8648dacaf135b96b113d83600"
+  },
+  {
+    "path": "nle/ultra",
+    "commit": "427966ad8ed60420eef034063d44f3153addff90"
+  },
+  {
+    "path": "ultra",
+    "commit": "427966ad8ed60420eef034063d44f3153addff90"
+  },
+  {
+    "path": "BALROG",
+    "commit": "bf9e75b67aa048d8648dacaf135b96b113d83600"
+  },
+  {
+    "path": "nle",
+    "commit": "1b3f9f4a8fbc0ef1aa13aa8d73c0ff35d50a100e"
+  }
+]

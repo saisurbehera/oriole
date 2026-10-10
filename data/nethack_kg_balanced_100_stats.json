@@ -1,0 +1,39 @@
+{
+  "total_triples": 120,
+  "unique_entities": 124,
+  "unique_relations": 21,
+  "relation_distribution": {
+    "found_in": 34,
+    "appears_on_level": 14,
+    "grants": 11,
+    "attack_type": 7,
+    "attack_damage": 7,
+    "grants_resistance": 6,
+    "type_of": 6,
+    "eating_effect": 6,
+    "drops": 5,
+    "alignment": 3,
+    "damage_type": 3,
+    "weight": 3,
+    "size": 3,
+    "speed": 2,
+    "property": 2,
+    "has_resistance": 2,
+    "nutrition": 2,
+    "also_known_as": 1,
+    "part_of": 1,
+    "difficulty": 1
+  },
+  "source_distribution": {
+    "Medusa": 23,
+    "Soldier ant": 21,
+    "Wumpus": 16,
+    "Amulet of Yendor": 5,
+    "Statue": 5,
+    "Special level": 4,
+    "Artifact": 4,
+    "Pit": 4,
+    "Special room": 3,
+    "Religion": 3
+  }
+}

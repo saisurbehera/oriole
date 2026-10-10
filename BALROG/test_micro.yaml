@@ -1,0 +1,55 @@
+# Test configuration for Micro Agent (extreme bootstrapping for 1B models)
+agent: 
+  type: micro              # Use micro agent
+  remember_cot: False      
+  max_text_history: 4      # Minimal history
+  max_image_history: 0       
+  max_cot_history: 0       
+  max_icl_history: 0       
+  cache_icl: False
+
+eval:
+  output_dir: "micro_results"
+  resume_from: null          
+  num_workers: 1             
+  num_episodes:              
+    nle: 5                   # Test with 5 episodes
+  max_steps_per_episode: 300 # More steps to see exploration
+  save_trajectories: True    
+  save_images: False         
+  icl_episodes: 0
+  icl_dataset: records
+  feedback_on_invalid_action: True
+
+client:
+  client_name: openai        
+  model_id: meta-llama/Llama-3.2-1B-Instruct
+  base_url: http://0.0.0.0:8080/v1
+  generate_kwargs:
+    temperature: 0.01        # Almost deterministic
+    max_tokens: 5            # Only need 'A' or 'B'
+  timeout: 30                
+  max_retries: 3             
+  delay: 1                   
+  alternate_roles: False     
+
+envs:
+  names: nle                 
+  env_kwargs:
+    seed: null               # Random seeds to test generalization
+  nle_kwargs:
+    character: "@"           
+    max_episode_steps: 300   
+    no_progress_timeout: 150 
+    savedir: null            
+    save_ttyrec_every: 0     
+    skip_more: True          
+
+tasks:
+  nle_tasks:
+    - NetHackChallenge-v0    
+
+hydra:
+  run:
+    dir: .                   
+  output_subdir: null

@@ -1,0 +1,15 @@
+{
+  "episodes": 20,
+  "timestamp": "2025-07-06T17:47:01.710587",
+  "final_stats": {
+    "avg_reward": 0.6,
+    "max_depth_reached": 1,
+    "unique_contexts": 3,
+    "total_experiences": 498
+  },
+  "depth_distribution": {
+    "level_1": 20,
+    "level_2": 0,
+    "level_3_plus": 0
+  }
+}

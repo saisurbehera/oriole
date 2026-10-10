@@ -1,0 +1,119 @@
+[
+  {
+    "name": "expert_early_exploration",
+    "pattern": [
+      "search",
+      "open",
+      "north",
+      "search",
+      "east"
+    ],
+    "conditions": {
+      "game_stage": "early",
+      "location_type": "room"
+    },
+    "success_rate": 0.7,
+    "usage_count": 0,
+    "description": "Finding items and stairs"
+  },
+  {
+    "name": "expert_corridor_navigation",
+    "pattern": [
+      "north",
+      "north",
+      "search",
+      "north"
+    ],
+    "conditions": {
+      "location_type": "corridor"
+    },
+    "success_rate": 0.7,
+    "usage_count": 0,
+    "description": "Avoiding dead ends"
+  },
+  {
+    "name": "expert_door_sequence",
+    "pattern": [
+      "kick",
+      "kick",
+      "open",
+      "north"
+    ],
+    "conditions": {
+      "door_present": "true"
+    },
+    "success_rate": 0.7,
+    "usage_count": 0,
+    "description": "Access to new areas"
+  },
+  {
+    "name": "expert_combat_retreat",
+    "pattern": [
+      "wait",
+      "kick",
+      "south",
+      "wait"
+    ],
+    "conditions": {
+      "enemy_present": "true"
+    },
+    "success_rate": 0.7,
+    "usage_count": 0,
+    "description": "Surviving combat"
+  },
+  {
+    "name": "expert_stair_search",
+    "pattern": [
+      "search",
+      "search",
+      "search",
+      "east",
+      "search"
+    ],
+    "conditions": {
+      "seeking_stairs": "true"
+    },
+    "success_rate": 0.7,
+    "usage_count": 0,
+    "description": "Progressing to next level"
+  },
+  {
+    "name": "expert_item_management",
+    "pattern": [
+      "pickup",
+      "wear",
+      "wield"
+    ],
+    "conditions": {
+      "items_present": "true"
+    },
+    "success_rate": 0.7,
+    "usage_count": 0,
+    "description": "Improved stats"
+  },
+  {
+    "name": "expert_fountain_drink",
+    "pattern": [
+      "quaff",
+      "north",
+      "search"
+    ],
+    "conditions": {},
+    "success_rate": 0.7,
+    "usage_count": 0,
+    "description": "Gaining benefits"
+  },
+  {
+    "name": "expert_diagonal_explore",
+    "pattern": [
+      "northeast",
+      "search",
+      "southwest",
+      "search"
+    ],
+    "conditions": {},
+    "success_rate": 0.7,
+    "usage_count": 0,
+    "description": "Covering more ground"
+  }
+]

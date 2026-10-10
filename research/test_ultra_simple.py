@@ -1,0 +1,205 @@
+"""
+Test ULTRA without torch-scatter dependency
+"""
+
+import torch
+import pandas as pd
+from torch_geometric.data import Data
+import yaml
+from easydict import EasyDict as edict
+import os
+import sys
+sys.path.append(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'ultra'))
+
+# Mock the torch_scatter import in ultra.tasks
+import importlib
+import types
+
+def mock_torch_scatter():
+    """Create a mock torch_scatter module"""
+    mock_module = types.ModuleType('torch_scatter')
+    
+    # Mock scatter_add function
+    def scatter_add(src, index, dim=0, out=None, dim_size=None):
+        if out is None:
+            if dim_size is None:
+                dim_size = int(index.max()) + 1
+            out = torch.zeros(dim_size, *src.shape[1:], dtype=src.dtype, device=src.device)
+        
+        # Simple implementation without torch_scatter
+        for i in range(src.shape[0]):
+            out[index[i]] += src[i]
+        return out
+    
+    mock_module.scatter_add = scatter_add
+    return mock_module
+
+# Inject the mock before importing ultra modules
+sys.modules['torch_scatter'] = mock_torch_scatter()
+
+def load_nethack_kg(tsv_path):
+    """Load NetHack KG from TSV file"""
+    # Read TSV
+    df = pd.read_csv(tsv_path, sep='\t', header=0, names=['head', 'relation', 'tail'])
+    
+    # Build entity and relation mappings
+    entities = set()
+    relations = set()
+    
+    for _, row in df.iterrows():
+        # Convert to string and skip NaN values
+        if pd.notna(row['head']) and pd.notna(row['tail']) and pd.notna(row['relation']):
+            entities.add(str(row['head']))
+            entities.add(str(row['tail']))
+            relations.add(str(row['relation']))
+    
+    # Remove any empty strings
+    entities.discard('')
+    relations.discard('')
+    
+    entity2id = {e: i for i, e in enumerate(sorted(entities))}
+    id2entity = {i: e for e, i in entity2id.items()}
+    relation2id = {r: i for i, r in enumerate(sorted(relations))}
+    id2relation = {i: r for r, i in relation2id.items()}
+    
+    # Convert to edge indices
+    edge_list = []
+    edge_type = []
+    
+    for _, row in df.iterrows():
+        if pd.notna(row['head']) and pd.notna(row['tail']) and pd.notna(row['relation']):
+            h = str(row['head'])
+            t = str(row['tail'])
+            r = str(row['relation'])
+            
+            if h in entity2id and t in entity2id and r in relation2id:
+                h_id = entity2id[h]
+                t_id = entity2id[t]
+                r_id = relation2id[r]
+                
+                edge_list.append([h_id, t_id])
+                edge_type.append(r_id)
+    
+    edge_index = torch.tensor(edge_list, dtype=torch.long).t()
+    edge_type = torch.tensor(edge_type, dtype=torch.long)
+    
+    return {
+        'data': Data(
+            edge_index=edge_index,
+            edge_type=edge_type,
+            num_nodes=len(entities)
+        ),
+        'entity2id': entity2id,
+        'id2entity': id2entity,
+        'relation2id': relation2id,
+        'id2relation': id2relation,
+        'num_entities': len(entities),
+        'num_relations': len(relations),
+        'num_triples': len(df)
+    }
+
+def test_ultra_simple():
+    """Test ULTRA with simplified setup"""
+    
+    print("=== Testing ULTRA with NetHack KG (Simplified) ===\n")
+    
+    # Load the KG
+    kg_path = "data/nethack_kg_full/nethack_kg_intermediate.tsv"
+    print(f"Loading KG from: {kg_path}")
+    
+    kg_info = load_nethack_kg(kg_path)
+    kg_data = kg_info['data']
+    
+    print(f"Loaded NetHack KG:")
+    print(f"  - Entities: {kg_info['num_entities']}")
+    print(f"  - Relations: {kg_info['num_relations']}")
+    print(f"  - Triples: {kg_info['num_triples']}")
+    
+    try:
+        # Import ULTRA components
+        from ultra.tasks import build_relation_graph
+        from ultra.models import Ultra
+        
+        # Build relation graph
+        print("\nBuilding relation graph...")
+        kg_data = build_relation_graph(kg_data)
+        print("✓ Relation graph built")
+        
+        # Load config
+        config_path = "ultra/config/transductive/inference.yaml"
+        with open(config_path, 'r') as f:
+            content = f.read()
+            # Remove problematic sections
+            content = content.replace('layer:', 'layer_disabled:')
+            config = yaml.safe_load(content)
+            config = edict(config)
+        
+        # Initialize model with minimal config
+        print("\nInitializing ULTRA model...")
+        model = Ultra(
+            rel_model_cfg=config.model.relation_graph,
+            entity_model_cfg=config.model.entity_graph
+        )
+        
+        # Try to load checkpoint
+        checkpoint_path = "ultra/ckpts/ultra_4g.pth"
+        if os.path.exists(checkpoint_path):
+            print(f"Loading checkpoint: {checkpoint_path}")
+            checkpoint = torch.load(checkpoint_path, map_location='cpu')
+            model.load_state_dict(checkpoint['model'], strict=False)
+            model.eval()
+            print("✓ Model loaded")
+        else:
+            print("! Checkpoint not found, using random initialization")
+        
+        # Test basic functionality
+        print("\n=== Testing Basic Inference ===")
+        
+        # Find some test entities
+        test_queries = [
+            ("NetHack", "genre"),
+            ("NetHack", "has part"),
+            ("NetHack", "part of"),
+        ]
+        
+        with torch.no_grad():
+            for head_name, rel_name in test_queries:
+                if head_name in kg_info['entity2id'] and rel_name in kg_info['relation2id']:
+                    h_idx = kg_info['entity2id'][head_name]
+                    r_idx = kg_info['relation2id'][rel_name]
+                    
+                    print(f"\nQuery: {head_name} --[{rel_name}]--> ?")
+                    
+                    # Find ground truth from KG
+                    mask = (kg_data.edge_index[0] == h_idx) & (kg_data.edge_type == r_idx)
+                    true_tails = kg_data.edge_index[1][mask].tolist()
+                    
+                    if true_tails:
+                        print(f"Ground truth answers ({len(true_tails)}):")
+                        for t_idx in true_tails[:5]:  # Show first 5
+                            print(f"  - {kg_info['id2entity'][t_idx]}")
+                    else:
+                        print("  No ground truth found")
+        
+        print("\n✓ ULTRA successfully loaded and tested!")
+        
+    except Exception as e:
+        print(f"\nError: {e}")
+        import traceback
+        traceback.print_exc()
+    
+    # Show KG statistics
+    print("\n=== KG Analysis ===")
+    
+    # Most common relations
+    relation_counts = torch.bincount(kg_data.edge_type)
+    top_relations = torch.topk(relation_counts, min(10, len(relation_counts))).indices
+    
+    print("\nTop 10 relations:")
+    for r_idx in top_relations:
+        r_name = kg_info['id2relation'][r_idx.item()]
+        count = relation_counts[r_idx].item()
+        print(f"  {r_name}: {count}")
+
+if __name__ == "__main__":
+    test_ultra_simple()

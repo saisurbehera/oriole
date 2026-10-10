@@ -1,0 +1,1001 @@
+head	type	tail
+Scroll strategy	special_ability	save
+Warg	found_in	NetHack
+Hallucination resistance	grants_intrinsic	hallucination
+Enlightenment	grants_ability	give
+Rogue (player monster)	difficulty	12
+Sasquatch	found_in	NetHack 3
+Woodland-elf	alignment	chaotic
+Xorn	found_in	Monk quest
+Spellbook of drain life	appears_on_level	3-3
+Potion of amnesia	found_in	Lethe patch
+Caveman/dNetHack	appears_on_level	7-7
+Earendil	base_level	20
+Wizard (player monster)	difficulty	12
+Ogre lord	combat_rating	7.0
+Jermlaine	speed_category	fast
+Elf mummy	attack_damage	2d4
+Samurai (player monster)	found_in	NetHack
+Goblin shaman (SporkHack)	damage_type	clerical
+Doctor Frankenstein	combat_rating	2.5
+Leather armor	material	leather
+Monk	appears_on_level	17-17
+Wax golem	attack_damage	1d2
+Scroll of enchant armor	type_of	scroll
+Lynx	property	genocidable
+Stone golem	found_in	Dungeons & Dragons
+Giant shoggoth	type_of	creature
+Monk (player monster)	difficulty_category	hard
+Green-elf	attack_type	weapon
+Wand of probing	found_in	NetHack
+Pony	attack_type	kick
+Food ration	found_in	Hack 1
+Long sword	appears_on_level	5-5
+The Sceptre of Might	type_of	mace
+Ettin	speed_category	fast
+Samurai (player monster)	drops	named player monster statue behind instead of a na
+Teleport control	appears_on_level	0-0
+Elf zombie	found_in	NetHack
+Durins Bane (UnNetHack)	attack_damage	4d6
+Warrior	attack_damage	1d8
+Stormbringer	grants	+1d5
+Chicken (SLASHEM)	found_in	Lethe patch
+Growing up	appears_on_level	0-0
+Spellbook of drain life	appears_on_level	1-1
+Green dragon	special_ability	count upon his doing the former, and not doing the
+Purse	material	Gold
+Broadsword	material	iron
+Shimmering dragon (SLASHEM)	difficulty	25
+Baby deep dragon (SLASHEM)	damage_type	poison
+Straitjacket	material	cloth
+Deferred features	appears_on_level	8-8
+Giant bat	speed_category	very fast
+Helm of telepathy	found_in	NetHack
+Elven shield	found_in	NetHack 3
+Kop Lieutenant	found_in	NetHack 3
+Banded mail	material	copper
+Trollsbane	found_in	NetHack 3
+Glowing dragon	survivability_score	17
+Clay golem	found_in	Dungeons & Dragons
+Elven mithril-coat	type_of	armor_class
+Charon	has_resistance	fire resistance
+Ranger (player monster)	difficulty	12
+Zombie	found_in	NetHack
+Dark One	alignment	chaotic
+Orcish cloak/zh-CN	grants	+1 AC
+Diet	material	metal
+Rogue (game)	appears_on_level	1-1
+Charon	has_resistance	cold resistance
+Housecat	attack_damage	1d6
+Steam vortex	found_in	NetHack
+Wand of make invisible	found_in	NetHack
+Neanderthal	armor_class	10
+Baby gray dragon	special_ability	he eat
+Gray dragon scale mail	found_in	Astral Plane have a   chance of Monster starting i
+Wand of probing	type_of	wand
+Chromatic dragon scale mail (UnNetHack)	material	Dragon
+Necromancer (quest nemesis)	special_ability	protect
+Statue gargoyle	has_resistance	poison resistance
+Leather golem	type_of	monster_class
+Blue dragon scales	drops	corpse behind on death (i
+Spellbook of remove curse	appears_on_level	5-5
+Giant humanoid	found_in	Valkyrie quest
+Oilskin cloak/zh-CN	grants_intrinsic	sleep
+Black dragon	attack_damage	3d8
+Deeper one (SLASHEM)	grants_intrinsic	poison
+Archon	appears_on_level	25-25
+Rogue (player monster)	survivability_score	0
+Vampire royal	special_ability	follow
+Colonel Blood	attack_type	weapon
+Food appraisal	found_in	Hack 1
+Ochre jelly	has_resistance	acid resistance
+Gnoll warrior	base_level	24
+Aligned priest	attack_type	kick
+Corpse/ko	grants_intrinsic	the aggravate monster
+Tourist (player monster)	armor_class	10
+Fire Brand	found_in	NetHack
+Shadow wolf	difficulty	13
+Erosion	grants_intrinsic	disintegration
+Keolewa (EvilHack)	grants_resistance	shock resistance
+Arch Priest	speed	12
+Paper golem	found_in	NetHack 3
+Wizard mode ascension	type_of	dungeon branch
+Turn undead	appears_on_level	1-1
+Plains centaur	found_in	Tourist quest
+Ogre mage (HackEM)	attack_type	weapon
+Spark bug	property	genocidable
+Ogre mage (HackEM)	attack_type	spell
+Helm of telepathy	found_in	NetHack 3
+Towel	material	cloth
+Yellow light	has_resistance	fire resistance
+Speed boots	found_in	NetHack
+Solar	magic_resistance	80
+Kop Kaptain	combat_rating	7.0
+Polypiling	material	mineral
+Mugger	speed_category	fast
+Gray dragon	special_ability	he eat
+Arc bug	combat_rating	5.0
+Gnoll warrior	type_of	monster_class
+Geryon	found_in	Gehennom
+Sandestin	type_of	creature
+Attendant	found_in	massacre themed rooms
+Gnome zombie	has_resistance	sleep resistance
+Dwarf (monster)	found_in	NetHack
+Stone giant	found_in	NetHack 3
+Red naga hatchling	attack_type	bite
+Orc-captain	armor_class	10
+Rogue (player monster)	difficulty_category	hard
+White dragon scales	drops	corpse behind on death (i
+Plains centaur	speed	18
+Woodland-elf	magic_resistance	10
+Zombie	found_in	Hack 1
+Scorpion	found_in	Ranger quest
+Armr-343.txt	grants	reflection
+Father Dagon	attack_type	claw
+Create pool	special_ability	prevent
+Robe/zh-CN	size	large
+Polypiling	material	the
+Spellcasting	appears_on_level	3-3
+Carnivorous ape	found_in	NetHack 3
+Large cat	speed_category	fast
+Lord Carnarvon	attack_type	weapon
+Ettin mummy	has_resistance	poison resistance
+King Arthur	combat_rating	3.5
+Asphynx	appears_on_level	4-4
+Spark bug	has_resistance	poison resistance
+King Arthur	alignment	20
+Kobold shaman	found_in	NetHack
+Dragon rider	appears_on_level	21-21
+Minion	appears_on_level	1-1
+Gray ooze	found_in	NetHack 3
+Wand of striking	appears_on_level	6-6
+Giant wasp	also_known_as	Giant wasp
+Rust monster	found_in	Hack for PDP-11
+Kobold zombie	survivability_score	2
+Baby shimmering dragon (SLASHEM)	found_in	SLASHEM and SlashTHEM
+Yellow dragon scale mail	grants_intrinsic	stun
+Warg	speed_category	fast
+Ring of hunger	found_in	Hack 1
+Potion of extra healing	found_in	Hack 1
+NetHack 3.0.6	drops	potion of water on an altar and it immediately bec
+Baby silver dragon	difficulty_category	hard
+Ogre mage (SLASHEM)	attack_type	weapon
+Gnome zombie	found_in	NetHack 3
+Turn undead	appears_on_level	25-25
+Healer/SLASHEM	appears_on_level	4-4
+Leather golem	material	inanimate
+Archeologist	type_of	little dog or kitten with equal probability
+Mordor orc	grants	poison resistance
+Hack 1.0.3	appears_on_level	30-30
+Sandestin	attack_type	weapon
+Ettin mummy	speed_category	fast
+Leocrotta	speed	18
+Stone golem	difficulty	15
+Red naga	type_of	monster_class
+Crossbow	grants_resistance	fire resistance
+Garter snake	found_in	level creation
+Shadow ogre (HackEM)	difficulty	13
+Spear	found_in	Hack 1
+Ninja	armor_quality	poor
+White dragon	special_ability	he eat
+Barking spider	found_in	level creation are given a random item to hide und
+Rust monster	found_in	Ice Mage quest
+Warhorse	speed_category	very fast
+Chieftain	speed	12
+Bugs in NetHack 3.4.3	special_ability	leave
+Ninja (role)	found_in	SlashTHEM
+Vampire bat	found_in	locate level
+See invisible	special_ability	apply it: monsters with potions of invisibility wi
+Byakhee (SLASHEM)	found_in	Wizard quest
+Grayswandir	found_in	NetHack
+Ettin	drops	behind ettin corpses upon death
+Mysterious force	special_ability	often push
+Drider (EvilHack)	grants	each (16%) of Partial intrinsic
+Amulet of strangulation	found_in	one of six particular squares on the locate level 
+Vampire bat	found_in	NetHack
+Shocker (artifact)	grants_intrinsic	shock
+Edderkop	found_in	dNetHack and notdNetHack
+Ring	special_ability	get a message that can help
+Sasquatch	attack_type	claw
+Standard strategy (SpliceHack)	grants	a bonus
+Elven mithril-coat	grants	Magic cancellation (3
+Fox	also_known_as	fox
+Dwarvish iron helm	drops	or in shops
+Large cat	speed	15
+Illurien of the Myriad Glimpses	special_ability	attempt to cast one mage dNetHack monster spells p
+Diet	grants	them nutrition
+Black naga hatchling	combat_rating	2.1
+Dwarvish iron helm	found_in	NetHack
+Iron shoes	grants	2 base AC: iron shoes are much easier
+Rutterkin	appears_on_level	6-6
+Baphomet (dNetHack)	type_of	fearsome presence and an embodiment of savagery
+Death (monster)	drops	corpse upon death
+Angband	can_use	not bother selling cursed items or useless stuff (
+Werespider	armor_quality	poor
+Libera	special_ability	be up again. If there is an outage and Rodney is g
+Gremlin	magic_resistance	25
+Bow	type_of	lawful bow
+Baby black dragon	special_ability	he eat
+Silver saber	type_of	artifact silver saber wielded by Daemon
+Vlad the Impaler (EvilHack)	base_level	28
+Spellbook of finger	grants	status reports on a particular computer system or 
+Hallucination	special_ability	be seen as continually changing items of the same 
+Borrow	type_of	rogue or not
+Magic harp	type_of	Magical item tool
+Throne	grants	A wish, guaranteeing it will eventually grant one,
+The Web of the Chosen	grants_intrinsic	reflection, half spell damage, and acid
+Wand of undead turning	drops	will count as non-magical tools for polypiling pur
+Pit viper	type_of	monster_class
+Lichen	alignment	neutral (0)
+Convict/EvilHack	type_of	role available to the hero
+Torch (HackEM)	type_of	tool
+Dark One	grants_resistance	magic resistance
+Warg	alignment	chaotic
+The Wyrm Caves	type_of	narrow cavernous path a few   and the down stairs hidden behind a group of boulders
+Drow Racial quest	special_ability	test
+Queen bee	eating_effect	Corpse or tin has a   chance of granting poison re
+Charon	attack_type	touch
+Scroll of mass murder	special_ability	Want to choose a monster that
+Tin whistle	special_ability	wake nearby monsters from sleep, and if
+Stethoscope	found_in	NetHack 1
+Wand of wishing	type_of	wand
+Healer (player monster)	found_in	Astral Plane
+Wan1-343.txt	causes_paralysis	freeze potions in
+Orcus	has_resistance	fire resistance
+Acid resistance	type_of	property
+Barbarian/SLASHEM	appears_on_level	15-15
+Firearm	eating_effect	for firearms
+Lesser homunculus	grants_intrinsic	each (+6%) of Partial
+Wand of make invisible	eating_effect	One while already invisible will grant the see inv
+Chunk of fossil dark	type_of	gem
+Gollum	eating_effect	raw fish
+Drow (starting race)	material	Adamantine
+Werepanther	eating_effect	Corpse or tin will be given lycanthropy
+Object materials (EvilHack)	grants	MC3 for elves
+Tin opener	eating_effect	tin of a monster that cures stoning or in a turn-c
+Nunchaku (dNetHack)	found_in	dNetHack
+Healer quest/dNetHack	drops	this place
+Wan1-343.txt	drops	pit
+Green-elf	has_resistance	sleep resistance
+Ring of conflict	can_use	only use their breath weapons against
+Need +x weapon to hit	deals_damage	damage a monster and
+Ice	eating_effect	is a common means of traversing water in areas suc
+Compiling	special_ability	find one that is a close fit for
+Spl2-343.txt	special_ability	warn
+Silver bullet	special_ability	Definitely want to consider using them against ear
+Galltrit	attack_damage	1d6
+Master of Thieves	alignment	&minus;20
+Hill orc	alignment	&minus;4
+Magic resistance	can_obtain	steal any quest artifact, not just
+Stethoscope	found_in	NetHack
+Skeleton warrior	found_in	graveyards
+Gold (material)	eating_effect	jewelry for their intrinsics
+Plague (HackEM)	type_of	Orcish bow
+Bracers	when_equipped	on the forearms
+Ice box	found_in	Hack 1
+Monadic deva (SLASHEM)	type_of	shield of reflection   of the time and a large shield otherwise
+Water demon	type_of	Chance of a water demon summoning juiblex or yeenoghu via demon gating
+Yellow light	combat_rating	131.2
+Drow (starting race)	appears_on_level	9-9
+Robe/zh-CN	found_in	SLASHEM and its variants is body armor that works
+Giant mummy	alignment	&minus;7
+Destroy armor (monster spell)	appears_on_level	9-9
+Dragonbane	type_of	broadsword
+Grund the Orc King	has_resistance	poison resistance
+Dragon (SpliceHack)	grants	sickness resistance, and are often a target of wis
+Grey-elf	survivability_score	4
+Cleaver	can_obtain	take several attempts), and blocking them off usin
+Ranger (player monster)	also_known_as	File:Ranger.png
+Beholder (dNetHack)	also_known_as	beholder
+Cloak of protection	grants	3 AC and 3 DR while worn, and can be safely enchan
+Grappling hook	when_equipped	regardless of size
+Eat	eating_effect	comestible items whenever they become hungry
+King Arthur	grants	him the artifact Excalibur
+Amulet of life saving	special_ability	be extremely aggravating having an amulet of life 
+Elvenqueen (dNetHack)	found_in	dNetHack
+Tinning kit	found_in	floor
+Master mind flayer	eating_effect	ttacks
+Charon	speed_category	very fast
+Skeleton warrior	type_of	humanoid undead monster
+Rock	size	Tiny
+Draugr (starting race)	type_of	playable race of monster
+Drum of earthquake	found_in	NetHack 3
+Wumpus	special_ability	fall into upon entering, while two others contain 
+Elf-lord	property	genocidable
+Zen	special_ability	speed up the process of re-acquiring items
+Sea dragon scales	drops	corpse behind on death (i
+Barbed devil	combat_rating	7.5
+Dying	special_ability	have
+Trap	special_ability	improve
+Silver dragon scale mail	found_in	Astral Plane have a   chance of Monster starting i
+Gnoll (dNetHack)	found_in	Gehennom
+Partisan	material	iron
+Uruk-hai	material	yew
+Sheol	special_ability	both melt ice
+Incantifier (starting race)	grants	500 energy
+Human (starting race)	type_of	Constant for any human hero
+Wand of death	type_of	powerful type of wand
+Dimensional lock	type_of	Magic item tool
+Plague (dNetHack)	type_of	bow made of bone
+Athame/zh-CN	type_of	lawful Intelligent artifact athame
+Jumbo the Elephant	has_resistance	petrification resistance
+Owlbear	type_of	monster_class
+Death resistance	grants	this immunity
+Abbot	found_in	massacre themed rooms
+Wizards Tower (EvilHack)	found_in	lava behind the west and east outposts
+Shock	type_of	monster engulfing the hero
+Spellbook of fireball	type_of	wand
+Ring strategy	when_equipped	by itself
+Magic lamp	found_in	Black market (SLASHEM)
+Enlightenment	grants_ability	also give
+Ninja (role)	grants_intrinsic	drain
+Disintegration resistance	grants_resistance	disintegration resistance
+Rust monster	material	iron
+Lump of royal jelly	type_of	comestible
+Touchstone	drops	scratch marks
+Throwing axe	type_of	weapon_class
+Rogue (game)	drops	corpses or leave behind food rations
+Shield	grants	reflection
+Uranium imp (UnNetHack)	special_ability	be ignored   of the time, and the remainder of the
+Peaceful	special_ability	become peaceful instead. This includes all human (
+Expensive camera	found_in	bones piles
+Father Dagon	attack_damage	6d6
+Jelly (SLASHEM)	grants_ability	actually give
+Rodent of unusual size (DynaHack)	type_of	monster_class
+Umber hulk (monster class)	type_of	monster class
+Cerberus (dNetHack)	grants	Temporary intrinsic for a duration of 16,000 turns
+Sling	grants	Warning of giants in addition
+Halberd/zh-CN	type_of	unaligned artifact halberd
+Bow	type_of	weapon_class
+Blood imp (SLASHEM)	drops	corpses
+Throne room	found_in	NetHack 1
+Hippocrates	attack_type	weapon
+Embraced drowess	found_in	dNetHack
+Worm tooth	found_in	Hack 1
+Zombie	appears_on_level	6-6
+Artifact blast	special_ability	only blast
+Bag of the Hesperides	type_of	artifact
+Potion of object detection	when_equipped	by monsters are also detected
+Keolewa (SporkHack)	grants_intrinsic	A +1d5 bonus to-hit and a +1d6 bonus to damage versus all monsters, and grants shock
+Wand of make invisible	type_of	wand
+Short sword	type_of	spirit
+Giant scorpion	special_ability	help mitigate their threat. Be very careful not to
+Movanic deva (SLASHEM)	difficulty	21
+Arachnid or centipede	type_of	monster class
+TalGath	special_ability	slow
+Displacement	type_of	property of somewhat similar use
+Orcish shield	material	iron
+Spellbook of drain life	when_equipped	or wielded
+Scale mail	when_equipped	by many cultures
+Archeologist/SLASHEM	grants	a +1 charisma bonus and Luck item
+Wizards Tower (EvilHack)	found_in	marked locations
+Dispater	difficulty	40
+Lethe Gorge	appears_on_level	8-8
+Potion of object detection	type_of	potion
+Grimtooth	type_of	artifact weapon
+Tourist quest/dNetHack	special_ability	find
+Amulet of strangulation	when_equipped	cursed amulet of strangulation and abort strangula
+Unwinnable	special_ability	be destroyed like any other item (e.g. eaten by a 
+Pegasus	attack_damage	2d10
+Pet (dNetHack)	special_ability	Easily find and enchant a full set of armor for it
+Deep dragon (dNetHack)	found_in	dNetHack
+Polypiling/ko	eating_effect	golem
+EvilHack	grants	warning
+Quest	special_ability	not turn to flee like other monsters do. Quest lea
+Demon (monster)	found_in	graveyards
+Frankensteins Lab	found_in	SLASHEM and SlashTHEM
+Snark (EvilHack)	type_of	particular variety of snark
+Ninja (role)	grants	drain resistance while carried, and can be invoked
+Potion of clairvoyance	can_use	be useful if
+Spellbook of turn undead	appears_on_level	6-6
+Amulet of magical breathing	type_of	amulet
+Hits creatures as +x weapon	summons_creature	summon such as minotaurs and mastodons. Conflict s
+Treasury golem	drops	2-8 random valuable gems and 299-400 gold pieces (
+Engraving	special_ability	Get multiple instantaneous engraves per game turn,
+Stone dragon scale mail	grants	9 base AC and stoning resistance
+Altar farming	special_ability	avoid crowning by breaking a mirror and putting aw
+Cockatrice nest	drops	ll or some of them alone
+Illithanachronounbinder	eating_effect	ttacks
+Rabid rabbit	speed_category	very fast
+Shade	special_ability	leave
+Pacifist	type_of	bug
+Wand of teleportation	type_of	wand
+Atheist	special_ability	no longer stack with unIDed items of its type and 
+Dark elven bow (SLASHEM)	type_of	launcher
+Demogorgon	causes_paralysis	stun
+Spl2-343.txt	drops	pit
+Pet (dNetHack)	appears_on_level	15-15
+Chromatic dragon scale mail (UnNetHack)	drops	scales
+Spellbook of insulate	grants_resistance	shock resistance
+Body parts	when_equipped	weapon makes it impossible to put on or remove a r
+Nighthorn (dNetHack)	type_of	artifact
+Dwarvish mattock	found_in	NetHack 3
+Zruty	property	genocidable
+Storm	special_ability	Rotproof, enchant (+2 or more), bless and get high
+Club	material	wood
+Maid	drops	the camera with 60-75 charges
+Diet	special_ability	open a tin of food.
+Ochre jelly	attack_type	passive
+Baby deep dragon (SLASHEM)	type_of	Juvenile deep dragon
+Container	found_in	Hack 1
+Magical eye	also_known_as	magical eye
+Hell	found_in	NetHack 3
+The Star of Hypernotus	type_of	random_generation
+Kobold zombie	property	genocidable
+Ring strategy	special_ability	eat (which mostly means vegan or vegetarian Monk),
+Cloak of invisibility/zh-CN	grants_intrinsic	magic
+Copper	eating_effect	jewelry for their intrinsics
+Solar	found_in	SLASHEM
+Wand of lightning	can_use	be useful to blast apart annoying wands in a hosti
+Ogre mage (SpliceHack)	attack_damage	0d0
+Acolyte	speed_category	fast
+Horn of plenty	material	bone
+Special level (SLASHEM)	appears_on_level	21-21
+Mirror	found_in	NetHack
+Glob	grants_intrinsic	a set of
+Automatic searching	appears_on_level	9-9
+Mithril	material	the
+Kobold mummy	type_of	mummified kobold
+Jelly (SLASHEM)	eating_effect	a yellow jelly will cause hallucination in additio
+Dwarvish mattock	grants	any dwarven hero in a role that would start with a
+Ninja (role)	also_known_as	Jaquio
+Carrot	grants	50 nutrition and cures all forms of blindness from
+Goblin	type_of	monster_class
+Convict/dNetHack	type_of	sewer rat named Nicodemus
+Water walking boots	grants	cold resistance while worn, add +1
+Cthulhu	grants	you time
+Green-elf	survivability_score	4
+Poison resistance	special_ability	pray and
+Sword of Balance (SLASHEM)	found_in	SLASH 6
+The Mantle of Wrath	found_in	dNetHack and notdNetHack
+Auton	found_in	small groups
+Giant eel	found_in	locate level
+Binder quest	causes_teleport	be dislodged with a wand of teleportation, but bec
+Ranger/dNetHack	grants	+1d5
+Lizard	alignment	neutral (0)
+Ring-343.txt	eating_effect	ring
+Dragon (SpliceHack)	grants_resistance	disintegration resistance
+Dwarvish chain mail	found_in	EvilHack and HackEM
+Ice Mage quest	special_ability	help
+Scroll of change material	when_equipped	item being targeted
+Alhoon (EvilHack)	type_of	monster_class
+Potion of acid	grants	the same message as acid in some circumstances, mo
+Poison	type_of	damage type
+Shirt	type_of	armor_class
+Guard dog	found_in	two forms: war dogs are simply loyal large dogs tr
+Xorn (monster class)	found_in	Monk quest
+Ring mail	found_in	NetHack
+Baby purple worm	found_in	NetHack
+Baby purple worm	alignment	neutral (0)
+Blue dragon	armor_class	-1
+Nurse dancing	combat_action	hit
+Warrior	magic_resistance	10
+Squealer	attack_type	sting
+Ring-343.txt	grants_intrinsic	sleep
+Artifact	found_in	Astral Plane
+Ancient naga	grants	Temporary intrinsic for a duration of 20,000 turns
+DNetHack artifacts	grants	telepathy
+Archaic plate mail	found_in	Rlyeh
+Wizards Tower	causes_teleport	level teleport up two levels and
+Ghost	found_in	Rogue level
+Boots	type_of	form of armor worn on the feet
+Barding	found_in	EvilHack and HackEM
+Gallop	special_ability	be made to gallop by kicking or applying a w
+Potion of sickness	special_ability	coat the stack of projectiles in poison, using up 
+Throne	drops	ll your gold
+Mercurial	when_equipped	in the main hand or worn as gloves (i
+Encumbrance	drops	the container if you are attacked
+Water walking boots	type_of	set of boots
+What is	special_ability	be quite helpful to new players still learning wha
+Alignment record	grants_ability	Grant a favor.  the set of possible favors (includ
+Rutterkin	eating_effect	waves of immobilizing terror
+Scale mail	when_equipped	Scale mail may not grant any mc
+Paralysis	causes_paralysis	also be paralyzed in NetHack, a prime example bein
+Ring of cold resistance	special_ability	be worthwhile to safely traverse the Ice Queens R
+Minion	type_of	function of your level and the RNG
+Celestial dragon	grants	+50% ( ) Partial intrinsic
+Ranger	found_in	NetHack 3
+NetHack 3.0.5	appears_on_level	30-30
+Neverwas	found_in	Anachrononaut quest
+Dragon (SpliceHack)	special_ability	Butt with. green dragons stalk
+Diet	special_ability	eat whatever that monster type can eat, in additio
+Attendant	armor_class	10
+Locust	found_in	EvilHack
+Flying	grants	almost all of the benefits of levitation with none
+Simurgh	when_equipped	gloves) against iron-hating monsters deal 1dML dam
+Throwing axe	material	iron
+Rust monster	type_of	special room
+Flail/zh-CN	appears_on_level	16-16
+Dwarf (monster)	drops	n aged dwarf corpse behind upon death
+Lycanthropy	causes_polymorph	randomly polymorph into their animal form: during 
+Scroll	special_ability	contradict the above precautions:
+Lord Sato	base_level	20
+Altar	can_use	be used to deliberately lower luck or alignment re
+Elven leather helm	found_in	NetHack 3
+Player	grants	a limited interaction with other (former) players
+Keolewa (EvilHack)	found_in	a variety of prayers
+Leprechaun wizard	property	genocidable
+Swamp nymph	also_known_as	swamp nymph
+Red naga	alignment	chaotic
+Leather cloak	type_of	armor_class
+Potion of starlight	when_equipped	utility belt can protect potions in the open inven
+Colonel Blood	difficulty_category	very hard
+Goblin	found_in	Hobbit quest as well
+The Staff of Aesculapius	grants_intrinsic	hungerless regeneration and drain
+What is	special_ability	be able to get additional information.  In this ca
+Celestial dragon scales	grants_intrinsic	5 more base AC, flying, sleep
+Spellbook of dig	grants	the faster wand of digging and a chance for a pick
+Potion of unholy water	type_of	potion
+Mummified hand	type_of	armor_class
+Gug (dNetHack)	grants	insight and weakens a heros sanity
+Splint mail	found_in	media that draws from the era
+Water walking boots/zh-CN	grants	displacement
+Stone golem	attack_damage	3d8
+Protection	found_in	list of attributes seen with enlightenment but doe
+Earendil	difficulty_category	hard
+Ninja	found_in	goal level at level creation
+Ring of stealth	type_of	ring
+Samurai/SLASHEM	can_use	never use it, but it can be useful if
+The Apple of Discord	type_of	apple made of gold
+Shop	type_of	special room
+Warrior	type_of	creature
+Bracers of the First Circle	type_of	artifact
+Droven plate mail	found_in	home level of any drow-related quest other than th
+Shoggoth (dNetHack)	type_of	creature
+Ring of poison resistance	grants	very fast speed, and is the reward for completing 
+Stethoscope	material	iron
+Chained blitz	appears_on_level	10-10
+Amulet of Yendor	found_in	Rogue level
+Statue	can_use	find it useful to break every statue located deepe
+Snow ant	found_in	SLASHEM
+Beholder (dNetHack)	type_of	large Eye or sphere creature
+Ring of warning	special_ability	not auto-identify it and its base cost of 100zm is
+Heavy hammer (SLASHEM)	found_in	bones
+Slime mold	grants	250 nutrition and is consumed in a single turn; th
+Small shield	grants	1 base AC and 0 DR while worn
+Corridor	special_ability	establish a circuit, a series of rooms and corrido
+Lycanthrope (starting race)	can_use	wear
+Armor of Retribution	when_equipped	Dragon scales
+Dungeons of Doom	appears_on_level	21-21
+Thiefstone	found_in	that spot
+Amulet of reflection	eating_effect	jewelry an amulet of reflection will have no effec
+Clockwork Automaton (starting race)	grants	resistances
+Baby green dragon	difficulty	13
+Rothe	found_in	Gehennom
+Arch-lichen	has_resistance	fire resistance
+Water moccasin	speed_category	fast
+Fire elemental	attack_damage	0d4
+Spellbook of passwall	grants_intrinsic	temporary
+Sting	special_ability	also inadvertently preclude all sacrifice gifts if
+Scroll of enchant armor	found_in	Hack 1
+Hit and run	type_of	tactic used for fighting monsters
+Green-elf	found_in	NetHack
+Statue gargoyle	appears_on_level	3-3
+Roshi	combat_rating	4.5
+Intrinsic protection	special_ability	not lose
+Elf zombie	found_in	Priest quest
+Rogue	special_ability	easily be obtained in bulk from dart traps and poi
+Manes	has_resistance	poison resistance
+Amulet of life saving	eating_effect	ttack
+Mordor orc	type_of	monster_class
+Gnoll	found_in	Many variants of nethack
+Elbereth	special_ability	blind
+Peasant	drops	will be of little use to a well-equipped Noble
+Player monster	found_in	Astral if they generate in Gehennom
+The Computer Level	drops	the level with them
+Wand of create monster	special_ability	have to face down several more monsters unless
+Electric Mage quest	type_of	artifact
+Mastodon	alignment	neutral (0)
+Cannibalism	eating_effect	corpses from your own race is avoidable enough tha
+Angband OpenSource Initiative	grants	copies of Angband and NetHack
+T-shirt	when_equipped	T-shirt will cause the shopkeeper to charge an ext
+Spellbook of dig	grants	the same benefits and the ability
+Kuker	special_ability	be set to 3. Adds the Object_properties#Weapons, r
+Ogresmasher	found_in	NetHack
+Acid resistance	grants_resistance	acid resistance
+Ochre jelly	generation_chance	14%
+NetHack brass	reflects_attack	choose from an amulet of reflection, bag of holdin
+Mithardir Quest	found_in	these levels
+Orcish chain mail	when_equipped	by other races
+Drain for gain	special_ability	find
+Arachnid or centipede	found_in	each of the lower filler level(s)
+Sabre-toothed cat	alignment	neutral (0)
+Wand strategy	grants	you the speed intrinsic
+Cloak of invisibility	can_obtain	take a to-hit penalty and attack squares where the
+War hat	armor_bonus	2 + 2 DR
+Kop Sergeant	armor_quality	poor
+Lycanthrope (starting race)	can_use	use Monster (command) at the cost of 10 power to s
+Arc bug	alignment	neutral (0)
+Treasury golem	type_of	lawful type of golem
+Crysknife	material	mineral
+Norn	attack_damage	1d8
+Shadow wolf	also_known_as	shadow wolf
+Amulet of strangulation	eating_effect	n amulet of strangulation while in the form of a m
+Alhoon (EvilHack)	drops	corpse
+Bow/zh-CN	type_of	spirit
+Shaman Karnov	difficulty_category	very hard
+Pit	can_use	be useful for hunting unicorns, controlling aligne
+Statue	found_in	NetHack
+Colonel Blood	alignment	chaotic
+Gecko	found_in	NetHack
+Amulet of magic resistance	appears_on_level	20-20
+Instant death	special_ability	result in
+NetHack 3.6.0	special_ability	wake up prematurely if a hostile spellcaster casts
+Teleport control	appears_on_level	17-17
+/dev/null/nethack tournament	appears_on_level	2-2
+Dwarvish roundshield/zh-CN	grants	3 AC, 0 DR and MC1 while worn, and its weight is r
+Dented pot	grants	1 base AC
+Free action	special_ability	only affect
+Wishless	grants_resistance	magic resistance
+Xorn monk	found_in	each of the lower filler levels
+Itlachiayaque (HackEM)	grants	confers ESP, fire resistance and half spell damage
+Ettin mummy	combat_rating	7.0
+The Staff of the Archmagi	grants	magic resistance, blocks   of curse items and othe
+Plane of Water	special_ability	continually merge and divide, so
+Sting	found_in	NetHack 2
+Book of the Dead	cost	10000
+Gnoll matriarch	found_in	dNetHack
+Hunter	type_of	monster
+Word of Creation	can_use	be used for free each move.  Note that this is the
+Wand strategy	can_use	be wielded as a weapon in the early game before
+Really Cool Shirt	type_of	artifact
+Parazonium	eating_effect	collection if your role specializes in daggers
+The Stake of Van Helsing (SLASHEM)	grants	magic resistance while carried
+Book of the Dead	can_obtain	auto-identify it in either case.   It takes 2 acti
+Chemistry set	can_obtain	explode (You seem to have made a mistake!) deali
+Orc-captain	found_in	NetHack
+Rumor messages	type_of	Elven broadsword
+Large kobold	alignment	chaotic
+Black light	grants_resistance	hallucination resistance
+Pit viper	found_in	Gehennom compared to SLASHEM
+Riding	special_ability	leave
+Shoggoth (SLASHEM)	can_use	use a wand of digging or   spell to escape the sho
+Orc mummy	magic_resistance	20
+Ring of alacrity	found_in	dNetHack
+Scroll of acquirement	found_in	same manner as ordinary items on the floor
+Potion of radium	special_ability	induce
+King Arthur	attack_damage	1d6
+Smoky and milky potions	special_ability	be fatal if trying to quaff
+Dark One	speed_category	fast
+The Dragon Caves	appears_on_level	1-1
+Oilskin cloak/zh-CN	causes_teleport	warp
+Simurgh	grants_intrinsic	shock
+The Storm Whistle	grants_resistance	fire resistance
+Status hilites	special_ability	display colors regardless of whether
+Giant (monster)	attack_type	weapon
+Base item	found_in	all
+Vecna (HackEM)	found_in	HackEM
+Variant	type_of	Variant of nethack 4
+Pit viper	found_in	level creation
+Rodent	found_in	filler levels and goal level
+Athame	grants_intrinsic	+1d5 to-hit and +1d10 against monsters which are MT HOSTILE, Warned of monster type while carried and has a   chance to cancel them on hit, subject to Magic
+Owlbear	speed	12
+Wand of draining (SLASHEM)	special_ability	be very difficult to regain.  It is for this reaso
+Sandestin	type_of	monster_class
+Guardian naga hatchling	found_in	NetHack 3
+Caveman/SLASHEM	grants_resistance	magic resistance
+Scroll of antimagic	grants	temporary magic resistance for 400 more turns, but
+Earendil	frequency	Unique
+Pony	also_known_as	pony
+Vecnas Domain	special_ability	make quick work of most threats and works as a ver
+Drow (starting race)	type_of	generally useful aid for quickly navigating lit rooms
+Axe	found_in	NetHack
+Lucifer (EvilHack)	type_of	unique monster
+Spellbook of detect monsters	special_ability	reveal mindless monsters, and does so across the e
+Weeping angel (dNetHack)	also_known_as	weeping angel
+Dwarvish mithril-coat	grants	Magic cancellation (3
+Black dragon scales	drops	behind scales
+Monk/EvilHack	when_equipped	at the start of the game to avoid immediately brea
+Statue trap	type_of	trap
+Clairvoyance	special_ability	occur with 50% probability every 15th turn, unless
+Life saving	when_equipped	amulet of life saving
+Silver arrow	grants_intrinsic	drain
+Tinker	special_ability	fail to upgrade the object if
+Asmodeus (EvilHack)	found_in	Dungeons & Dragons
+Kick	type_of	alternative to digging the object loose
+Stackable	special_ability	automatically stack with another item of the same 
+Leather drum	special_ability	find it worthwhile to carry is the Knight, as it c
+Water walking boots	grants	displacement
+Acid Mage quest	special_ability	control minds!
+Shapeshifter	special_ability	randomly alternate between their human and animal 
+The Tsurugi of Muramasa	grants	protection or magic cancellation
+Archeologist	special_ability	carry
+Goblin shaman (SporkHack)	survivability_score	0
+The Staff of the Archmagi	found_in	EvilHack
+The Web of Lolth	grants_resistance	magic resistance
+Orc mummy	combat_rating	2.9
+Tin whistle	special_ability	sometimes help
+Yeenoghu	base_level	25
+Archnemesis	special_ability	miss, or she may wake up before
+Falling rock trap	type_of	trap
+Amulet	grants	level drain resistance
+Damage type	when_equipped	helm (  of the time)
+Ice vortex	has_resistance	poison resistance
+Lurker above	alignment	neutral (0)
+Wet	special_ability	only drown if
+Dread seraph	special_ability	allow
+Asbestos jacket	found_in	SLASH 6
+Nightgaunt (dNetHack)	eating_effect	nightgaunts corpse or tin or quaffing its Potion 
+Moldy pudding	type_of	Pudding or ooze
+Ring of invisibility	found_in	NetHack
+Nightgaunt (dNetHack)	grants	Temporary intrinsic for a duration of 8,000 turns 
+Curse items	special_ability	become welded to
+Cornuthaum	when_equipped	on the torso
+Shadowblade (EvilHack)	material	Adamantine
+Ogresmasher	type_of	war hammer
+Tiger	attack_type	bite
+Levitation boots	found_in	Healer quest and Medusas Island
+Dragon (SLASHEM)	grants	drain resistance while worn, which make them an id
+Dragon (SLASHEM)	found_in	Dragon lairs and the wyrm caves
+Ruby golem	material	inanimate
+Healer/SLASHEM	drops	the amulet slot open for choices such as
+Galltrit	alignment	chaotic
+Poison cloud	found_in	NetHack
+Axe	found_in	Hack121 and Hack for PDP-11
+Arcadian avenger	type_of	being
+Water walking boots/zh-CN	grants	cold resistance while worn, add +1
+Hit and run	can_use	use each turn it gets for either movement or attac
+Yog-Sothoth	appears_on_level	27-27
+Giant bat	found_in	NetHack 3
+Gold dragon	when_equipped	dwarvish cloak protects inventory from fire and he
+Secespita	material	copper
+Protection	grants	you extrinsic protection
+Elven leather helm/zh-CN	grants	+1 AC
+Human (monster)	speed_category	fast
+Cornuthaum	material	cloth
+Snake	found_in	level creation are given a random item to hide und
+Plane of Fire	found_in	dry land
+Monster (HackEM)	eating_effect	ttacks
+Scroll of enchant armor	when_equipped	armor until they can find a way to protect it agai
+Wan2-343.txt	special_ability	also affect objects in
+Wan1-343.txt	found_in	wall! (secret door
+Potion of see invisible	grants	the potions much more use in the long-term
+Speed boots	when_equipped	speed boots give a character an extra six movement
+Wand of light	found_in	Hack 1
+Mummy wrapping	found_in	NetHack
+Maid	type_of	monster_class
+Stomping boots	grants_ability	give
+Kobold (monster class)	material	the
+Binder	found_in	Binder quest
+Studded leather armor	type_of	body armor
+Erinys	attack_type	poisonous
+Warg	type_of	stronger relative to the wolf and can be seen via infravision
+Large spider	grants_intrinsic	(5%) Partial
+Hobbit	type_of	fictional race of people
+Towel	found_in	NetHack
+Flaming sphere	has_resistance	fire resistance
+Horse	speed_category	very fast
+Vlads Tower	eating_effect	formidable Cerberus can access the tower
+Avatar of Lolth	found_in	dNetHack
+Flying	special_ability	stop flying until
+Potion of radium	special_ability	never lower
+Far look	special_ability	also display any name
+Gnoll ghoul	found_in	Various types of fantasy media
+Grid bug	alignment	neutral (0)
+Ring of free action	drops	thrown potions to contend with
+Scroll	grants	the greatest number of magic marker charges requir
+Ice vortex	has_resistance	stoning resistance
+Scorpion	special_ability	be a nasty surprise for the unprepared low-level c
+Zen	special_ability	be slow and tedious, especially in the early game.
+Plane of Fire	special_ability	Probably want confusion gold detection to distingu
+Gold dragon (EvilHack)	type_of	monster_class
+Crystal plate mail	found_in	one of the niches on the middle floor of Vlads To
+NetHack 3.0.3	appears_on_level	30-30
+Horned devil	attack_type	sting
+Des-file format	special_ability	set up to 10 coordinate-pair registers, which
+Keolewa (EvilHack)	grants_intrinsic	shock
+Scorpius	attack_type	sickness
+Lycanthropy	special_ability	get them between
+TNNT (the game)	type_of	small side quest
+Stone dragon scale mail	grants_resistance	stoning resistance
+Tool-343.txt	special_ability	only be effective 1/3 of the time.
+Dungeon Growths	drops	single ripe fruit comestible onto an adjacent ti
+Dingo	speed_category	fast
+Recover	grants	the exit command after a Ctrl-Z, youll probab
+Grey-elf	armor_quality	poor
+Bone devil	appears_on_level	25-25
+Argentum golem	type_of	monster_class
+The Eye of the Beholder	special_ability	bring up a prompt asking
+Sea monster	material	the
+Illithanachronounbinder	drops	often-useful items that make it worthwhile
+EvilHack	grants	knockback resistance
+Cleaver	found_in	ground or as a death drop has a base   chance of b
+Oil lamp	special_ability	remain on for for 1000 to 1499 turns; they can be 
+Dragon-scaled armor	grants	The hero a set of dragon scales of the same color,
+Scare	can_use	be useful in many cirumstances. A fleeing monster 
+Flail/zh-CN	when_equipped	or used to attack
+Two-handed sword/zh-CN	grants_resistance	blindness resistance
+Bracers of the First Circle	grants_intrinsic	Telepathy. while worn, they grant stoning
+Amulet of magical breathing	special_ability	help
+Gnomish wizard	speed_category	normal
+Potion of speed	grants	permanent intrinsic speed
+Rope golem	found_in	NetHack
+Sanity	special_ability	receive their effects. For example, every turn tha
+Brass lantern	material	copper
+Scroll of enchant weapon	special_ability	Even continue enchanting the +9 daggers one by one
+The Computer Level	drains_attribute	disappear from
+Shocking sphere	special_ability	also be made to miss if
+Cancellation	special_ability	become #Cancellation of objects. Breaking a wand o
+Rock troll	found_in	Norse mythology and later Scandinavian folklore
+Red mold	has_resistance	fire resistance
+Abbot	attack_type	kick
+Grund the Orc King	frequency	Unique
+The Magic Mirror of Merlin	base_item	mirror
+Mirrorbright	base_item	shield of reflection
+Potion of acid	when_equipped	or thrown potion deals the same amount of damage t
+Tenebrous	grants_intrinsic	drain
+Rust monster or disenchanter	found_in	NetHack
+Hill giant	combat_rating	7.5
+Black naga hatchling	also_known_as	Image:Black naga hatchling.png
+Sokoban (SLASHEM)	appears_on_level	1-1
+Giant (monster)	also_known_as	Giant
+Things To Do If Youre Going to Die Next Turn	special_ability	probably save
+Two-handed sword/zh-CN	grants	acid resistance
+Bane	grants	you warning of targeted monster types; UnNetHack a
+Cloak of magic resistance	grants	MC2 while worn
+Hole	special_ability	be dragged after
+Stormbringer	found_in	bones
+Dragon (monster)	grants	fire resistance
+Neanderthal	special_ability	not turn to flee like other monsters do. Quest lea
+NetHack 3.0.6	appears_on_level	30-30
+Vorpal jabberwock (monster)	type_of	monster_class
+Vampire mage (SLASHEM)	drops	them edible for heroes that are not observing cond
+Polearm	found_in	Rogue level: the base odds are   for normal monste
+Kobold mummy	property	genocidable
+Tin foil hat	type_of	armor_class
+The Silver Key	found_in	lowest floor of the Neutral Quest (dNetHack)
+Kobold mummy	drops	behind an aged kobold corpse upon death
+Light source	eating_effect	tallow candles breaks vegetarian conduct
+Fog cloud	alignment	neutral (0)
+Leather jacket	type_of	body armor
+Bad egg	type_of	idiom
+Eyeball	found_in	bones containing the Eye of the Beholder or Eye of
+Orc (starting race)	appears_on_level	21-21
+Player monster	drops	behind corpses of that race if applicable
+Large spider	found_in	Ranger quest
+Spellcasting	special_ability	also view
+Scroll of genocide	type_of	small alignment record penalty for a lawful character
+Blade of Mercy	found_in	any other items in the game
+The Sceptre of Might (Fourk)	type_of	mace
+NetHack 3.0.1	found_in	possession of the Wizard of Yendor in a maze level
+Gauntlets of power/zh-CN	grants	an extra point of AC in exchange for being a heavi
+Strength	special_ability	throw a dagger 9 squares (19/2 rounded down), but 
+Aphrodite (UnNetHack)	survivability_score	17
+Small mimic	attack_type	claw
+Tool	type_of	tin whistle
+Purple worm	attack_damage	1d10
+Gnome thief	type_of	monster_class
+Wooden harp	type_of	alternate instrument for playing Drowsiness
+Healing	healing_effect	have other effects besides just healing, and many 
+NetHack 3.0.3	type_of	instadeath
+Froster	type_of	Bad Idea
+Chromatic dragon scales (UnNetHack)	type_of	armor_class
+Junethack/FAQ	special_ability	I still play? ===
+Axe	type_of	artifact axe
+Bandage	grants	up the attempt
+Knightly stances	eating_effect	it as a two-handed weapon while the stance is acti
+Large box	found_in	NetHack
+Giantslayer	found_in	NetHack
+GnollHack	grants	poison resistance
+Free	special_ability	apply secret modifications to the game to interest
+Basilisk (SLASHEM)	damage_type	stoning
+Madman quest	found_in	one of the two marked points (chosen at random)
+Potion of full healing	found_in	a specific day (i
+Gauntlets of fumbling	type_of	pair of Magical item gloves
+Large cat	found_in	Caveman quest
+Aligned priest	attack_damage	4d10
+The Treasury of Proteus	grants_intrinsic	magic
+Brain golem	type_of	monster_class
+Half-dragon (starting race)	grants_intrinsic	permanent
+Orcish dagger	weapon_skill	dagger
+Cloak of invisibility	when_equipped	Grants magic resistance and reflection in addition
+Poison cloud	grants	the poison cloud its current glyph and causes them
+Gnome (monster attribute)	found_in	bones)
+Vecna (EvilHack)	type_of	unique monster
+Gnoll (dNetHack)	type_of	creature
+Aphrodite (SLASHEM)	damage_type	steal
+Tin foil hat	type_of	possibility
+Bat	found_in	Gehennom have slightly higher speed than normal
+Hits creatures as +x weapon	appears_on_level	8-11
+Amulet of life saving	grants	regeneration and sustain ability while worn, and c
+Hobbit	found_in	Dungeons & Dragons
+Kobold shaman	alignment	chaotic
+Chemistry set	grants	the report that you were killed by an alchemic bl
+Monster detection	grants	30 (more) turns of monster detection as from the b
+Jumbo the Elephant	speed	12
+Barbarian/dNetHack	appears_on_level	14-14
+Oracle (level)	appears_on_level	5-5
+Life saving	appears_on_level	0-0
+The Magic Mirror of Merlin	type_of	artifact
+Wax golem	material	inanimate
+Wand of draining (SLASHEM)	type_of	artifact
+Knife/zh-CN	type_of	ward
+Large cat	combat_rating	6.2
+Low boots	grants	1 base AC
+Red dragon scale mail	weight	300
+Brass lantern	found_in	NetHack 3
+Warrior	armor_quality	poor
+The Sceptre of Might (SLASHEM)	grants	magic resistance
+Protection	appears_on_level	18-18
+Teleport control	grants	teleport control while carried
+Rumors	grants	you a true rumor
+Lycanthrope (starting race)	special_ability	safely carry in a single stack. Every one of the l
+Ring of conflict	type_of	minimum   chance of a monster resisting
+Yellow light	found_in	NetHack
+Sol Valtiva (dNetHack)	when_equipped	also acts as a light source
+High-elf	damage_type	clerical
+Potion of healing	healing_effect	healing
+Polymorph control	special_ability	stone
+Giant scorpion	found_in	Hack for PDP-11
+Master of Thieves	attack_damage	2d4
+Corpse	causes_polymorph	polymorph
+Enlightenment	type_of	knight or wearing jumping boots
+Arch-lichen	magic_resistance	100
+Housecat	grants	#Messages, depending on its tameness and condition
+Cold	grants	cold resistance
+Doom knight	found_in	Air Temple floor will be doom knights
+Storm giant	type_of	Giant humanoid
+Jumping spider	type_of	spider
+Ghoul queen	causes_paralysis	paralyze
+Statue trap	grants	a distinct message without activating the trap
+Drider (dNetHack)	also_known_as	drider
+NetHack Fourk	type_of	master
+Goblin King	base_level	15
+Two-handed weapons	when_equipped	by a hero or monster
+Tripe ration	deals_damage	otherwise do serious damage, allowing
+Food-343.txt	found_in	Rogue level
+Panther	speed	15
+Gemstone	found_in	NetHack
+Queen bee	armor_class	-4
+Grid bug	property	genocidable
+Locksmith	type_of	Role in the variant slashthem
+The Mitre of Holiness	grants	+1d5
+Arch-lichen	has_resistance	acid resistance
+Tin opener	special_ability	only apply a tin opener if
+Elven leather helm/zh-CN	grants	elves (including the player) an AC bonus for weari
+Artifact	found_in	square of the quest nemesis at level creation
+Corsair	found_in	SlashTHEM
+Dungeon level	grants	you a wish instead of attacking
+Protection	grants	MC1 unless you have the extrinsic
+Hobbit quest	special_ability	only show
+Chakram	found_in	dNetHack
+Barbarian (player monster)	armor_quality	poor
+Bell of Opening	found_in	NetHack 3
+Deepest one (SLASHEM)	grants	poison resistance, while in SpliceHack and HackEM
+Winter wolf	combat_rating	7.0
+T-shirt	grants	no base AC
+Crossbow/zh-CN	type_of	artifact crossbow
+Tripe ration	material	the
+GnollHack	type_of	fatal illness
+Elemental Planes	special_ability	only feel uneasy with no effect at all  if
+Bone-343.txt	special_ability	be that of
+Temporary intrinsic	grants	a temporary intrinsic the hero already has increas
+Gallop	can_use	use   and then a direction.).  Moving everywhere u
+NetHack 3.0.0	grants_resistance	fire resistance
+Large box	drops	the box alone until later on when you have better 
+Race	special_ability	never gift
+TalGath	causes_paralysis	negate this. Failing that, cold rays can freeze th
+Staircase	special_ability	be very helpful in the early game, especially in t
+Astral vision	type_of	property
+NetHack 3.7.0	grants	you teleport control on the teleport you get by re
+Eucalyptus leaf	eating_effect	non-cursed one also cures sickness and nausea
+Tiger	found_in	NetHack 3
+Gnome zombie	has_resistance	cold resistance
+Cloak of displacement	grants	Magic cancellation (3
+Silver dragon	type_of	monster_class
+Kobold	type_of	monster_class
+Wand of make invisible	grants_intrinsic	the see invisible
+Gecko	attack_type	bite
+Wand of cancellation	eating_effect	while generating contents for a randomly-created b
+Light (monster class)	found_in	NetHack
+Ring of stealth	type_of	good aid for a hero
+Scroll of enchant armor	when_equipped	Dragon scales will convert them into a dragon scal
+Leather gloves	special_ability	consider using   scrolls on
+Orion	attack_type	weapon
+Dragon scales	drops	corpse behind on death (i
+Artifact blast	can_use	only use another roles quest artifact if
+Dwarf lord	when_equipped	dwarven armor
+Witch hat	grants	protection from the acid rain monster spell
+Wand of draining	eating_effect	N amulet of drain resistance (always grants the in
+HackEM Frequently Asked Questions	special_ability	receive an alignment penalty for killing one no ma
+Loadstone	drops	the inventory

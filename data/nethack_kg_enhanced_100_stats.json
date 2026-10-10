@@ -1,0 +1,20 @@
+{
+  "total_triples": 194,
+  "unique_entities": 217,
+  "unique_relations": 13,
+  "relation_distribution": {
+    "contains": 107,
+    "type_of": 23,
+    "found_in": 17,
+    "used_for": 16,
+    "attack_type": 7,
+    "attack_damage": 7,
+    "difficulty": 3,
+    "base_level": 3,
+    "speed": 3,
+    "armor_class": 3,
+    "weight": 3,
+    "generated_in": 1,
+    "grants": 1
+  }
+}

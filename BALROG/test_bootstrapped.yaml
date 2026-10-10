@@ -1,0 +1,55 @@
+# Test configuration for Bootstrapped Agent (optimized for 1B models)
+agent: 
+  type: bootstrapped       # Use bootstrapped agent
+  remember_cot: False      # Don't need CoT for this agent
+  max_text_history: 8      # Less history needed
+  max_image_history: 0       
+  max_cot_history: 0       
+  max_icl_history: 0       
+  cache_icl: False
+
+eval:
+  output_dir: "bootstrapped_results"
+  resume_from: null          
+  num_workers: 1             
+  num_episodes:              
+    nle: 3                   # Test with 3 episodes
+  max_steps_per_episode: 200 # More steps to see exploration
+  save_trajectories: True    
+  save_images: False         
+  icl_episodes: 0
+  icl_dataset: records
+  feedback_on_invalid_action: True
+
+client:
+  client_name: openai        
+  model_id: meta-llama/Llama-3.2-1B-Instruct
+  base_url: http://0.0.0.0:8080/v1
+  generate_kwargs:
+    temperature: 0.1         # Very low for consistency
+    max_tokens: 10           # Only need short responses (A or B)
+  timeout: 30                
+  max_retries: 3             
+  delay: 1                   
+  alternate_roles: False     
+
+envs:
+  names: nle                 
+  env_kwargs:
+    seed: 42                 
+  nle_kwargs:
+    character: "@"           
+    max_episode_steps: 200   
+    no_progress_timeout: 100 
+    savedir: null            
+    save_ttyrec_every: 0     
+    skip_more: True          
+
+tasks:
+  nle_tasks:
+    - NetHackChallenge-v0    
+
+hydra:
+  run:
+    dir: .                   
+  output_subdir: null

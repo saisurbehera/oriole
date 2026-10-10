@@ -1,0 +1,211 @@
+{
+  "total_triplets": 56396,
+  "unique_entities": 30018,
+  "unique_relations": 222,
+  "unique_sources": 78,
+  "top_relations": [
+    [
+      "part of",
+      11775
+    ],
+    [
+      "has part",
+      10499
+    ],
+    [
+      "instance of",
+      7262
+    ],
+    [
+      "different from",
+      3924
+    ],
+    [
+      "subclass of",
+      3880
+    ],
+    [
+      "point in time",
+      3667
+    ],
+    [
+      "followed by",
+      2706
+    ],
+    [
+      "present in work",
+      1778
+    ],
+    [
+      "follows",
+      1651
+    ],
+    [
+      "part of the series",
+      551
+    ],
+    [
+      "characters",
+      521
+    ],
+    [
+      "publication date",
+      503
+    ],
+    [
+      "author",
+      437
+    ],
+    [
+      "opposite of",
+      375
+    ],
+    [
+      "uses",
+      361
+    ],
+    [
+      "used by",
+      322
+    ],
+    [
+      "developer",
+      312
+    ],
+    [
+      "said to be the same as",
+      261
+    ],
+    [
+      "facet of",
+      245
+    ],
+    [
+      "owned by",
+      244
+    ]
+  ],
+  "top_entities": [
+    [
+      "NetHack",
+      2336
+    ],
+    [
+      "int",
+      1783
+    ],
+    [
+      "NetHackWiki",
+      991
+    ],
+    [
+      "SLASH'EM",
+      946
+    ],
+    [
+      "monst",
+      930
+    ],
+    [
+      "mon",
+      581
+    ],
+    [
+      "EvilHack",
+      527
+    ],
+    [
+      "otmp",
+      466
+    ],
+    [
+      "mtmp",
+      429
+    ],
+    [
+      "SlashTHEM",
+      369
+    ],
+    [
+      "UnNetHack",
+      350
+    ],
+    [
+      "Hack'EM",
+      347
+    ],
+    [
+      "monster",
+      297
+    ],
+    [
+      "struct",
+      271
+    ],
+    [
+      "MON",
+      264
+    ],
+    [
+      "dNetHack",
+      227
+    ],
+    [
+      "char",
+      214
+    ],
+    [
+      "SpliceHack",
+      212
+    ],
+    [
+      "obj",
+      200
+    ],
+    [
+      "wiki",
+      192
+    ],
+    [
+      "notdNetHack",
+      187
+    ],
+    [
+      "Nethack",
+      167
+    ],
+    [
+      "REDIRECT",
+      164
+    ],
+    [
+      "M1_HUMANOID",
+      155
+    ],
+    [
+      "y",
+      154
+    ],
+    [
+      "Gehennom",
+      152
+    ],
+    [
+      "NETHack",
+      148
+    ],
+    [
+      "case",
+      148
+    ],
+    [
+      "Sokoban",
+      143
+    ],
+    [
+      "artifact",
+      142
+    ]
+  ],
+  "avg_triplets_per_source": 723.025641025641
+}

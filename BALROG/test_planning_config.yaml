@@ -1,0 +1,42 @@
+# Test configuration for planning-first agent
+defaults:
+  - _self_
+
+# Agent configuration
+agent:
+  type: planning_first
+  remember_cot: true
+  max_text_history: 8
+  max_image_history: 0
+  max_cot_history: 1
+  max_icl_history: 0
+  cache_icl: false
+
+# Client configuration for VLLM
+client:
+  client_name: openai
+  model_id: meta-llama/Llama-3.2-1B-Instruct
+  base_url: http://0.0.0.0:8080/v1
+  generate_kwargs:
+    temperature: 0.3  # Moderate temperature for some creativity
+    max_tokens: 200   # Enough for JSON response
+  timeout: 60
+  max_retries: 5
+  delay: 2
+  alternate_roles: false
+
+# Environment configuration
+envs:
+  names: nle
+  nle:
+    name: NetHackChallenge-v0
+    kwargs:
+      max_episode_steps: 500  # Enough steps to find stairs
+      character: "@"
+      savedir: null
+      no_progress_timeout: 100
+
+# Evaluation settings
+num_episodes: 3
+num_processes: 3
+seed: 42

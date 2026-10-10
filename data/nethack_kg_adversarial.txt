@@ -1,0 +1,5 @@
+negation: ('Little dog', 'excluded_from', '?') -> different_from_first map of the Town branchs shop-filled floor a
+negation: ('Vampire', 'excluded_from', '?') -> different_from_Chaos Temple Quest of the Chaos Quest (dNetHack)
+negation: ('Battle-axe', 'excluded_from', '?') -> different_from_current game
+negation: ('Giant ant', 'excluded_from', '?') -> different_from_small groups of 2-4
+negation: ('Pet/ko', 'excluded_from', '?') -> different_from_a maze-type level

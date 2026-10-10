@@ -1,0 +1,54 @@
+agent: 
+  type: planning_first       # Use our enhanced planning agent
+  remember_cot: True     
+  max_text_history: 8        # Reduced for 1B model
+  max_image_history: 0   
+  max_cot_history: 1     
+  max_icl_history: 0         # Disabled for 1B model
+  cache_icl: False
+
+eval:
+  output_dir: "planning_first_results"
+  resume_from: null      
+  num_workers: 4             # Reduced workers
+  num_episodes:          
+    nle: 5               
+  max_steps_per_episode: null   
+  save_trajectories: True       
+  save_images: False            
+  icl_episodes: 0              # Disabled
+  icl_dataset: records
+  feedback_on_invalid_action: True       
+
+client:
+  client_name: openai           
+  model_id: meta-llama/Llama-3.2-1B-Instruct
+  base_url: http://0.0.0.0:8080/v1
+  generate_kwargs:
+    temperature: 0.2            # Lower for consistency
+    max_tokens: 300             # Reduced for 1B model
+  timeout: 60                   
+  max_retries: 5                
+  delay: 2                      
+  alternate_roles: False        
+
+envs:
+  names: nle                    # Only NetHack
+  env_kwargs:
+    seed: null                
+  nle_kwargs:
+    character: "@"            
+    max_episode_steps: 100_000  
+    no_progress_timeout: 150    
+    savedir: null               
+    save_ttyrec_every: 0        
+    skip_more: True            
+
+tasks:
+  nle_tasks:
+    - NetHackChallenge-v0       
+
+hydra:
+  run:
+    dir: .                     
+  output_subdir: null          

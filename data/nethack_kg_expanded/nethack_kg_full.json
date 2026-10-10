@@ -1,0 +1,842 @@
+[
+  {
+    "head": "NetHackWiki",
+    "type": "instance of",
+    "tail": "web site",
+    "source": "Main Page"
+  },
+  {
+    "head": "copyright",
+    "type": "different from",
+    "tail": "license",
+    "source": "NetHackWiki:Contributors to Rodney donating to the Wiki"
+  },
+  {
+    "head": "license",
+    "type": "different from",
+    "tail": "copyright",
+    "source": "NetHackWiki:Contributors to Rodney donating to the Wiki"
+  },
+  {
+    "head": "2006",
+    "type": "point in time",
+    "tail": "2006",
+    "source": "NetHackWiki:Logo contest"
+  },
+  {
+    "head": "Wikihack-cursed-logo",
+    "type": "part of",
+    "tail": "NetHackWiki_logo",
+    "source": "NetHackWiki:Logo contest/vote"
+  },
+  {
+    "head": "NetHackWiki_logo",
+    "type": "has part",
+    "tail": "Wikihack-cursed-logo",
+    "source": "NetHackWiki:Logo contest/vote"
+  },
+  {
+    "head": "The Eyes of the Overworld",
+    "type": "developer",
+    "tail": "REDIRECT",
+    "source": "Eyes of the Overworld"
+  },
+  {
+    "head": "Creative Commons Attribution-Share Alike License 3.0 (Unported)].",
+    "type": "different from",
+    "tail": "Creative Commons Attribution-Share Alike License 3.0 (Unported)].",
+    "source": "NetHackWiki:Copyrights"
+  },
+  {
+    "head": "rgrn",
+    "type": "instance of",
+    "tail": "newsgroup",
+    "source": "NetHackWiki:Community Portal"
+  },
+  {
+    "head": "Policy",
+    "type": "part of",
+    "tail": "NetHackWiki",
+    "source": "NetHackWiki:FAQ"
+  },
+  {
+    "head": "NetHack 3",
+    "type": "publication date",
+    "tail": "December 7, 2015",
+    "source": "NetHackWiki:Next version pool 3.4.3"
+  },
+  {
+    "head": "giant ant",
+    "type": "subclass of",
+    "tail": "insect",
+    "source": "Soldier ant"
+  },
+  {
+    "head": "REDIRECT Staircase",
+    "type": "instance of",
+    "tail": "Staircase",
+    "source": "Staircases"
+  },
+  {
+    "head": "",
+    "type": "instance of",
+    "tail": "programming language",
+    "source": "Special level"
+  },
+  {
+    "head": "lev_comp",
+    "type": "instance of",
+    "tail": "programming language",
+    "source": "Special level"
+  },
+  {
+    "head": "cheat",
+    "type": "uses",
+    "tail": "advantage",
+    "source": "Cheating"
+  },
+  {
+    "head": "advantage",
+    "type": "used by",
+    "tail": "cheat",
+    "source": "Cheating"
+  },
+  {
+    "head": "wumpus",
+    "type": "subclass of",
+    "tail": "monster",
+    "source": "Wumpus"
+  },
+  {
+    "head": "Archeologist",
+    "type": "present in work",
+    "tail": "NetHack",
+    "source": "Archeologist"
+  },
+  {
+    "head": "Extinctionism",
+    "type": "facet of",
+    "tail": "NetHack",
+    "source": "Extinction"
+  },
+  {
+    "head": "Boulder fort",
+    "type": "part of",
+    "tail": "NetHack",
+    "source": "Boulder fort"
+  },
+  {
+    "head": "Low-score ascension",
+    "type": "opposite of",
+    "tail": "highest-scoring ascension",
+    "source": "Score"
+  },
+  {
+    "head": "highest-scoring ascension",
+    "type": "opposite of",
+    "tail": "Low-score ascension",
+    "source": "Score"
+  },
+  {
+    "head": "RogueBasin",
+    "type": "instance of",
+    "tail": "wiki",
+    "source": "User talk:Kernigh"
+  },
+  {
+    "head": "NetHackWiki",
+    "type": "maintained by",
+    "tail": "REDIRECT",
+    "source": "Help:Contents"
+  },
+  {
+    "head": "kobold monster",
+    "type": "instance of",
+    "tail": "wiki markup",
+    "source": "NetHackWiki:Sandbox"
+  },
+  {
+    "head": "Moloch",
+    "type": "instance of",
+    "tail": "demigod",
+    "source": "Ascension"
+  },
+  {
+    "head": "Special level",
+    "type": "part of",
+    "tail": "REDIRECT",
+    "source": "Special levels"
+  },
+  {
+    "head": "Vault",
+    "type": "different from",
+    "tail": "dungeon",
+    "source": "Special room"
+  },
+  {
+    "head": "dungeon",
+    "type": "different from",
+    "tail": "Vault",
+    "source": "Special room"
+  },
+  {
+    "head": "Style guide",
+    "type": "facet of",
+    "tail": "article",
+    "source": "NetHackWiki:Templates"
+  },
+  {
+    "head": "wiki page",
+    "type": "used by",
+    "tail": "wiki editor",
+    "source": "NetHackWiki:Categories"
+  },
+  {
+    "head": "wiki editor",
+    "type": "uses",
+    "tail": "wiki page",
+    "source": "NetHackWiki:Categories"
+  },
+  {
+    "head": "armor",
+    "type": "subclass of",
+    "tail": "weapon",
+    "source": "Magic"
+  },
+  {
+    "head": "NetHackWiki",
+    "type": "part of",
+    "tail": "Wikia",
+    "source": "NetHackWiki:Policy"
+  },
+  {
+    "head": "Wikia",
+    "type": "has part",
+    "tail": "NetHackWiki",
+    "source": "NetHackWiki:Policy"
+  },
+  {
+    "head": "REDIRECT Artifact",
+    "type": "subclass of",
+    "tail": "Artifact weapon",
+    "source": "Artifact weapon"
+  },
+  {
+    "head": "NetHack",
+    "type": "genre",
+    "tail": "roguelike",
+    "source": "NetHackWiki:WikiNode"
+  },
+  {
+    "head": "==Role table by starting attributes and intrinsics",
+    "type": "facet of",
+    "tail": "NetHack",
+    "source": "Role"
+  },
+  {
+    "head": "Sting",
+    "type": "part of",
+    "tail": "NetHack",
+    "source": "Artifact"
+  },
+  {
+    "head": "Ogresmasher",
+    "type": "part of",
+    "tail": "NetHack",
+    "source": "Artifact"
+  },
+  {
+    "head": "Trollsbane",
+    "type": "part of",
+    "tail": "NetHack",
+    "source": "Artifact"
+  },
+  {
+    "head": "Giantslayer",
+    "type": "part of",
+    "tail": "NetHack",
+    "source": "Artifact"
+  },
+  {
+    "head": "Sunsword",
+    "type": "part of",
+    "tail": "NetHack",
+    "source": "Artifact"
+  },
+  {
+    "head": "Magicbane",
+    "type": "part of",
+    "tail": "NetHack",
+    "source": "Artifact"
+  },
+  {
+    "head": "Mjollnir",
+    "type": "part of",
+    "tail": "NetHack",
+    "source": "Artifact"
+  },
+  {
+    "head": "Cleaver",
+    "type": "part of",
+    "tail": "NetHack",
+    "source": "Artifact"
+  },
+  {
+    "head": "Snickersnee",
+    "type": "part of",
+    "tail": "NetHack",
+    "source": "Artifact"
+  },
+  {
+    "head": "Grayswandir",
+    "type": "part",
+    "tail": "NetHack",
+    "source": "Artifact"
+  },
+  {
+    "head": "shells",
+    "type": "part of",
+    "tail": "shells",
+    "source": "Weapon"
+  },
+  {
+    "head": "shells",
+    "type": "has part",
+    "tail": "shells",
+    "source": "Weapon"
+  },
+  {
+    "head": "teleportation",
+    "type": "subclass of",
+    "tail": "magic",
+    "source": "Scroll"
+  },
+  {
+    "head": "Dungeon",
+    "type": "part of",
+    "tail": "NetHack",
+    "source": "Dungeon"
+  },
+  {
+    "head": "REDIRECT Item",
+    "type": "followed by",
+    "tail": "REDIRECT Item",
+    "source": "Object"
+  },
+  {
+    "head": "BISON general public license",
+    "type": "publication date",
+    "tail": "copyright 1988",
+    "source": "NetHack General Public License"
+  },
+  {
+    "head": "BISON general public license",
+    "type": "author",
+    "tail": "Richard M. Stallman",
+    "source": "NetHack General Public License"
+  },
+  {
+    "head": "monster classes",
+    "type": "part of",
+    "tail": "NetHack",
+    "source": "Monster"
+  },
+  {
+    "head": "NetHack",
+    "type": "genre",
+    "tail": "adventure game",
+    "source": "Religion"
+  },
+  {
+    "head": "Wisdom",
+    "type": "subclass of",
+    "tail": "Intelligence",
+    "source": "Attribute"
+  },
+  {
+    "head": "Information",
+    "type": "used by",
+    "tail": "REDIRECT",
+    "source": "Erebus"
+  },
+  {
+    "head": "NetHack",
+    "type": "has part",
+    "tail": "3.6.0",
+    "source": "NetHack 3.6.0 source code"
+  },
+  {
+    "head": "3.6.0",
+    "type": "part of the series",
+    "tail": "NetHack",
+    "source": "NetHack 3.6.0 source code"
+  },
+  {
+    "head": "NetHack",
+    "type": "developer",
+    "tail": "Stichting Mathematisch Centrum",
+    "source": "Source:NetHack 3.4.3/include/obj.h"
+  },
+  {
+    "head": "purse",
+    "type": "subclass of",
+    "tail": "wallet",
+    "source": "Inventory"
+  },
+  {
+    "head": "backpack",
+    "type": "subclass of",
+    "tail": "backpack",
+    "source": "Inventory"
+  },
+  {
+    "head": "knapsack",
+    "type": "subclass of",
+    "tail": "backpack",
+    "source": "Inventory"
+  },
+  {
+    "head": "WikiNode",
+    "type": "instance of",
+    "tail": "Redirect Project",
+    "source": "WikiNode"
+  },
+  {
+    "head": "REDIRECT Player",
+    "type": "use",
+    "tail": "REDIRECT Player",
+    "source": "You"
+  },
+  {
+    "head": "NetHackWiki",
+    "type": "has part",
+    "tail": "About",
+    "source": "NethackWiki"
+  },
+  {
+    "head": "About",
+    "type": "part of",
+    "tail": "NetHackWiki",
+    "source": "NethackWiki"
+  },
+  {
+    "head": "font-size",
+    "type": "part of",
+    "tail": "font-style",
+    "source": "MediaWiki:Monobook.css"
+  },
+  {
+    "head": "font-style",
+    "type": "has part",
+    "tail": "font-size",
+    "source": "MediaWiki:Monobook.css"
+  },
+  {
+    "head": "Monobook",
+    "type": "part of",
+    "tail": "Wikia",
+    "source": "MediaWiki:Monobook.js"
+  },
+  {
+    "head": "Wikia",
+    "type": "has part",
+    "tail": "Monobook",
+    "source": "MediaWiki:Monobook.js"
+  },
+  {
+    "head": "How to help",
+    "type": "instance of",
+    "tail": "charity",
+    "source": "MediaWiki:Help"
+  },
+  {
+    "head": "NetHackWiki",
+    "type": "instance of",
+    "tail": "HackWiki",
+    "source": "MediaWiki:Helppage"
+  },
+  {
+    "head": "NetHack Wiki",
+    "type": "part of",
+    "tail": "NetHackWiki",
+    "source": "MediaWiki:Sidebar"
+  },
+  {
+    "head": "NetHackWiki",
+    "type": "has part",
+    "tail": "NetHack Wiki",
+    "source": "MediaWiki:Sidebar"
+  },
+  {
+    "head": "Rogue",
+    "type": "genre",
+    "tail": "roguelike",
+    "source": "Roguelike"
+  },
+  {
+    "head": "Sokoban",
+    "type": "part of",
+    "tail": "NetHack",
+    "source": "Sokoban"
+  },
+  {
+    "head": "Weapons",
+    "type": "different from",
+    "tail": "Armor",
+    "source": "Item"
+  },
+  {
+    "head": "Armor",
+    "type": "different from",
+    "tail": "Weapons",
+    "source": "Item"
+  },
+  {
+    "head": "REDIRECT NetHackWiki",
+    "type": "has part",
+    "tail": "About",
+    "source": "We"
+  },
+  {
+    "head": "About",
+    "type": "part of",
+    "tail": "REDIRECT NetHackWiki",
+    "source": "We"
+  },
+  {
+    "head": "NetHack",
+    "type": "instance of",
+    "tail": "redirect",
+    "source": "Nethack"
+  },
+  {
+    "head": "Medusa",
+    "type": "present in work",
+    "tail": "NetHack",
+    "source": "Medusa"
+  },
+  {
+    "head": "trap",
+    "type": "subclass of",
+    "tail": "mechanism",
+    "source": "Trap"
+  },
+  {
+    "head": "falling rock trap",
+    "type": "subclass of",
+    "tail": "trap",
+    "source": "Hole"
+  },
+  {
+    "head": "Wand of digging",
+    "type": "subclass of",
+    "tail": "wand",
+    "source": "Wand of digging"
+  },
+  {
+    "head": "Amulet of Yendor",
+    "type": "present in work",
+    "tail": "NetHack",
+    "source": "Amulet of Yendor"
+  },
+  {
+    "head": "Spiked pit",
+    "type": "subclass of",
+    "tail": "trap",
+    "source": "Pit"
+  },
+  {
+    "head": "Stormbringer",
+    "type": "instance of",
+    "tail": "artifact",
+    "source": "Peaceful"
+  },
+  {
+    "head": "REDIRECT Quest",
+    "type": "part of",
+    "tail": "Quest",
+    "source": "Quest leader"
+  },
+  {
+    "head": "Quest",
+    "type": "has part",
+    "tail": "REDIRECT Quest",
+    "source": "Quest leader"
+  },
+  {
+    "head": "Archeologist",
+    "type": "subclass of",
+    "tail": "character",
+    "source": "Player"
+  },
+  {
+    "head": "Barbarian",
+    "type": "subclass of",
+    "tail": "character",
+    "source": "Player"
+  },
+  {
+    "head": "Monk",
+    "type": "subclass of",
+    "tail": "character",
+    "source": "Player"
+  },
+  {
+    "head": "Ranger",
+    "type": "subclass of",
+    "tail": "character",
+    "source": "Player"
+  },
+  {
+    "head": "Rogue",
+    "type": "subclass of",
+    "tail": "character",
+    "source": "Player"
+  },
+  {
+    "head": "Samurai",
+    "type": "subclass of",
+    "tail": "character",
+    "source": "Player"
+  },
+  {
+    "head": "Tourist",
+    "type": "subclass of",
+    "tail": "character",
+    "source": "Player"
+  },
+  {
+    "head": "Valkyrie",
+    "type": "subclass of",
+    "tail": "character",
+    "source": "Player"
+  },
+  {
+    "head": "Wizard",
+    "type": "subclass of",
+    "tail": "character",
+    "source": "Player"
+  },
+  {
+    "head": "Dungeon feature",
+    "type": "different from",
+    "tail": "terrain",
+    "source": "Dungeon feature"
+  },
+  {
+    "head": "terrain",
+    "type": "different from",
+    "tail": "Dungeon feature",
+    "source": "Dungeon feature"
+  },
+  {
+    "head": "Redirect",
+    "type": "has part",
+    "tail": "REDIRECT Yet Another Funny Message",
+    "source": "YAFM"
+  },
+  {
+    "head": "REDIRECT Yet Another Funny Message",
+    "type": "part of",
+    "tail": "REDIRECT",
+    "source": "YAFM"
+  },
+  {
+    "head": "Yet Another Funny Message",
+    "type": "subclass of",
+    "tail": "funny message",
+    "source": "Yet Another Funny Message"
+  },
+  {
+    "head": "RGRN",
+    "type": "instance of",
+    "tail": "newsgroup",
+    "source": "Rec.games.roguelike.nethack"
+  },
+  {
+    "head": "NetHack",
+    "type": "programming language",
+    "tail": "ASCII",
+    "source": "Message"
+  },
+  {
+    "head": "nethack",
+    "type": "genre",
+    "tail": "roguelike",
+    "source": "R.games.roguelike.nethack"
+  },
+  {
+    "head": "NetHackWiki",
+    "type": "instance of",
+    "tail": "wiki",
+    "source": "NetHackWiki:General disclaimer"
+  },
+  {
+    "head": "unencumbered",
+    "type": "part of",
+    "tail": "NetHack",
+    "source": "Encumbrance"
+  },
+  {
+    "head": "burdened",
+    "type": "part of",
+    "tail": "NetHack",
+    "source": "Encumbrance"
+  },
+  {
+    "head": "strained",
+    "type": "part of",
+    "tail": "NetHack",
+    "source": "Encumbrance"
+  },
+  {
+    "head": "overtaxed",
+    "type": "part of",
+    "tail": "NetHack",
+    "source": "Encumbrance"
+  },
+  {
+    "head": "overloaded",
+    "type": "part of",
+    "tail": "NetHack",
+    "source": "Encumbrance"
+  },
+  {
+    "head": "Statues",
+    "type": "part of",
+    "tail": "NetHack",
+    "source": "Statue"
+  },
+  {
+    "head": "Ant",
+    "type": "subclass of",
+    "tail": "insect",
+    "source": "Insect"
+  },
+  {
+    "head": "REDIRECT Genocide",
+    "type": "facet of",
+    "tail": "Genocide",
+    "source": "Genocide strategy"
+  },
+  {
+    "head": "arrows",
+    "type": "part of",
+    "tail": "NetHack",
+    "source": "BUC"
+  },
+  {
+    "head": "darts",
+    "type": "part of",
+    "tail": "NetHack",
+    "source": "BUC"
+  },
+  {
+    "head": "throwing star",
+    "type": "part of",
+    "tail": "NetHack",
+    "source": "BUC"
+  },
+  {
+    "head": "NetHack",
+    "type": "developer",
+    "tail": "Jay Fenlason",
+    "source": ";"
+  },
+  {
+    "head": "Gnomish Mines",
+    "type": "part of",
+    "tail": "Gehennom",
+    "source": "Staircase"
+  },
+  {
+    "head": "Gehennom",
+    "type": "has part",
+    "tail": "Gnomish Mines",
+    "source": "Staircase"
+  },
+  {
+    "head": "Gehennom",
+    "type": "has part",
+    "tail": "Wizard's Tower",
+    "source": "Staircase"
+  },
+  {
+    "head": "Wizard's Tower",
+    "type": "part of",
+    "tail": "Gehennom",
+    "source": "Staircase"
+  },
+  {
+    "head": "room-and-corridors map",
+    "type": "part of",
+    "tail": "NetHack",
+    "source": "Closet"
+  },
+  {
+    "head": "Secret doors",
+    "type": "part of",
+    "tail": "REDIRECT Door",
+    "source": "Secret door"
+  },
+  {
+    "head": "Door",
+    "type": "different from",
+    "tail": "door",
+    "source": "Door"
+  },
+  {
+    "head": "door",
+    "type": "different from",
+    "tail": "Door",
+    "source": "Door"
+  },
+  {
+    "head": "osaku",
+    "type": "present in work",
+    "tail": "NetHack",
+    "source": "Lock pick"
+  },
+  {
+    "head": "Poison resistance",
+    "type": "instance of",
+    "tail": "intrinsic",
+    "source": "Poison resistance"
+  },
+  {
+    "head": "intrinsic",
+    "type": "has part",
+    "tail": "rings",
+    "source": "Poison resistance"
+  },
+  {
+    "head": "intrinsic",
+    "type": "has part",
+    "tail": "amulets",
+    "source": "Poison resistance"
+  },
+  {
+    "head": "rings",
+    "type": "subclass of",
+    "tail": "intrinsic",
+    "source": "Poison resistance"
+  },
+  {
+    "head": "amulets",
+    "type": "subclass of",
+    "tail": "intrinsic",
+    "source": "Poison resistance"
+  },
+  {
+    "head": "Poison",
+    "type": "part of",
+    "tail": "NetHack",
+    "source": "Poison"
+  },
+  {
+    "head": "instant death",
+    "type": "subclass of",
+    "tail": "death",
+    "source": "Instant death"
+  }
+]

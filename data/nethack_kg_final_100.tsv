@@ -1,0 +1,45 @@
+head	type	tail	source
+soldier ant	armor_class	3	Soldier ant
+soldier ant	difficulty	6	Soldier ant
+soldier ant	base_level	3	Soldier ant
+soldier ant	speed	18	Soldier ant
+soldier ant	weight	20	Soldier ant
+soldier ant	alignment	neutral	Soldier ant
+soldier ant	attack_type	bite	Soldier ant
+soldier ant	attack_damage	2d4	Soldier ant
+soldier ant	attack_type	sting	Soldier ant
+soldier ant	attack_damage	3d4	Soldier ant
+soldier ant	damage_type	poison	Soldier ant
+soldier ant	has_resistance	poison resistance	Soldier ant
+soldier ant	grants_resistance	poison resistance	Soldier ant
+soldier ant	eating_effect	or tin has a  chance of granting poison resistance	Soldier ant
+Wumpus	armor_class	2	Wumpus
+Wumpus	difficulty	9	Wumpus
+Wumpus	base_level	8	Wumpus
+Wumpus	speed	3	Wumpus
+Wumpus	weight	2500	Wumpus
+Wumpus	alignment	neutral	Wumpus
+Wumpus	attack_type	bite	Wumpus
+Wumpus	attack_damage	3d6	Wumpus
+Archeologist	grants_resistance	magic resistance	Archeologist
+Medusa	armor_class	2	Medusa
+Medusa	difficulty	25	Medusa
+Medusa	base_level	20	Medusa
+Medusa	speed	12	Medusa
+Medusa	weight	1450	Medusa
+Medusa	attack_type	weapon	Medusa
+Medusa	attack_damage	2d4	Medusa
+Medusa	attack_type	attack	Medusa
+Medusa	attack_damage	1d8	Medusa
+Medusa	attack_type	gaze	Medusa
+Medusa	attack_damage	0d0	Medusa
+Medusa	damage_type	stoning	Medusa
+Medusa	attack_type	bite	Medusa
+Medusa	attack_damage	1d6	Medusa
+Medusa	damage_type	poison	Medusa
+Medusa	has_resistance	poison resistance	Medusa
+Medusa	has_resistance	stoning resistance	Medusa
+Medusa	grants_resistance	poison resistance	Medusa
+Wand of digging	cost	150	Wand of digging
+Amulet of Yendor	cost	30000	Amulet of Yendor
+Amulet	weight	20	Amulet

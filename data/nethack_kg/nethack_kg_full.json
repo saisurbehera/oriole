@@ -1,0 +1,248 @@
+[
+  {
+    "head": "Moloch's Sanctum",
+    "type": "part of",
+    "tail": "Astral Plane",
+    "source": "Ascension"
+  },
+  {
+    "head": "Astral Plane",
+    "type": "has part",
+    "tail": "Moloch's Sanctum",
+    "source": "Ascension"
+  },
+  {
+    "head": "Dungeon",
+    "type": "part of",
+    "tail": "NetHack",
+    "source": "Dungeon"
+  },
+  {
+    "head": "Mazes of Menace",
+    "type": "part of",
+    "tail": "NetHack",
+    "source": "Monster"
+  },
+  {
+    "head": "Sokoban",
+    "type": "part of",
+    "tail": "NetHack",
+    "source": "Sokoban"
+  },
+  {
+    "head": "Medusa",
+    "type": "present in work",
+    "tail": "NetHack",
+    "source": "Medusa"
+  },
+  {
+    "head": "Amulet of Yendor",
+    "type": "present in work",
+    "tail": "NetHack",
+    "source": "Amulet of Yendor"
+  },
+  {
+    "head": "Beleriand",
+    "type": "writing system",
+    "tail": "Tengwar script",
+    "source": "Elbereth"
+  },
+  {
+    "head": "Gehennom",
+    "type": "part of",
+    "tail": "NetHack",
+    "source": "Gehennom"
+  },
+  {
+    "head": "==Value== Luck",
+    "type": "part of",
+    "tail": "NetHack",
+    "source": "Luck"
+  },
+  {
+    "head": "natural luck",
+    "type": "part of",
+    "tail": "NetHack",
+    "source": "Luck"
+  },
+  {
+    "head": "bonus luck",
+    "type": "part of",
+    "tail": "NetHack",
+    "source": "Luck"
+  },
+  {
+    "head": "NetHack",
+    "type": "has part",
+    "tail": "Dungeons of Doom",
+    "source": "Altar"
+  },
+  {
+    "head": "Dungeons of Doom",
+    "type": "part of",
+    "tail": "NetHack",
+    "source": "Altar"
+  },
+  {
+    "head": "Bell of Opening",
+    "type": "present in work",
+    "tail": "NetHack",
+    "source": "Quest"
+  },
+  {
+    "head": "Wizard of Yendor",
+    "type": "present in work",
+    "tail": "NetHack",
+    "source": "Wizard of Yendor"
+  },
+  {
+    "head": "#pray",
+    "type": "part of",
+    "tail": "NetHack",
+    "source": "Prayer"
+  },
+  {
+    "head": "The Castle",
+    "type": "part of the series",
+    "tail": "Dungeons of Doom",
+    "source": "Castle"
+  },
+  {
+    "head": "Oracle (level)",
+    "type": "part of",
+    "tail": "NetHackWiki",
+    "source": "Oracle"
+  },
+  {
+    "head": "Oracle (monster)",
+    "type": "part of",
+    "tail": "NetHackWiki",
+    "source": "Oracle"
+  },
+  {
+    "head": "NetHack",
+    "type": "genre",
+    "tail": "roguelike",
+    "source": "Game_Basics"
+  },
+  {
+    "head": "NetHack",
+    "type": "genre",
+    "tail": "turn-based",
+    "source": "Combat_System"
+  },
+  {
+    "head": "Magic in NetHack",
+    "type": "has part",
+    "tail": "spells",
+    "source": "Magic_System"
+  },
+  {
+    "head": "Magic in NetHack",
+    "type": "has part",
+    "tail": "wands",
+    "source": "Magic_System"
+  },
+  {
+    "head": "Magic in NetHack",
+    "type": "has part",
+    "tail": "scrolls",
+    "source": "Magic_System"
+  },
+  {
+    "head": "Magic in NetHack",
+    "type": "has part",
+    "tail": "potions",
+    "source": "Magic_System"
+  },
+  {
+    "head": "spells",
+    "type": "part of",
+    "tail": "Magic in NetHack",
+    "source": "Magic_System"
+  },
+  {
+    "head": "wands",
+    "type": "part of",
+    "tail": "Magic in NetHack",
+    "source": "Magic_System"
+  },
+  {
+    "head": "scrolls",
+    "type": "part of",
+    "tail": "Magic in NetHack",
+    "source": "Magic_System"
+  },
+  {
+    "head": "potions",
+    "type": "part of",
+    "tail": "Magic in NetHack",
+    "source": "Magic_System"
+  },
+  {
+    "head": "Archeologist",
+    "type": "instance of",
+    "tail": "character classes",
+    "source": "Character_Classes"
+  },
+  {
+    "head": "Barbarian",
+    "type": "instance of",
+    "tail": "character classes",
+    "source": "Character_Classes"
+  },
+  {
+    "head": "Caveman",
+    "type": "instance of",
+    "tail": "character classes",
+    "source": "Character_Classes"
+  },
+  {
+    "head": "Healer",
+    "type": "instance of",
+    "tail": "character classes",
+    "source": "Character_Classes"
+  },
+  {
+    "head": "Knight",
+    "type": "instance of",
+    "tail": "character classes",
+    "source": "Character_Classes"
+  },
+  {
+    "head": "Monk",
+    "type": "instance of",
+    "tail": "character classes",
+    "source": "Character_Classes"
+  },
+  {
+    "head": "Priest",
+    "type": "instance of",
+    "tail": "character classes",
+    "source": "Character_Classes"
+  },
+  {
+    "head": "Ranger",
+    "type": "instance of",
+    "tail": "character classes",
+    "source": "Character_Classes"
+  },
+  {
+    "head": "Rogue",
+    "type": "instance of",
+    "tail": "character classes",
+    "source": "Character_Classes"
+  },
+  {
+    "head": "Samurai",
+    "type": "instance of",
+    "tail": "character classes",
+    "source": "Character_Classes"
+  },
+  {
+    "head": "Tourist",
+    "type": "instance of",
+    "tail": "character classes",
+    "source": "Character_Classes"
+  }
+]

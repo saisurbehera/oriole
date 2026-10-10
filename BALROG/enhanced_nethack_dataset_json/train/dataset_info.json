@@ -1,0 +1,80 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "instruction": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "input": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "output": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "reasoning": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "session_id": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "user_id": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "episode_num": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "episode_points": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "episode_turns": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "episode_maxlvl": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "character_role": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "character_race": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "expert_skill_level": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "episode_outcome": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "subgoal": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "step_num": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "estimated_turn": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "estimated_depth": {
+      "dtype": "int64",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}

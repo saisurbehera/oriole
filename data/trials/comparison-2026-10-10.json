@@ -1,0 +1,483 @@
+{
+  "description": "One paired-seed five-minute Codex subscription trial per model; not a general model ranking.",
+  "seed": 43,
+  "character": "val-hum-fem-law",
+  "time_budget_seconds": 300,
+  "max_keys": 1500,
+  "reasoning_effort": "medium",
+  "concurrent_jobs": 4,
+  "harness_version": 2,
+  "identical_initial_screens": true,
+  "results": [
+    {
+      "model_requested": "gpt-6-luna",
+      "seed": 43,
+      "character": "val-hum-fem-law",
+      "seconds": 300,
+      "max_keys": 1500,
+      "reasoning_effort": "medium",
+      "started_at": "2026-10-10T13:26:07.849303+00:00",
+      "auth_method": "chatgpt",
+      "harness_version": 2,
+      "initial_screen_sha256": "95e57aa69e2e5d05bf9875ce8660635acba2af7a5b53faecc40e30d3661cca52",
+      "elapsed_seconds": 300.8,
+      "stop_reason": "time_limit",
+      "exit_code": 1,
+      "actions": 159,
+      "deepest_depth": 2,
+      "highest_score": 67,
+      "final_stats": {
+        "x": 21,
+        "y": 14,
+        "score": 67,
+        "hp": 14,
+        "max_hp": 16,
+        "depth": 2,
+        "gold": 5,
+        "energy": 2,
+        "max_energy": 2,
+        "armor_class": 6,
+        "level": 1,
+        "experience": 3,
+        "turn": 126,
+        "hunger": 1,
+        "dungeon_number": 0,
+        "dungeon_level": 2
+      },
+      "done": false,
+      "unique_positions": 62,
+      "search_keys": 9,
+      "min_hp": 12,
+      "key_counts": {
+        "west": 30,
+        "inventory": 1,
+        "escape": 1,
+        "north": 13,
+        "east": 58,
+        "south": 31,
+        "space": 4,
+        "search": 9,
+        "pickup": 1,
+        "southeast": 1,
+        "southwest": 1,
+        ">": 1,
+        "open": 4,
+        "kick": 3,
+        "northeast": 1
+      },
+      "error": null,
+      "run_directory": ".local/trials/20261010T132607Z-gpt-6-luna-seed43-599889e3",
+      "milestones": [
+        {
+          "milestone": "started",
+          "keys": 0,
+          "turn": 1,
+          "depth": 1,
+          "recorded_at": "2026-10-10T13:26:08.232337+00:00"
+        },
+        {
+          "milestone": "reached_floor_1",
+          "keys": 0,
+          "turn": 1,
+          "depth": 1,
+          "recorded_at": "2026-10-10T13:26:08.232337+00:00"
+        },
+        {
+          "milestone": "first_monster_killed",
+          "keys": 9,
+          "turn": 6,
+          "depth": 1,
+          "recorded_at": "2026-10-10T13:26:27.518596+00:00"
+        },
+        {
+          "milestone": "first_damage",
+          "keys": 60,
+          "turn": 50,
+          "depth": 1,
+          "recorded_at": "2026-10-10T13:28:06.768981+00:00"
+        },
+        {
+          "milestone": "reached_floor_2",
+          "keys": 102,
+          "turn": 86,
+          "depth": 2,
+          "recorded_at": "2026-10-10T13:29:26.994209+00:00"
+        }
+      ]
+    },
+    {
+      "model_requested": "gpt-6-sol",
+      "seed": 43,
+      "character": "val-hum-fem-law",
+      "seconds": 300,
+      "max_keys": 1500,
+      "reasoning_effort": "medium",
+      "started_at": "2026-10-10T13:26:07.849735+00:00",
+      "auth_method": "chatgpt",
+      "harness_version": 2,
+      "initial_screen_sha256": "95e57aa69e2e5d05bf9875ce8660635acba2af7a5b53faecc40e30d3661cca52",
+      "elapsed_seconds": 300.8,
+      "stop_reason": "time_limit",
+      "exit_code": 1,
+      "actions": 198,
+      "deepest_depth": 2,
+      "highest_score": 79,
+      "final_stats": {
+        "x": 24,
+        "y": 7,
+        "score": 79,
+        "hp": 16,
+        "max_hp": 16,
+        "depth": 2,
+        "gold": 17,
+        "energy": 2,
+        "max_energy": 2,
+        "armor_class": 6,
+        "level": 1,
+        "experience": 3,
+        "turn": 175,
+        "hunger": 1,
+        "dungeon_number": 0,
+        "dungeon_level": 2
+      },
+      "done": false,
+      "unique_positions": 108,
+      "search_keys": 0,
+      "min_hp": 14,
+      "key_counts": {
+        "inventory": 1,
+        "escape": 1,
+        "east": 61,
+        "space": 2,
+        "south": 27,
+        "west": 64,
+        "north": 23,
+        "southeast": 6,
+        ">": 1,
+        "southwest": 1,
+        ",": 1,
+        "northwest": 4,
+        "s": 3,
+        "kick": 3
+      },
+      "error": null,
+      "run_directory": ".local/trials/20261010T132607Z-gpt-6-sol-seed43-8702f10e",
+      "milestones": [
+        {
+          "milestone": "started",
+          "keys": 0,
+          "turn": 1,
+          "depth": 1,
+          "recorded_at": "2026-10-10T13:26:08.231769+00:00"
+        },
+        {
+          "milestone": "reached_floor_1",
+          "keys": 0,
+          "turn": 1,
+          "depth": 1,
+          "recorded_at": "2026-10-10T13:26:08.231769+00:00"
+        },
+        {
+          "milestone": "first_damage",
+          "keys": 5,
+          "turn": 3,
+          "depth": 1,
+          "recorded_at": "2026-10-10T13:26:20.759266+00:00"
+        },
+        {
+          "milestone": "first_monster_killed",
+          "keys": 6,
+          "turn": 4,
+          "depth": 1,
+          "recorded_at": "2026-10-10T13:26:22.196437+00:00"
+        },
+        {
+          "milestone": "reached_floor_2",
+          "keys": 40,
+          "turn": 34,
+          "depth": 2,
+          "recorded_at": "2026-10-10T13:27:09.884695+00:00"
+        }
+      ]
+    },
+    {
+      "model_requested": "gpt-6.1-sol",
+      "seed": 43,
+      "character": "val-hum-fem-law",
+      "seconds": 300,
+      "max_keys": 1500,
+      "reasoning_effort": "medium",
+      "started_at": "2026-10-10T13:26:07.850391+00:00",
+      "auth_method": "chatgpt",
+      "harness_version": 2,
+      "initial_screen_sha256": "95e57aa69e2e5d05bf9875ce8660635acba2af7a5b53faecc40e30d3661cca52",
+      "elapsed_seconds": 301.0,
+      "stop_reason": "time_limit",
+      "exit_code": 1,
+      "actions": 470,
+      "deepest_depth": 7,
+      "highest_score": 607,
+      "final_stats": {
+        "x": 61,
+        "y": 9,
+        "score": 607,
+        "hp": 29,
+        "max_hp": 39,
+        "depth": 7,
+        "gold": 43,
+        "energy": 9,
+        "max_energy": 9,
+        "armor_class": 0,
+        "level": 3,
+        "experience": 49,
+        "turn": 394,
+        "hunger": 1,
+        "dungeon_number": 0,
+        "dungeon_level": 7
+      },
+      "done": false,
+      "unique_positions": 331,
+      "search_keys": 0,
+      "min_hp": 8,
+      "key_counts": {
+        "east": 187,
+        "space": 14,
+        "south": 94,
+        "northeast": 7,
+        ">": 8,
+        "southeast": 10,
+        "north": 60,
+        "west": 65,
+        "open": 7,
+        "southwest": 5,
+        ",": 3,
+        "inventory": 2,
+        "W": 1,
+        "g": 1,
+        "northwest": 3,
+        "e": 2,
+        "y": 1
+      },
+      "error": null,
+      "run_directory": ".local/trials/20261010T132607Z-gpt-6.1-sol-seed43-fe84157e",
+      "milestones": [
+        {
+          "milestone": "started",
+          "keys": 0,
+          "turn": 1,
+          "depth": 1,
+          "recorded_at": "2026-10-10T13:26:08.233471+00:00"
+        },
+        {
+          "milestone": "reached_floor_1",
+          "keys": 0,
+          "turn": 1,
+          "depth": 1,
+          "recorded_at": "2026-10-10T13:26:08.233471+00:00"
+        },
+        {
+          "milestone": "first_damage",
+          "keys": 4,
+          "turn": 3,
+          "depth": 1,
+          "recorded_at": "2026-10-10T13:26:19.841120+00:00"
+        },
+        {
+          "milestone": "first_monster_killed",
+          "keys": 5,
+          "turn": 4,
+          "depth": 1,
+          "recorded_at": "2026-10-10T13:26:19.841619+00:00"
+        },
+        {
+          "milestone": "reached_floor_2",
+          "keys": 37,
+          "turn": 32,
+          "depth": 2,
+          "recorded_at": "2026-10-10T13:26:40.381248+00:00"
+        },
+        {
+          "milestone": "reached_floor_3",
+          "keys": 90,
+          "turn": 75,
+          "depth": 3,
+          "recorded_at": "2026-10-10T13:27:12.623288+00:00"
+        },
+        {
+          "milestone": "reached_floor_4",
+          "keys": 194,
+          "turn": 156,
+          "depth": 4,
+          "recorded_at": "2026-10-10T13:28:15.320572+00:00"
+        },
+        {
+          "milestone": "reached_floor_5",
+          "keys": 221,
+          "turn": 175,
+          "depth": 5,
+          "recorded_at": "2026-10-10T13:28:30.903791+00:00"
+        },
+        {
+          "milestone": "reached_floor_6",
+          "keys": 265,
+          "turn": 212,
+          "depth": 6,
+          "recorded_at": "2026-10-10T13:28:56.722792+00:00"
+        },
+        {
+          "milestone": "reached_floor_7",
+          "keys": 364,
+          "turn": 301,
+          "depth": 7,
+          "recorded_at": "2026-10-10T13:29:48.896144+00:00"
+        },
+        {
+          "milestone": "experience_level_2",
+          "keys": 414,
+          "turn": 341,
+          "depth": 7,
+          "recorded_at": "2026-10-10T13:30:17.723039+00:00"
+        },
+        {
+          "milestone": "experience_level_3",
+          "keys": 431,
+          "turn": 353,
+          "depth": 7,
+          "recorded_at": "2026-10-10T13:30:35.014082+00:00"
+        }
+      ]
+    },
+    {
+      "model_requested": "gpt-6-astra",
+      "seed": 43,
+      "character": "val-hum-fem-law",
+      "seconds": 300,
+      "max_keys": 1500,
+      "reasoning_effort": "medium",
+      "started_at": "2026-10-10T13:26:07.851403+00:00",
+      "auth_method": "chatgpt",
+      "harness_version": 2,
+      "initial_screen_sha256": "95e57aa69e2e5d05bf9875ce8660635acba2af7a5b53faecc40e30d3661cca52",
+      "elapsed_seconds": 300.8,
+      "stop_reason": "time_limit",
+      "exit_code": 1,
+      "actions": 592,
+      "deepest_depth": 6,
+      "highest_score": 438,
+      "final_stats": {
+        "x": 28,
+        "y": 8,
+        "score": 438,
+        "hp": 27,
+        "max_hp": 27,
+        "depth": 6,
+        "gold": 36,
+        "energy": 5,
+        "max_energy": 5,
+        "armor_class": 5,
+        "level": 2,
+        "experience": 38,
+        "turn": 496,
+        "hunger": 1,
+        "dungeon_number": 0,
+        "dungeon_level": 6
+      },
+      "done": false,
+      "unique_positions": 362,
+      "search_keys": 50,
+      "min_hp": 9,
+      "key_counts": {
+        "east": 122,
+        "space": 9,
+        "south": 100,
+        "southeast": 17,
+        ">": 6,
+        "northeast": 14,
+        "west": 139,
+        "southwest": 18,
+        "open": 6,
+        "north": 83,
+        "northwest": 17,
+        "pickup": 8,
+        "search": 50,
+        "inventory": 1,
+        "W": 1,
+        "h": 1
+      },
+      "error": null,
+      "run_directory": ".local/trials/20261010T132607Z-gpt-6-astra-seed43-652dbb6c",
+      "milestones": [
+        {
+          "milestone": "started",
+          "keys": 0,
+          "turn": 1,
+          "depth": 1,
+          "recorded_at": "2026-10-10T13:26:08.231607+00:00"
+        },
+        {
+          "milestone": "reached_floor_1",
+          "keys": 0,
+          "turn": 1,
+          "depth": 1,
+          "recorded_at": "2026-10-10T13:26:08.231607+00:00"
+        },
+        {
+          "milestone": "first_damage",
+          "keys": 4,
+          "turn": 3,
+          "depth": 1,
+          "recorded_at": "2026-10-10T13:26:19.413972+00:00"
+        },
+        {
+          "milestone": "first_monster_killed",
+          "keys": 5,
+          "turn": 4,
+          "depth": 1,
+          "recorded_at": "2026-10-10T13:26:19.414579+00:00"
+        },
+        {
+          "milestone": "reached_floor_2",
+          "keys": 31,
+          "turn": 29,
+          "depth": 2,
+          "recorded_at": "2026-10-10T13:26:33.818843+00:00"
+        },
+        {
+          "milestone": "reached_floor_3",
+          "keys": 161,
+          "turn": 142,
+          "depth": 3,
+          "recorded_at": "2026-10-10T13:27:38.876086+00:00"
+        },
+        {
+          "milestone": "reached_floor_4",
+          "keys": 190,
+          "turn": 169,
+          "depth": 4,
+          "recorded_at": "2026-10-10T13:27:54.590568+00:00"
+        },
+        {
+          "milestone": "reached_floor_5",
+          "keys": 333,
+          "turn": 280,
+          "depth": 5,
+          "recorded_at": "2026-10-10T13:29:10.801710+00:00"
+        },
+        {
+          "milestone": "reached_floor_6",
+          "keys": 349,
+          "turn": 295,
+          "depth": 6,
+          "recorded_at": "2026-10-10T13:29:17.475595+00:00"
+        },
+        {
+          "milestone": "experience_level_2",
+          "keys": 393,
+          "turn": 336,
+          "depth": 6,
+          "recorded_at": "2026-10-10T13:29:39.597202+00:00"
+        }
+      ]
+    }
+  ]
+}

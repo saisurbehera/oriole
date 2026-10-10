@@ -1,0 +1,38 @@
+{
+  "quality_grade": "A+",
+  "total_triples": 39504,
+  "unique_entities": 24170,
+  "unique_relations": 55,
+  "enhancements": {
+    "canonicalized_entities": 9,
+    "semantic_clusters": 6,
+    "interpreted_facts": 652,
+    "computed_facts": 407,
+    "high_priority_facts": 2201
+  },
+  "relation_clusters": {
+    "attributes": 16,
+    "combat": 20,
+    "defense": 8,
+    "effects": 7,
+    "location": 1,
+    "other": 3
+  },
+  "coverage": {
+    "monsters_with_combat_info": 418,
+    "monsters_with_defense_info": 137,
+    "entities_with_resistances": 664
+  },
+  "top_entities_by_priority": {
+    "EvilHack": 1765,
+    "Rumor messages": 1415,
+    "XNetHack": 1250,
+    "DNetHack artifacts": 1248,
+    "Wizard mode ascension": 841,
+    "Bugs in NetHack 3.4.3": 714,
+    "Spirits (dNetHack)": 691,
+    "Lessons learned the hard way": 544,
+    "Bugs in NetHack 4": 481,
+    "Wish": 477
+  }
+}

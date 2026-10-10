@@ -1,0 +1,72 @@
+[
+  {
+    "milestone": "started",
+    "keys": 0,
+    "turn": 1,
+    "depth": 1,
+    "recorded_at": "2026-10-10T13:26:08.231607+00:00"
+  },
+  {
+    "milestone": "reached_floor_1",
+    "keys": 0,
+    "turn": 1,
+    "depth": 1,
+    "recorded_at": "2026-10-10T13:26:08.231607+00:00"
+  },
+  {
+    "milestone": "first_damage",
+    "keys": 4,
+    "turn": 3,
+    "depth": 1,
+    "recorded_at": "2026-10-10T13:26:19.413972+00:00"
+  },
+  {
+    "milestone": "first_monster_killed",
+    "keys": 5,
+    "turn": 4,
+    "depth": 1,
+    "recorded_at": "2026-10-10T13:26:19.414579+00:00"
+  },
+  {
+    "milestone": "reached_floor_2",
+    "keys": 31,
+    "turn": 29,
+    "depth": 2,
+    "recorded_at": "2026-10-10T13:26:33.818843+00:00"
+  },
+  {
+    "milestone": "reached_floor_3",
+    "keys": 161,
+    "turn": 142,
+    "depth": 3,
+    "recorded_at": "2026-10-10T13:27:38.876086+00:00"
+  },
+  {
+    "milestone": "reached_floor_4",
+    "keys": 190,
+    "turn": 169,
+    "depth": 4,
+    "recorded_at": "2026-10-10T13:27:54.590568+00:00"
+  },
+  {
+    "milestone": "reached_floor_5",
+    "keys": 333,
+    "turn": 280,
+    "depth": 5,
+    "recorded_at": "2026-10-10T13:29:10.801710+00:00"
+  },
+  {
+    "milestone": "reached_floor_6",
+    "keys": 349,
+    "turn": 295,
+    "depth": 6,
+    "recorded_at": "2026-10-10T13:29:17.475595+00:00"
+  },
+  {
+    "milestone": "experience_level_2",
+    "keys": 393,
+    "turn": 336,
+    "depth": 6,
+    "recorded_at": "2026-10-10T13:29:39.597202+00:00"
+  }
+]

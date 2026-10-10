@@ -1,0 +1,11 @@
+#!/bin/sh
+set -eu
+ORIOLE_ROOT=$(CDPATH= cd -- "$(dirname -- "$0")" && pwd)
+cd "$ORIOLE_ROOT"
+if [ -x "$ORIOLE_ROOT/.local/play-venv/bin/python" ]; then
+    exec "$ORIOLE_ROOT/.local/play-venv/bin/python" -m oriole "$@"
+fi
+if [ -x "$ORIOLE_ROOT/.venv/bin/python" ]; then
+    exec "$ORIOLE_ROOT/.venv/bin/python" -m oriole "$@"
+fi
+exec python3 -m oriole "$@"

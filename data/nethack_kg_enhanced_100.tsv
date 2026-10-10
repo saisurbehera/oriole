@@ -1,0 +1,195 @@
+head	type	tail	source
+Main Page	type_of	free community web site for the game ''NetHack''	Main Page
+Main Page	contains	'''[[Special:Statistics|]]''' articles	Main Page
+Soldier ant	difficulty	6	Soldier ant
+Soldier ant	base_level	3	Soldier ant
+Soldier ant	speed	18	Soldier ant
+Soldier ant	armor_class	3	Soldier ant
+Soldier ant	attack_type	bite	Soldier ant
+Soldier ant	attack_damage	2d4	Soldier ant
+Soldier ant	attack_type	sting	Soldier ant
+Soldier ant	attack_damage	3d4	Soldier ant
+Soldier ant	weight	20	Soldier ant
+Soldier ant	generated_in	the Valkyrie quest	Soldier ant
+Soldier ant	type_of	type of monster	Soldier ant
+Soldier ant	type_of	oviparous and carnivorous insect	Soldier ant
+Soldier ant	found_in	''NetHack''	Soldier ant
+Soldier ant	found_in	small groups of 2-4	Soldier ant
+Soldier ant	found_in	NetHack 3	Soldier ant
+Soldier ant	contains	a bite attack	Soldier ant
+Soldier ant	contains	a  chance of granting poison resistance	Soldier ant
+Soldier ant	contains	the same AC of 3 as a giant ant	Soldier ant
+Soldier ant	contains	no Magic resistance (monster)	Soldier ant
+Soldier ant	contains	whatever escape items you can	Soldier ant
+Soldier ant	contains	a group of soldier ants to a corridor	Soldier ant
+Cheating	used_for	credit cloning	Cheating
+Cheating	contains	altars or shops	Cheating
+Cheating	contains	mostly quelled the debate on this matter	Cheating
+Cheating	contains	by skipping item sorting and identification	Cheating
+Cheating	contains	to contend with the previous character's killer	Cheating
+Wumpus	difficulty	9	Wumpus
+Wumpus	base_level	8	Wumpus
+Wumpus	speed	3	Wumpus
+Wumpus	armor_class	2	Wumpus
+Wumpus	attack_type	bite	Wumpus
+Wumpus	attack_damage	3d6	Wumpus
+Wumpus	weight	2500	Wumpus
+Wumpus	type_of	type of monster	Wumpus
+Wumpus	type_of	type of omnivorous quadruped	Wumpus
+Wumpus	type_of	large creature with sucker feet	Wumpus
+Wumpus	found_in	''NetHack''	Wumpus
+Wumpus	found_in	Hack 1	Wumpus
+Wumpus	contains	a single bite attack	Wumpus
+Wumpus	contains	a strong bite attack and can cling to ceilings	Wumpus
+Wumpus	contains	a low Magic resistance (monster) of 10	Wumpus
+Archeologist	contains	an increased  chance (13	Archeologist
+Archeologist	contains	19&ndash;23 charges	Archeologist
+Extinction	contains	been generated	Extinction
+Extinction	contains	become extinct	Extinction
+Extinction	contains	no exceptions	Extinction
+Extinction	contains	to be killed to be extinct	Extinction
+Extinction	contains	been made extinct by other means	Extinction
+Extinction	contains	a spider under them	Extinction
+Boulder fort	used_for	extinctionism or farming	Boulder fort
+Score	grants	score	Score
+Score	contains	the '''showscore''' setting in your options	Score
+Score	contains	not permanently converted yourself	Score
+Score	contains	to formally identify this potion	Score
+Score	contains	an identified	Score
+Ascension	contains	played for decades without ascending	Ascension
+Special room	found_in	below table	Special room
+Special room	contains	a shop or a collection of monsters	Special room
+Special room	contains	special rooms	Special room
+Special room	contains	a shop	Special room
+Role	found_in	Talk:Role#Initial attribute simulation code	Role
+Artifact	contains	been generated	Artifact
+Weapon	type_of	5% chance	Weapon
+Weapon	used_for	attack opponents	Weapon
+Scroll	found_in	book shops	Scroll
+Scroll	contains	a weight of 5	Scroll
+Scroll	contains	fewer than Ink/2 charges	Scroll
+Scroll	contains	a base 1/3 chance of writing an unknown scroll	Scroll
+Scroll	contains	no effect	Scroll
+NetHack General Public License	used_for	create the object code or executable	NetHack General Public License
+NetHack General Public License	contains	such rights	NetHack General Public License
+Religion	type_of	number	Religion
+Religion	contains	an alignment as well	Religion
+Religion	contains	no lower bound	Religion
+Attribute	used_for	reading spellbooks	Attribute
+Attribute	used_for	obtaining better prices at shops	Attribute
+Attribute	contains	six basic '''attributes'''	Attribute
+Attribute	contains	more weight in your inventory	Attribute
+Attribute	contains	a multitude of effects	Attribute
+Attribute	contains	the amount of leftover points from this step	Attribute
+NetHack	used_for	refer to the name of the game binary	NetHack
+NetHack	contains	) - 1985}} years of development behind it	NetHack
+NetHack 3.6.0 source code	contains	links to the '''source code''' of NetHack 3	NetHack 3.6.0 source code
+Inventory	type_of	list of all the items	Inventory
+Inventory	type_of	popular myth	Inventory
+Inventory	contains	low weight	Inventory
+Inventory	contains	is a matter for speculation only	Inventory
+Inventory	contains	a backpack afterwards	Inventory
+Inventory	contains	52 distinct versions of	Inventory
+Inventory	contains	room in the knapsack for 51 other stacks of items	Inventory
+Inventory	contains	some way to make fire	Inventory
+Inventory	contains	a gas lighter	Inventory
+Inventory	contains	matches or some other chemical way to make fire	Inventory
+Inventory	contains	already invented metal	Inventory
+Inventory	contains	the same kit with an additional fire steel	Inventory
+Roguelike	contains	added several features to ''Hack''	Roguelike
+Sokoban	type_of	branch of the dungeon in ''NetHack''	Sokoban
+Sokoban	contains	a  chance (75%) of an amulet of reflection	Sokoban
+Item	type_of	stack of one or more identical items	Item
+Item	found_in	dungeon	Item
+Item	found_in	floor and in containers	Item
+Item	used_for	refer to an object)	Item
+Item	used_for	"branches with the ""hellish"" flag set"	Item
+Item	contains	charges	Item
+Item	contains	at least one tool	Item
+Item	contains	a ring and a wand	Item
+Medusa	difficulty	25	Medusa
+Medusa	base_level	20	Medusa
+Medusa	speed	12	Medusa
+Medusa	armor_class	2	Medusa
+Medusa	attack_type	weapon	Medusa
+Medusa	attack_damage	2d4	Medusa
+Medusa	attack_type	attack	Medusa
+Medusa	attack_damage	1d8	Medusa
+Medusa	attack_type	gaze	Medusa
+Medusa	attack_damage	0d0	Medusa
+Medusa	attack_type	bite	Medusa
+Medusa	attack_damage	1d6	Medusa
+Medusa	weight	1450	Medusa
+Medusa	type_of	unique monster	Medusa
+Medusa	type_of	dangerous humanoid being	Medusa
+Medusa	type_of	strong omnivore	Medusa
+Medusa	found_in	''NetHack''	Medusa
+Medusa	found_in	Dungeons of Doom on Medusa's Island	Medusa
+Medusa	found_in	a bones file	Medusa
+Medusa	contains	flight	Medusa
+Medusa	contains	a weapon attack	Medusa
+Medusa	contains	no effect	Medusa
+Trap	type_of	96% chance	Trap
+Trap	contains	maze filler (the Castle	Trap
+Trap	contains	a pre-aged corpse generated on top	Trap
+Trap	contains	a corpse because they are non-lethal	Trap
+Trap	contains	seen pets or monsters safely walk	Trap
+Trap	contains	safely stepped before	Trap
+Hole	used_for	escaping monsters	Hole
+Hole	contains	a 33% chance of following (3% for boulders)	Hole
+Hole	contains	been calculated	Hole
+Wand of digging	type_of	type of wand	Wand of digging
+Wand of digging	found_in	''NetHack''	Wand of digging
+Wand of digging	contains	one	Wand of digging
+Wand of digging	contains	no effect on undiggable walls and rock	Wand of digging
+Amulet of Yendor	found_in	Rogue level	Amulet of Yendor
+Amulet of Yendor	used_for	the Invocation	Amulet of Yendor
+Amulet of Yendor	contains	hidden it within the depths of Gehennom	Amulet of Yendor
+Amulet of Yendor	contains	a luckstone or an item that acts as one	Amulet of Yendor
+Amulet of Yendor	contains	a web placed underneath them	Amulet of Yendor
+Amulet	type_of	type of item	Amulet
+Amulet	type_of	small chance of changing genders,	Amulet
+Amulet	contains	a weight of 20	Amulet
+Amulet	contains	a base price of 150 zorkmids	Amulet
+Amulet	contains	a  chance of applying their effect permanently	Amulet
+Amulet	contains	an effect on gameplay for the most part	Amulet
+Amulet	contains	another amulet you'd rather be wearing instead	Amulet
+Amulet	contains	reflection	Amulet
+Pit	type_of	trap consisting of a hole in the ground	Pit
+Pit	used_for	cross pits without falling in	Pit
+Pit	used_for	hunting unicorns	Pit
+Peaceful	used_for	determine when a monster is generated peaceful	Peaceful
+Peaceful	contains	the Amulet of Yendor	Peaceful
+Peaceful	contains	zero alignment	Peaceful
+Player	contains	hit points	Player
+Player	contains	varying difficulties	Player
+Player	contains	a dramatic effect on the style of play	Player
+Player	contains	fixed alignments: lawful for Dwarves	Player
+Dungeon feature	contains	one and exactly one feature	Dungeon feature
+Encumbrance	contains	a little trouble lifting <item>	Encumbrance
+Encumbrance	contains	much trouble lifting <item>	Encumbrance
+Encumbrance	contains	extreme difficulty lifting <item>	Encumbrance
+Encumbrance	contains	less than 10 HP and are not at your maximum HP	Encumbrance
+Statue	type_of	type of object	Statue
+Statue	found_in	''NetHack''	Statue
+Statue	contains	statues	Statue
+Statue	contains	a number of empty player monster statues	Statue
+Statue	contains	a greater probability of containing a spellbook	Statue
+Statue	contains	a  chance (50%) of containing a spellbook	Statue
+Statue	contains	no effect	Statue
+BUC	used_for	"mean ""either blessed or uncursed"""	BUC
+BUC	contains	similarly whether blessed or uncursed	BUC
+BUC	contains	special uses when cursed	BUC
+BUC	contains	several uses	BUC
+Staircase	contains	one or two additional ladders	Staircase
+Staircase	contains	one staircase	Staircase
+Staircase	contains	a chance of falling down the staircase	Staircase
+Staircase	contains	a peek immediately	Staircase
+Staircase	contains	discovered the staircase already	Staircase
+Staircase	contains	an item	Staircase
+Closet	type_of	single square	Closet
+Closet	type_of	chance	Closet
+Closet	found_in	top or bottom edge of a room	Closet
+Closet	used_for	various other purposes	Closet
+Closet	contains	a door leading into them	Closet
+Closet	contains	a  chance of containing an additional random item	Closet

@@ -1,0 +1,121 @@
+head	type	tail	source
+soldier ant	also_known_as	Soldier ant	Soldier ant
+Soldier ant	speed	18	Soldier ant
+Soldier ant	alignment	neutral	Soldier ant
+Soldier ant	property	genocidable	Soldier ant
+Soldier ant	attack_type	bite	Soldier ant
+Soldier ant	attack_damage	2d4	Soldier ant
+Soldier ant	attack_type	sting	Soldier ant
+Soldier ant	attack_damage	3d4	Soldier ant
+Soldier ant	damage_type	poison	Soldier ant
+Soldier ant	weight	20	Soldier ant
+Soldier ant	size	Tiny	Soldier ant
+Soldier ant	has_resistance	poison resistance	Soldier ant
+Soldier ant	grants_resistance	poison resistance	Soldier ant
+Soldier ant	grants_resistance	20 resistance	Soldier ant
+Soldier ant	type_of	monster that appears in	Soldier ant
+Soldier ant	found_in	''NetHack''	Soldier ant
+Soldier ant	found_in	small groups of 2-4	Soldier ant
+Soldier ant	found_in	the Valkyrie quest	Soldier ant
+Soldier ant	found_in	NetHack 3	Soldier ant
+Soldier ant	eating_effect	soldier ant corpse or tin has a   chance of granti	Soldier ant
+Soldier ant	part_of	the first quest monster class for Valkyries and ma	Soldier ant
+Special level	appears_on_level	1-1	Special level
+Special level	appears_on_level	2-2	Special level
+Special level	appears_on_level	3-3	Special level
+Special level	appears_on_level	4-4	Special level
+Cheating	grants	players the ability	Cheating
+Cheating	eating_effect	nd declare a trickery	Cheating
+Wumpus	alignment	neutral	Wumpus
+Wumpus	property	genocidable	Wumpus
+Wumpus	attack_type	bite	Wumpus
+Wumpus	attack_damage	3d6	Wumpus
+Wumpus	weight	2500	Wumpus
+Wumpus	nutrition	500	Wumpus
+Wumpus	size	Large	Wumpus
+Wumpus	has_resistance	none resistance	Wumpus
+Wumpus	grants_resistance	none resistance	Wumpus
+Wumpus	type_of	monster that appears in	Wumpus
+Wumpus	type_of	omnivorous quadruped that is strong	Wumpus
+Wumpus	found_in	''NetHack''	Wumpus
+Wumpus	found_in	level creation has a   chance of being created asl	Wumpus
+Wumpus	found_in	the Ranger quest locate level at level creation	Wumpus
+Wumpus	found_in	Hack 1	Wumpus
+Wumpus	found_in	Gehennom	Wumpus
+Archeologist	grants	magic resistance	Archeologist
+Special room	found_in	random rooms-and-corridors levels in the Dungeons 	Special room
+Special room	found_in	the below table	Special room
+Special room	appears_on_level	9-9	Special room
+Role	found_in	Talk:Role#Initial attribute simulation code	Role
+Artifact	found_in	the ground have a base   chance (5%) of being made	Artifact
+Artifact	found_in	the ground are affected by the amount of artifacts	Artifact
+Artifact	found_in	a given game even if that artifact is destroyed or	Artifact
+Artifact	found_in	the current character's game or act as that charac	Artifact
+Scroll	found_in	book shops	Scroll
+NetHack General Public License	grants	more extensive warranty protection	NetHack General Public License
+Religion	grants	you an artifact weapon	Religion
+Religion	grants	or improves intrinsic protection	Religion
+Religion	grants	temporary clairvoyance	Religion
+Sokoban	appears_on_level	6-6	Sokoban
+Sokoban	appears_on_level	1-1	Sokoban
+Sokoban	appears_on_level	2-2	Sokoban
+Item	found_in	the dungeon	Item
+Item	found_in	the floor and in containers	Item
+Item	drops	when you kill a monster and it leaves a corpse	Item
+Medusa	difficulty	25	Medusa
+Medusa	base_level	20	Medusa
+Medusa	speed	12	Medusa
+Medusa	alignment	−15	Medusa
+Medusa	attack_type	weapon	Medusa
+Medusa	attack_damage	2d4	Medusa
+Medusa	attack_type	attack	Medusa
+Medusa	attack_damage	1d8	Medusa
+Medusa	attack_type	gaze	Medusa
+Medusa	attack_damage	0d0	Medusa
+Medusa	damage_type	stoning	Medusa
+Medusa	attack_type	bite	Medusa
+Medusa	attack_damage	1d6	Medusa
+Medusa	damage_type	poison	Medusa
+Medusa	weight	1450	Medusa
+Medusa	nutrition	400	Medusa
+Medusa	size	Large	Medusa
+Medusa	grants_resistance	poison resistance	Medusa
+Medusa	grants_resistance	100 resistance	Medusa
+Medusa	grants_resistance	stoning resistance	Medusa
+Medusa	found_in	''NetHack''	Medusa
+Medusa	found_in	the Dungeons of Doom on Medusa's Island	Medusa
+Medusa	found_in	a bones file	Medusa
+Trap	found_in	top	Trap
+Trap	found_in	pits are usually from generated monsters that fell	Trap
+Trap	appears_on_level	4-4	Trap
+Hole	found_in	levels with non-diggable floors	Hole
+Hole	appears_on_level	2-2	Hole
+Wand of digging	type_of	wand that appears in	Wand of digging
+Wand of digging	found_in	''NetHack''	Wand of digging
+Wand of digging	eating_effect	hole for them to fall (or fly) through	Wand of digging
+Amulet of Yendor	found_in	the Rogue level	Amulet of Yendor
+Amulet of Yendor	found_in	level creation will have a web placed underneath t	Amulet of Yendor
+Amulet of Yendor	grants	additional effects	Amulet of Yendor
+Amulet of Yendor	grants	extrinsic clairvoyance	Amulet of Yendor
+Amulet of Yendor	drops	you without enough power to cast it otherwise	Amulet of Yendor
+Amulet	type_of	item that appears in	Amulet
+Amulet	found_in	''NetHack'' and is represented by a cyan double qu	Amulet
+Amulet	eating_effect	jewelry by polymorphing into a metallivore	Amulet
+Pit	found_in	any dungeon level	Pit
+Pit	found_in	the first floor in Sokoban; air currents will forc	Pit
+Pit	drops	something into a pit	Pit
+Pit	eating_effect	#untrap command several times	Pit
+Player	grants	a limited interaction with other (former) players	Player
+Dungeon feature	grants	some more or less useful function	Dungeon feature
+Statue	type_of	object that appears in	Statue
+Statue	found_in	''NetHack''	Statue
+Statue	appears_on_level	3-3	Statue
+Statue	appears_on_level	24-24	Statue
+Statue	drops	empty statues of themselves behind in place of a c	Statue
+BUC	grants	additional bonuses	BUC
+BUC	drops	the shop	BUC
+Staircase	appears_on_level	1-1	Staircase
+Staircase	eating_effect	hole in the ground	Staircase
+Escaping the dungeon	appears_on_level	1-1	Escaping the dungeon
+Closet	found_in	the top or bottom edge of a room	Closet
+Closet	found_in	the closet   - the closet will also have a scroll 	Closet

@@ -1,0 +1,19 @@
+---
+name: Lintcheck C/C++
+on:
+  push:
+    branches: [main]
+    paths: [src/nle**.c, include/nle**.h, win/rl/**.cc]
+  pull_request:
+    paths: [src/nle**.c, include/nle**.h, win/rl/**.cc]
+jobs:
+  check_cc:
+    name: clang-format
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: DoozyX/clang-format-lint-action@v0.18.2
+        with:
+          source: win/rl src/nle.c sys/unix/nledl.c include/nle.h include/nledl.h
+            include/nletypes.h include/nlernd.h src/nlernd.c
+          clangFormatVersion: 12

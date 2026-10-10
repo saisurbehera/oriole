@@ -1,0 +1,11 @@
+{
+  "frequency_baseline": 0.1403397120822204,
+  "priority_baseline": 0.13741096866096866,
+  "entity_type_baseline": 0.22446252477599227,
+  "game_specific_baseline": 0.3055555555555555,
+  "test_info": {
+    "total_triples": 39504,
+    "test_cases": 60,
+    "well_connected_entities": 20
+  }
+}

@@ -1,0 +1,78 @@
+[
+  {
+    "page_title": "Ascension",
+    "chunk_text": "Ascension is the act of becoming a demigod by offering the Amulet of Yendor to your god at their high altar. This is the goal of NetHack, and achieving it ends the game in a victory. In order to ascend, a character must retrieve the Amulet of Yendor from Moloch's Sanctum and bring it to the Elemental Planes while avoiding the Wizard of Yendor, then reach the Astral Plane and successfully offer the Amulet on their god's high altar. The journey from the Sanctum to the Astral Plane&mdash;known as the ascension run&mdash;is very dangerous, and players are advised to prepare an ascension kit beforehand with items to handle various complications. There are players who claim to have played for decades without ascending, although their number has been reduced in recent years as the Internet has provided easy access to spoilers."
+  },
+  {
+    "page_title": "Dungeon",
+    "chunk_text": "Dungeon may refer to: * The setting of NetHack * Dungeon feature * Dungeon level * Dungeon branch * Dungeons of Doom * Mazes of Menace * Dudley's dungeon * Dungeon. def format * Configuration option: dungeon."
+  },
+  {
+    "page_title": "Monster",
+    "chunk_text": "|2=Click on a glyph to go to that monster's page. }}}} In NetHack, a monster is any creature that you may encounter while exploring the Mazes of Menace. They may be randomly generated, produced by magic, or placed by the game to fulfill some role. You may attack any monster you come across, but beware&mdash;they may retaliate. Monsters may be tame, peaceful, or hostile."
+  },
+  {
+    "page_title": "Sokoban",
+    "chunk_text": "Sokoban (\"warehouse keeper\" in Japanese) is a branch of the dungeon in NetHack that is modeled on and named after a game where a character is navigated through a series of levels. The object is to move objects to cover goal squares. In the traditional Sokoban game, the character must move only in the cardinal directions (north, south, east, and west) and push the objects from behind to move them. Objects cannot be pulled, created, or destroyed, and a player must avoid failing the level by getting objects stuck or boxing themselves in. In the case of NetHack, the hero must push boulders into pits or holes that block the way forward."
+  },
+  {
+    "page_title": "Medusa",
+    "chunk_text": "c#line2293 }} Medusa, , is a unique monster that appears in NetHack. She is a dangerous humanoid being that is the only human or elf to neither be human nor elven. Medusa is a strong omnivore that is amphibious and capable of swimming, has flight, and can be seen via infravision. She cannot be tamed or even pacified. Medusa has a passive attack-like gaze that activates once per round and can turn victims to stone, as it does in her original Greek folklore&mdash;she also has a weapon attack, a claw attack and a poisonous strength-draining bite."
+  },
+  {
+    "page_title": "Amulet of Yendor",
+    "chunk_text": "The Amulet of Yendor, sometimes abbreviated as AoY, is a unique amulet made of mithril, and the primary objective of every game of NetHack - as stated in the introductory text at the beginning of each game, Moloch has stolen the Amulet of Yendor from Marduk the Creator, gaining dominion over the other gods, and has hidden it within the depths of Gehennom, where he lurks and bides his time. You are tasked to find the Amulet, bring it to the Astral Plane and offering it to your god, resulting in ascension to immortality and demigod-hood. ==Generation== The Amulet of Yendor is always held by the high priest of Moloch in Moloch's Sanctum within Gehennom. If the Amulet would be left in the bones of a dead player character, it is replaced with a cheap plastic imitation. Cheap plastic imitations of the Amulet of Yendor will also appear as \"the Amulet of Yendor\" rather than being auto-identified as duplicates, with the exception of the one found on the Rogue level."
+  },
+  {
+    "page_title": "Elbereth",
+    "chunk_text": "thumb|right|The name \"Elbereth\" rendered in three of the writing systems created by J. From top to bottom: 1. The \"tehta mode\" of the wikipedia:Tengwar|Tengwar script; 2. The \"Mode of Beleriand,\" another Tengwar script; 3. The \"Angerthas Moria\" or \"runic\" script."
+  },
+  {
+    "page_title": "Gehennom",
+    "chunk_text": "Gehennom is the underworld of NetHack, whose entrance is located in the Valley of the Dead. It is situated beneath the Castle, consisting of 20&ndash;24 total levels, and is the area that Moloch has hidden the Amulet of Yendor within, as indicated by the introduction text. Gehennom is technically considered its own dungeon branch, with the Valley as its first floor, but begins where the main dungeon terminates. ==Levels== Gehennom is full of mazes. Among these are the lairs of several demon lords and princes (including Orcus Town), an upstairs branching off to Vlad's Tower, the Wizard's Tower, and a couple of Fake Wizard's Towers (one of which contains the portal to the main tower)."
+  },
+  {
+    "page_title": "Luck",
+    "chunk_text": "In NetHack, luck is a statistic that influences the outcome of many random events. If a character's luck statistic is high, these random outcomes will be skewed in their favor, and almost every player will seek to reach and maintain a high luck stat as part of their strategy. ==Value== Luck is the sum of two components: natural luck and bonus luck. Natural luck ranges from &minus;10 to +10, changes with events in the game, and may slowly return to a baseline level (see below). Bonus luck, on the other hand, may be &minus;3, 0, or +3, and it is determined by the beatitudes of any luckstones (and certain quest artifacts) you are carrying."
+  },
+  {
+    "page_title": "Altar",
+    "chunk_text": "An altar is a dungeon feature that appears in NetHack and is represented by an underscore,. An altar is always dedicated to a god, and is co-aligned if its alignment matches the alignment of the hero, or cross-aligned if its alignment differs from theirs; altars to Moloch are always unaligned. A temple is a special room that contains an altar with an aligned priest of the same alignment tending to it, and can occur randomly throughout the Dungeons of Doom and its branches, in addition to specific locations within them. Most ways of interacting with an altar will break atheist conduct. ==Generation== Randomly generated altars can appear in ordinary room-and-corridor levels in the Dungeons of Doom - there is an independent chance that any room that is not a special room contains an altar, and this chance is not dependent on dungeon level."
+  },
+  {
+    "page_title": "Quest",
+    "chunk_text": "In NetHack, the Quest is a great journey upon which all seekers of the Amulet of Yendor must embark in order to obtain Bell of Opening, which is one of the three items required for the invocation. The Quest involves returning to your homeland to recover the Bell and an artifact stolen from your people by a powerful nemesis. ==Access== Somewhere between the dungeon levels 11 and 16, 6 or 7 levels below the Oracle, you will receive a message from your quest leader, pleading for your help. On this level is a magic portal that, when found, leads to a new branch of the dungeon. You will find the quest leader in the first level of this branch, and must speak to them before proceeding to subsequent levels."
+  },
+  {
+    "page_title": "Wizard of Yendor",
+    "chunk_text": "|frequency=Unique |genocidable=No |attacks=Claw 2d12 amulet-stealing, spell-casting 0d0 mage |weight=1450 |nutr=400 |size=Medium |resistances=Fire resistance, poison resistance |resistances conveyed=Fire resistance (25%), poison resistance (25%), teleport control (25%), causes teleportitis (25%) |attributes= |reference=monst. c#line2295 }} The Wizard of Yendor , , also informally known as \"Rodney\", is a unique monster that serves as one of the main antagonists of NetHack. He is a powerful human sorcerer that is an overlord to his kind. The Wizard of Yendor is the guardian of the Book of the Dead, and the hero must retrieve it in order to perform the Invocation, gain access to Moloch's Sanctum and take the Amulet of Yendor from the high priest of Moloch. However, killing him alone will not be enough to deter him: the Wizard can not only with mysterious curses and spells, but will eventually reappear stronger than ever."
+  },
+  {
+    "page_title": "Prayer",
+    "chunk_text": "In NetHack, prayer is an action used to communicate with the player's god, and is performed with the #pray extended command. ==Description== The purpose of praying is to ask your god for help, and you must not do so too often. The player has a prayer timeout, a counter which is raised when praying, and decrements one turn at a time. Only when this counter reaches zero may the player pray safely again (exceptions exist, see below). Thus prayer is usually reserved for one of a few things: saving the player from almost certain doom, performing some action the player cannot yet do (removing cursed items, getting out of walls, etc."
+  },
+  {
+    "page_title": "Castle",
+    "chunk_text": "The Castle is a special level just above the Valley of the Dead. It is the lowest level of the Dungeons of Doom, and is located between DL 25 and 29. The level permits no bones files and is no-teleport. It is considered a graveyard level (undead are unlikely to leave corpses). It is notable for having a lot of monsters, soldiers, loot and a guaranteed wand of wishing."
+  },
+  {
+    "page_title": "Oracle",
+    "chunk_text": "On NetHackWiki, the Oracle may refer to any of the following: * Oracle (level), a special level that appears anywhere from dungeon levels 5 to 9. * Oracle (monster), the unique monster that resides on the Oracle level."
+  },
+  {
+    "page_title": "Game_Basics",
+    "chunk_text": "NetHack is a single-player roguelike dungeon exploration game. The player controls an adventurer who must retrieve the Amulet of Yendor from the deepest level of the dungeon. The game features permadeath, meaning when your character dies, you must start over. Each game randomly generates the dungeon layout, making every playthrough unique."
+  },
+  {
+    "page_title": "Combat_System",
+    "chunk_text": "Combat in NetHack is turn-based. The player can attack monsters by moving into them or using ranged weapons. Weapons include swords, spears, bows, and magical wands. Armor provides protection from attacks. Different monsters have different resistances and attacks."
+  },
+  {
+    "page_title": "Magic_System",
+    "chunk_text": "Magic in NetHack includes spells, wands, scrolls, and potions. Wizards start with spellbooks and can learn new spells. Wands can be zapped to produce magical effects. Scrolls provide one-time magical effects when read. Potions can be quaffed for various effects."
+  },
+  {
+    "page_title": "Character_Classes",
+    "chunk_text": "NetHack offers multiple character classes including Archeologist, Barbarian, Caveman, Healer, Knight, Monk, Priest, Ranger, Rogue, Samurai, Tourist, Valkyrie, and Wizard. Each class has unique starting equipment, abilities, and quest. The Valkyrie starts with good armor and weapons. The Wizard begins with spellbooks and magical items."
+  }
+]

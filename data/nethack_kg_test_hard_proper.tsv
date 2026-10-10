@@ -1,0 +1,408 @@
+head	type	tail
+Leprechaun hall	appears_on_level	6-6
+Elven cloak/zh-CN	found_in	kits of some low-level Player monster (EvilHack) c
+The Ruinous Descent of Stars	type_of	morning star made of silvered metal
+Genocide	grants	intrinsics
+Witch hat	type_of	armor_class
+Tiamat (EvilHack)	type_of	Supremely strong and powerful draconic goddess and the queen and mother of evil dragons
+Quivering blob	found_in	Hack 1
+NotnotdNetHack	appears_on_level	5-5
+Torch (dNetHack)	material	wood
+Brain golem	found_in	each of the lower filler level(s)
+Minotaur	found_in	Plane of Earth at level creation
+Wand of wishing	found_in	crystal chest in the top level of Wizards Tower (
+Dwarvish spear	weapon_skill	spear
+Potion of acid	when_equipped	and smashed
+Battle-axe	when_equipped	bag
+Rogues gloves	type_of	Magical item gloves
+Gold golem	found_in	each square
+Wish/ko	type_of	reasonable wish
+Two-handed sword	grants	skill in two-handed swords while bound
+Headstone	type_of	dungeon feature
+Giant mimic	attack_type	sticky
+Earth elemental	found_in	lower filler level(s) of the Convict quest at leve
+Ring of gain dexterity	found_in	SLASHEM
+Silver short sword	weapon_skill	short sword
+The Sceptre of Might (Fourk)	grants_resistance	drain resistance
+Valkyrie/SLASHEM	when_equipped	Mjollnir is thrown by a Valkyrie with 25 strength
+Large mimic	found_in	home floor of the Rogue quest at level creation
+Golden naga hatchling	eating_effect	pet from eating the corpse before you
+Small piece of unrefined mithril	found_in	UnNetHack
+Invisible item	found_in	SLASHEM
+Headbutt	found_in	NetHack
+Bane	found_in	[http://www
+Silver dagger	found_in	NetHack
+Bugs in NetHack 4	when_equipped	light source may get missed by rust trap
+Wand of undead turning	drops	scales   of the time
+Thiefbane	special_ability	subject
+Elven cloak/zh-CN	material	cloth
+Crossbow bolt/zh-CN	type_of	artifact droven crossbow
+Burbling blob	found_in	SLASHEM
+Hobbit pickpocket	found_in	EvilHack and HackEM
+Submachine gun	type_of	weapon_class
+Vapors	special_ability	affect
+Cloak of magic resistance	type_of	popular wish for characters
+Imp or minor demon	found_in	some levels of the quest below the home floor at l
+Fire Dagger	grants_intrinsic	cold
+Big Room	type_of	example
+Ya	weapon_skill	bow
+Plane of Air	special_ability	propel
+DECgraphics	type_of	option
+Glamdring (dNetHack)	type_of	elven broadsword
+Engulfing	instant_death	instakill
+BUC	when_equipped	loadstones
+Persistent level	drops	each level
+The Spear of Peace	type_of	neutral intelligent artifact
+Convict/EvilHack	grants_intrinsic	magic
+Elven mithril-coat	grants	MC3 while worn
+Blindness resistance	grants_intrinsic	blindness
+Cerberus (dNetHack)	also_known_as	Cerberus
+Hedrow blademaster	grants	Temporary intrinsic for a duration of 5,250 turns 
+Guisarme	material	iron
+Ring of gain strength	found_in	NetHack
+Dwarf lord	material	mithril
+Baphomet (EvilHack)	type_of	unique monster
+Baphomet (SpliceHack)	eating_effect	Various new demonic breeds within his infamous tow
+Shield of reflection	when_equipped	as a weapon
+Nickelpede	eating_effect	corpse or tin has a   chance of conveying poison r
+Iron golem	drops	various items with an Object materials (EvilHack) 
+Demon (monster class)	found_in	NetHack 2
+Siege ogre	type_of	monster_class
+Flame Mage/HackEM	grants	warning, teleport control and cold resistance
+Potion of extra healing	found_in	outside area of Grunds Stronghold at level creati
+The Rat King (SLASHEM)	found_in	SLASHEM
+Saber-toothed tiger	found_in	EvilHack
+Dark elven long sword	found_in	EvilHack
+Greater homunculus	type_of	monster_class
+The Web of the Chosen	grants_intrinsic	shock
+Amulet versus poison	grants	extrinsic poison resistance
+Spiked chain	weapon_skill	flail
+Trapper	found_in	caves
+Cloak	when_equipped	on the torso
+Spoiler	special_ability	see
+EvilHack	grants_intrinsic	knockback
+Drop	drops	only unpaid food
+Plains centaur	combat_rating	5.2
+Iron bar	type_of	weapon_class
+Dwarvish mithril-coat/zh-CN	grants	dwarves an AC bonus for wearing a dwarvish mithril
+Leprechaun	grants	the property
+The Nethack Sources	type_of	artifact
+Spear	eating_effect	Gungnir this way will retain the form of the spear
+Speed boots/zh-CN	found_in	Spider Caves at level creation
+White dragon scale mail	eating_effect	ir corpse or tin
+EvilHack	when_equipped	in the cloak slot
+Executioners mace	found_in	SpliceHack
+Chain mail/zh-CN	grants	2 base AC, 3 DR and MC1 while worn, and its weight
+Great dagger	material	metal
+Dark elven mace	weapon_skill	mace
+Wield	grants_intrinsic	fire and cold
+Arch-lich	grants	up some portion or the entirety of their soul
+Nalfeshnee	special_ability	be seen via infravision, and can follow
+Gnoll shaman	found_in	Gehennom
+Spellbook of finger	type_of	divination
+Artifact (HackEM)	type_of	actual body part
+Eladrin	appears_on_level	45-45
+Fortune cookie	found_in	Hack 1
+Glass golem	drops	various items with an Object materials (EvilHack) 
+Dwarvish mithril-coat/zh-CN	grants	one more point of base AC and MC2
+Master mind flayer	special_ability	fix
+Shield of mobility	found_in	any metallic material
+Gauntlets (dNetHack)	found_in	dNetHack
+Low-light vision	type_of	intrinsic property
+Demonbane (SporkHack)	found_in	SporkHack
+Electric Mage quest	type_of	powerful artifact
+Manes	found_in	Court of a throne room#dnethack ruled by an orc-ca
+Wand	type_of	good way to work out its identification
+Gehennom (xNetHack)	type_of	randomized teleportation maze
+Wallaby	type_of	monster_class
+Bomb	weapon_skill	firearm
+Amulet of strangulation/zh-CN	found_in	one of six particular squares on the locate level 
+XNetHack	drops	your possession)
+Sewage	type_of	dungeon feature
+Ranseur/zh-CN	when_equipped	by Mephistopheles (dNetHack)
+Water nymph	found_in	Malcanthets Lair at level creation
+Healer/dNetHack	appears_on_level	15-15
+Stealing from shops	can_use	use
+Jabberwock (monster class)	found_in	NetHack
+Werepanther	combat_rating	6.2
+Rint-343.txt	eating_effect	ring of conflict
+Mind flayer	special_ability	even be worth a charge from a wand of death. Alter
+Crystal chest	type_of	tool
+Axe/zh-CN	grants	skill in axes while bound
+Fumbling	drops	them
+Scale mail/zh-CN	when_equipped	Scale mail may not grant any mc
+Scroll of scare monster	found_in	is not present
+Staircase	causes_stoning	petrify
+Vault	special_ability	drop
+Cerberus (dNetHack)	grants_intrinsic	Temporary
+Gauntlets of power/zh-CN	grants	drain resistance, +1d20
+Mind flayer	special_ability	turn those psychic waves on
+Object materials (xNetHack)	grants	2 points of AC instead of 1, but it will go down
+Wand of teleportation/zh-CN	type_of	光束
+Polearm	type_of	table
+Spl2-343.txt	can_use	confuse the next 2 to 9 (more) monsters
+HackEM	special_ability	anger
+Master mind flayer	eating_effect	brains will also break those conducts
+Angel	found_in	Astral Plane at level creation
+Acid blast (monster spell)	can_use	not use this spell against a monster that is peace
+Ring of free action	grants	magic resistance while worn
+Comestible/ko	nutrition	100
+EvilHack	grants	magic resistance and half spell damage
+Giant anaconda	found_in	Snake Pit of the Lawful Quest at level creation
+Rumor messages	type_of	magic lamp
+Crystal chest	type_of	Magical item container
+Dwarvish chain mail	found_in	ground
+Confusion	causes_paralysis	also stun
+Red mold	found_in	fungus farms
+Gypsy	special_ability	aid
+Wand of cold	found_in	locked chamber within the Cloud Bank of the Lawful
+Brown moldier	grants	only 200 nutrition and do not give intrinsics (don
+Elven mithril-coat	grants	at least MC2
+Musa-Shiya	type_of	artifact
+Polypiling/ko	special_ability	be worth it. If
+NetHack 2.2a	appears_on_level	30-30
+Amulet	grants	flight
+Rodent of unusual size (dNetHack)	size	medium
+Wish	can_use	be used to write cursed scroll of genocide, which 
+Pick-axe	special_ability	produce a dwarvish mattock, and vice versa. This r
+Nethack.alt.org	special_ability	get
+Price identification	drops	them on a different level
+Vampire	special_ability	shapeshift as normal unless
+Plague (SpliceHack)	grants	poison resistance, and arrows fired from it gain +
+Triple-headed flail	found_in	bones
+Unique item	type_of	table
+Spellbook of passwall	type_of	body
+NetHack brass	type_of	Variant based on nethack 3
+Elven wizard	found_in	EvilHack and HackEM
+Dwarvish roundshield	grants	dwarves (including dwarven heroes) an AC bonus for
+Hedrow zombie	found_in	dNetHack
+NetHack 3.4.3	appears_on_level	1-1
+Leather	found_in	NetHack
+Wish	special_ability	write
+Aphrodite (SLASHEM)	appears_on_level	23-23
+Ghoul queen	damage_type	paralysis
+Vault	type_of	room
+Potion of invulnerability	found_in	SLASHEM
+Tooth of an algolian suntiger	type_of	weapon_class
+Ghoul	damage_type	paralysis
+Crystal ball	type_of	Magical item tool
+Ring of warning	found_in	Hack 1
+Master Boot Disk	type_of	artifact
+Armor/zh-CN	when_equipped	piece of racial armor gives an extra point of AC
+Polymorph trap	special_ability	displace
+Wide-angle disintegration beam	special_ability	not save
+Rubber hose	material	plastic
+Farm implements	found_in	dNetHack
+Helm of opposite alignment/zh-CN	found_in	Band (dNetHack) as a tiara of treachery
+Silver dagger	material	silver
+EvilHack	can_use	use many more items against
+Ring of teleport control	found_in	its place
+HackEM	special_ability	negatively affect
+Hobbit	special_ability	The force be with
+Rumor messages	eating_effect	freezing sphere is like eating a yeti
+Homunculus	found_in	court of a Throne room#dNetHack ruled by a gnome k
+Brownie	found_in	Rogue quest
+Greater homunculus	found_in	EvilHack and HackEM
+Rint-343.txt	eating_effect	ring of invisibility
+Necromancer quest	eating_effect	Wizard of Yendor and his minions
+Skill	type_of	basic
+Magic chest (dNetHack)	type_of	tool
+Pet/ko	appears_on_level	49-49
+Spellbook of haste self	found_in	NetHack 1
+Amulet of Yendor/zh-CN	found_in	possession of Cthulhu (UnNetHack)
+Phase spider	type_of	monster_class
+Sleeping gas trap	type_of	trap
+Juiblexs swamp	drops	bones files
+Caveman/SLASHEM	drops	the main inventory
+Cerberus (monster)	also_known_as	Cerberus
+Skills (SpliceHack)	grants	a bonus
+Falchion	weapon_skill	scimitar
+Werewolf	grants	Lycanthropy - monsters cannot catch lycanthropy th
+Villithid	found_in	notdNetHack and notnotdNetHack
+Enormous rat (DynaHack)	found_in	SpliceHack and SlashTHEM
+Roundshield	type_of	shield
+Snark (SporkHack)	grants_intrinsic	(+5%) Partial
+Moria (roguelike)	found_in	a given game
+Cloak of protection/zh-CN	grants	warning, drain resistance and acts as a luckstone 
+Shelob (dNetHack)	also_known_as	Shelob
+Vampire (starting race in UnNetHack)	special_ability	have a difficult time accumulating intrinsics as a
+Convict quest/EvilHack	special_ability	certainly die in
+Spell staves	type_of	staff of divination
+Ring of hunger/zh-CN	found_in	treasure room of Asmodeus Lair (SpliceHack) at le
+Wooden harp	type_of	musical instrument
+Hobbit zombie	found_in	small groups
+Spellbook of blizzard	found_in	bones
+Serpent-necked lioness	type_of	monster in dNetHack
+Wand of wishing/zh-CN	found_in	a similar manner to The Eye of Vecna or The Hand o
+Elven chain mail	material	mithril
+Pet/ko	causes_teleport	always teleport to
+Cornuthaum	when_equipped	cornuthaum as Wizards
+Ozzy	found_in	EvilHack
+Game stages	special_ability	also destroy
+Centaur (monster)	also_known_as	centaur
+Price identification/ko	special_ability	relinquish ownership of the item (and the containe
+Transmuter (SpliceHack)	type_of	monster_class
+Thrashing Tulip Poplar	type_of	artifact quarterstaff
+Skull	material	bone
+EvilHack	grants	a 50% boost
+Green moldier	eating_effect	corpse or tin cures stoning on the first bite
+Hobbit zombie	drops	corpse
+Wizard of Yendor	magic_resistance	100
+Belt of weakness	type_of	armor_class
+Battle-axe	type_of	chaotic intelligent artifact
+Amul-343.txt	special_ability	depend on
+Baby crocodile	type_of	carnivorous animal
+Sokoban Level 1l	appears_on_level	1-1
+Convict/dNetHack	type_of	role available to the hero
+Revenant	type_of	monster_class
+Severed hand	type_of	meaty comestible
+Scroll of enchant armor	grants	the primary extrinsic property of the scales, alon
+Score	cost	150 zorkmids
+Orcish helm/zh-CN	grants	+3 AC
+Dwarvish roundshield/zh-CN	grants_intrinsic	half physical damage, hungerless regeneration, acid
+Price identification/ko	special_ability	ensure it is not cursed, then try to apply it. If 
+NotdNetHack	drops	frost horn you will likely need for Balams seal
+Monk/EvilHack	grants_intrinsic	magic
+Bronze plate mail	grants	any magic cancellation
+Amulet of drain resistance	found_in	SLASHEM
+Price identification	type_of	wand of nothing
+Wish	special_ability	be invoked for to fry all undead around
+Ruby golem	grants_resistance	Significant resistance
+Dirge (SporkHack)	grants_resistance	drain resistance
+Why do I keep dying?	special_ability	do for
+Alhoon (dNetHack)	type_of	form of illithid
+Spellbook of cure blindness	type_of	healing
+Magic 8-Ball	type_of	artifact
+Sword of Balance (HackEM)	type_of	short sword made of silver
+Android	when_equipped	weapons
+Item (HackEM)	grants	a 50% boost
+The Giant Caverns	appears_on_level	32-32
+Healer quest	special_ability	our prayers be as a wind upon
+Runed bracers	found_in	EvilHack
+Sokoban Level 3f	appears_on_level	3-3
+Flying boots	material	silver
+Floating eye	damage_type	paralysis
+Genocide/ko	special_ability	Instantly kill a monster which poses an immediate 
+Dwarf lord	found_in	NetHack 3
+Orcish scimitar	material	bone
+Wish/ko	special_ability	Have a random beatitude as if the item had been ra
+Twig blight	type_of	monster_class
+Unofficial conduct	grants	bonuses
+Kraken	attack_damage	5d4
+Potion of Pan Galactic Gargle Blaster	found_in	NetHack: The Next Generation and SlashTHEM
+Protection (monster spell)	type_of	monster spell
+The Idol of Moloch	found_in	goal level of the Archeologist quest
+NotdNetHack	combat_action	use water-based attacks to try and apply water dam
+Giant anaconda	found_in	level creation are given a random item to hide und
+Plate mail/zh-CN	found_in	Ancient Temple floor of the Chaos Temple Quest eac
+Amulet of Yendor	found_in	Sanctum after you obtain the Amulet of Yendor
+Blob	found_in	NetHack
+Echo	found_in	data of dNetHack
+Polypiling	eating_effect	fruit juice and water
+Amulet versus poison	grants_intrinsic	extrinsic poison
+Spellbook of enchant armor	type_of	Enchantment
+Barbarian quest	grants	me little sport
+Zookeeper	found_in	SlashTHEM
+Asmodeus	grants	him pause; additionally, he is very capable of fur
+XNetHack	can_use	cause him to angrily teleport to
+Blob	found_in	Hack for PDP-11
+Long sword/zh-CN	type_of	spirit
+Tourist/dNetHack	grants	magic resistance, telepathy and half spell damage 
+Elven shield	grants	elven monsters (including the hero) an AC bonus fo
+Frost salamander	found_in	Ice Queens Realm
+Ruggo the Gnome High King	type_of	unique monster
+Giant eel	found_in	first map of the Grues Cavern at level creation
+The Orb of Detection	grants	magic resistance, telepathy and half spell damage
+Dark elven bracers	type_of	armor_class
+Static blob	found_in	SLASHEM
+Ring of gain constitution	type_of	ring
+Deeper one (SLASHEM)	eating_effect	societies of hybrids along the coast
+Guardian naga	type_of	adult naga
+Invisible item	drops	corpse
+Club/zh-CN	drops	behind 2-6 clubs as part of their special death dr
+Short sword	when_equipped	at ones side
+Halberd/zh-CN	when_equipped	by Elf (starting race) Yeomen
+NetHack 3.0.5	type_of	instadeath
+Life saving/zh-CN	grants	unchanging
+Mana cloak	type_of	armor_class
+Hobgoblin	found_in	both cases
+Speed boots	grants	very fast speed while worn
+Orcish cloak	type_of	Artifact orcish cloak
+Mog	found_in	Wikipedia:Fafhrd and the Gray Mouser stories o
+Polypiling/ko	special_ability	also be considered in the temporal sense. By the
+NetHack-- 3.1.3	type_of	Variant of nethack 3
+Shiro	grants_intrinsic	stoning
+Water troll	also_known_as	water troll
+Sacrifice/ko	special_ability	punish
+Mind flayer	type_of	instadeath even while polymorphed
+Stoning	when_equipped	potions
+Gnome warrior	found_in	SLASHEM
+Pit fiend	magic_resistance	65
+Flail/zh-CN	when_equipped	by Yeenoghu; if it hits a target
+Ice Mage quest	type_of	Great sorcerer
+Spl2-343.txt	found_in	wall! (secret door
+Utility belt	found_in	dNetHack
+Convict/SpliceHack	grants	magic resistance, stealth, automatic searching, an
+Master mind flayer	eating_effect	anything afterward
+Comestible	grants_ability	Grant a wish, make
+Astral deva (SLASHEM)	drops	through enemy ranks
+Illiterate/ko	can_obtain	take quite some time, so have the means to heal
+Salamander (starting race)	appears_on_level	14-14
+Zombie	drops	behind
+Tool	eating_effect	tallow candles breaks vegetarian conduct
+Padawan	special_ability	help
+Wish	grants	the very useful half physical damage and teleport 
+Wood nymph	grants_ability	prevent a nymph from escaping as easily and give
+Good Neighbor	when_equipped	in open inventory
+The War-helm of the Dreaming	found_in	dNetHack
+Potion of gain level	found_in	Bottom of the dragon caves branch
+Options (3.4.3)	can_use	be useful if
+Ranger/SLASHEM	when_equipped	Grants reflection and applies a +1d5 to-hit bonus 
+Valavi	grants	resistance
+Vilya	grants_intrinsic	shock
+Migo	appears_on_level	10-10
+Agent	found_in	Infidel games
+NetHack 3.2.2	appears_on_level	30-30
+Price identification	special_ability	not break
+Lucifer (EvilHack)	found_in	EvilHack
+Shadow wolf	alignment	&minus;8
+Constitution	type_of	attribute in NetHack
+Monster spell	drops	to a life-threatening level
+Coven leader	found_in	dNetHack
+Gnomish suit	type_of	armor_class
+Xiuhcoatl (EvilHack)	grants	telepathy
+Keystone Kop	drops	death drops
+Potion of monster detection	found_in	NetHack
+Atgeir	type_of	weapon_class
+Flame Mage quest	type_of	Great sorcerer
+Illithanachronounbinder	eating_effect	ttack
+Artifact (HackEM)	when_equipped	Grants drain resistance
+Wand of fear	type_of	beam
+Bat from Hell (SLASHEM)	found_in	SLASHEM
+Apply	special_ability	apply spellbooks to receive an indication of how m
+Enormous rat (dNetHack)	type_of	monster_class
+Juiblex	magic_resistance	65
+Red naga hatchling	type_of	juvenile naga
+Gargoyle	grants	temporary stoning resistance and cures stoning
+Gauntlets of dexterity/zh-CN	grants	stealth and automatic searching while worn, and ad
+Stiletto	found_in	Anachrononaut quest have an effective   chance of 
+Convict/EvilHack	type_of	Convict
+ANSI C	can_use	cause
+Xiuhcoatl (EvilHack)	grants_resistance	fire resistance
+Wand of undead turning	type_of	beam
+Cloak of invisibility	grants	invisibility while worn
+EvilHack	grants_intrinsic	sleep and drain
+Rogue quest	drops	you
+Grimlock (SLASHEM)	type_of	monster_class
+Priest (player monster)	drops	named player monster statue of the appropriate gen
+Ring of slow digestion	when_equipped	By clockwork automaton (starting race) or incantif
+Firefighter	type_of	role
+Guard dog	grants_intrinsic	the aggravate monster
+Gehennom mapping	grants	you enough time
+Armor of Retribution	base_item	crystal plate mail
+Large cat	eating_effect	corpse or tin will confer the aggravate monster in
+Gelatinous cube	material	any
+Flail/zh-CN	grants	an extra attack at experience level 16 (made with 
+Archaic plate mail	size	Gigantic
+Potion of blood (UnNetHack)	type_of	potion
+Gauntlets of reflection	type_of	armor_class

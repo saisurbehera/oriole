@@ -1,0 +1,17 @@
+{
+  "processing_time": "0:12:23.241158",
+  "final_stats": {
+    "total_triples": 39504,
+    "unique_entities": 24170,
+    "unique_relations": 55,
+    "high_priority_facts": 2201
+  },
+  "files_generated": [
+    "data/nethack_wiki_full.json",
+    "data/nethack_kg_full.tsv",
+    "data/nethack_kg_enhanced.tsv",
+    "data/nethack_kg_final_a_plus.tsv",
+    "data/nethack_kg_final_a_plus_final_report.json"
+  ],
+  "quality_grade": "A+"
+}

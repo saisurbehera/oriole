@@ -1,0 +1,262 @@
+[
+  {
+    "path": "BALROG/action_only_nethack_dataset/train/data-00000-of-00001.arrow",
+    "bytes": 6952824
+  },
+  {
+    "path": "BALROG/completions-only-nethack-sft/checkpoint-100/model.safetensors",
+    "bytes": 497786496
+  },
+  {
+    "path": "BALROG/completions-only-nethack-sft/checkpoint-100/optimizer.pt",
+    "bytes": 995666874
+  },
+  {
+    "path": "BALROG/completions-only-nethack-sft/checkpoint-605/model.safetensors",
+    "bytes": 497786496
+  },
+  {
+    "path": "BALROG/completions-only-nethack-sft/checkpoint-605/optimizer.pt",
+    "bytes": 995666874
+  },
+  {
+    "path": "BALROG/completions-only-nethack-sft/model.safetensors",
+    "bytes": 497786496
+  },
+  {
+    "path": "BALROG/enhanced_nethack_dataset/train/cache-2af73bc9c527ea89.arrow",
+    "bytes": 28238320
+  },
+  {
+    "path": "BALROG/enhanced_nethack_dataset/train/cache-c79735654f999d75.arrow",
+    "bytes": 28238320
+  },
+  {
+    "path": "BALROG/enhanced_nethack_dataset/train/data-00000-of-00001.arrow",
+    "bytes": 12036048
+  },
+  {
+    "path": "BALROG/enhanced_nethack_dataset_json/train/data-00000-of-00001.arrow",
+    "bytes": 12369912
+  },
+  {
+    "path": "BALROG/expert_training_data.json",
+    "bytes": 5525859
+  },
+  {
+    "path": "BALROG/json_no_reasoning_nethack_dataset/train/cache-00d4489b3d5c9a25.arrow",
+    "bytes": 6676120
+  },
+  {
+    "path": "BALROG/json_no_reasoning_nethack_dataset/train/cache-459c6c0a3157932e.arrow",
+    "bytes": 12950840
+  },
+  {
+    "path": "BALROG/json_no_reasoning_nethack_dataset/train/cache-819b0f6a96806a50.arrow",
+    "bytes": 6173336
+  },
+  {
+    "path": "BALROG/json_no_reasoning_nethack_dataset/train/cache-a101582530391068.arrow",
+    "bytes": 18763992
+  },
+  {
+    "path": "BALROG/json_no_reasoning_nethack_dataset/train/cache-a2a12b5ad5b50de4.arrow",
+    "bytes": 11663976
+  },
+  {
+    "path": "BALROG/json_no_reasoning_nethack_dataset/train/cache-aeb5bfa4ac0b9ade.arrow",
+    "bytes": 13776136
+  },
+  {
+    "path": "BALROG/json_no_reasoning_nethack_dataset/train/cache-c1798161c1b956b7.arrow",
+    "bytes": 11663976
+  },
+  {
+    "path": "BALROG/json_no_reasoning_nethack_dataset/train/cache-edee175658abdcf7.arrow",
+    "bytes": 6676120
+  },
+  {
+    "path": "BALROG/json_no_reasoning_nethack_dataset/train/cache-f480189894f50e19.arrow",
+    "bytes": 11948368
+  },
+  {
+    "path": "BALROG/json_no_reasoning_nethack_dataset/train/data-00000-of-00001.arrow",
+    "bytes": 7100448
+  },
+  {
+    "path": "BALROG/minimal-working-sft/checkpoint-6/model.safetensors",
+    "bytes": 497774208
+  },
+  {
+    "path": "BALROG/minimal-working-sft/checkpoint-6/optimizer.pt",
+    "bytes": 995642298
+  },
+  {
+    "path": "BALROG/minimal-working-sft/checkpoint-87/model.safetensors",
+    "bytes": 1976163472
+  },
+  {
+    "path": "BALROG/minimal-working-sft/checkpoint-87/optimizer.pt",
+    "bytes": 3952505274
+  },
+  {
+    "path": "BALROG/minimal-working-sft/checkpoint-87/tokenizer.json",
+    "bytes": 11421896
+  },
+  {
+    "path": "BALROG/minimal-working-sft/model.safetensors",
+    "bytes": 1976163472
+  },
+  {
+    "path": "BALROG/minimal-working-sft/tokenizer.json",
+    "bytes": 11421896
+  },
+  {
+    "path": "BALROG/nld-aa-taster.zip",
+    "bytes": 1711793188
+  },
+  {
+    "path": "BALROG/nld-aa-taster/nle_data/20220518-053802_x1ygqon1/nle.169020.28.ttyrec3.bz2",
+    "bytes": 10764175
+  },
+  {
+    "path": "BALROG/nld-aa-taster/nle_data/20220518-053804_31d0ntg3/nle.589907.30.ttyrec3.bz2",
+    "bytes": 6561199
+  },
+  {
+    "path": "BALROG/nld-aa-taster/nle_data/20220518-053808_pi6ba1x0/nle.2314632.86.ttyrec3.bz2",
+    "bytes": 6322680
+  },
+  {
+    "path": "BALROG/nld-aa-taster/nle_data/20220518-053813_7eyss1fu/nle.2763062.6.ttyrec3.bz2",
+    "bytes": 5356417
+  },
+  {
+    "path": "BALROG/nld-aa-taster/nle_data/20220518-053813_7z8a2cjg/nle.2763070.51.ttyrec3.bz2",
+    "bytes": 5339423
+  },
+  {
+    "path": "BALROG/nld-aa-taster/nle_data/20220518-053814_olnnx8ly/nle.378175.71.ttyrec3.bz2",
+    "bytes": 11405528
+  },
+  {
+    "path": "BALROG/nld-aa-taster/nle_data/20220518-053814_zc3sg7gy/nle.2599333.85.ttyrec3.bz2",
+    "bytes": 8193030
+  },
+  {
+    "path": "BALROG/nld-aa-taster/nle_data/20220518-053816_0_4wmvbj/nle.2678145.82.ttyrec3.bz2",
+    "bytes": 9172684
+  },
+  {
+    "path": "BALROG/prime-rl/tests/unit/inference/rewards.pkl",
+    "bytes": 8569843
+  },
+  {
+    "path": "BALROG/results/2025-07-05_23-50-35_dreamcoder_meta-llama_Llama-3.2-1B-Instruct/nle/NetHackChallenge-v0/NetHackChallenge-v0_run_16.csv",
+    "bytes": 6667094
+  },
+  {
+    "path": "BALROG/results/2025-07-05_23-50-35_dreamcoder_meta-llama_Llama-3.2-1B-Instruct/nle/NetHackChallenge-v0/NetHackChallenge-v0_run_22.csv",
+    "bytes": 9295269
+  },
+  {
+    "path": "BALROG/results/2025-07-05_23-50-35_dreamcoder_meta-llama_Llama-3.2-1B-Instruct/nle/NetHackChallenge-v0/NetHackChallenge-v0_run_48.csv",
+    "bytes": 5944482
+  },
+  {
+    "path": "BALROG/simple-json-nethack-sft/checkpoint-200/model.safetensors",
+    "bytes": 497786496
+  },
+  {
+    "path": "BALROG/simple-json-nethack-sft/checkpoint-200/optimizer.pt",
+    "bytes": 995666874
+  },
+  {
+    "path": "BALROG/simple-json-nethack-sft/checkpoint-242/model.safetensors",
+    "bytes": 497786496
+  },
+  {
+    "path": "BALROG/simple-json-nethack-sft/checkpoint-242/optimizer.pt",
+    "bytes": 995666874
+  },
+  {
+    "path": "BALROG/simple-json-nethack-sft/model.safetensors",
+    "bytes": 497786496
+  },
+  {
+    "path": "BALROG/simple-working-sft/checkpoint-18/model.safetensors",
+    "bytes": 497786496
+  },
+  {
+    "path": "BALROG/simple-working-sft/checkpoint-18/optimizer.pt",
+    "bytes": 995666874
+  },
+  {
+    "path": "BALROG/simple-working-sft/model.safetensors",
+    "bytes": 497786496
+  },
+  {
+    "path": "BALROG/strategic_nethack_dataset/train/data-00000-of-00001.arrow",
+    "bytes": 7888536
+  },
+  {
+    "path": "data/kgqa_cache/entity_faiss.index",
+    "bytes": 46103085
+  },
+  {
+    "path": "data/kgqa_cache/metadata.pkl",
+    "bytes": 5448936
+  },
+  {
+    "path": "data/nethack_kg_full/nethack_kg.json",
+    "bytes": 7277565
+  },
+  {
+    "path": "data/nethack_kg_full/nethack_kg_intermediate.json",
+    "bytes": 6006101
+  },
+  {
+    "path": "data/nethack_wiki_full.json",
+    "bytes": 156400063
+  },
+  {
+    "path": "data/nethackwiki_current.xml",
+    "bytes": 188382699
+  },
+  {
+    "path": "data/nld-aa-taster/nle_data/20220518-053802_x1ygqon1/nle.169020.28.ttyrec3.bz2",
+    "bytes": 10764175
+  },
+  {
+    "path": "data/nld-aa-taster/nle_data/20220518-053804_31d0ntg3/nle.589907.30.ttyrec3.bz2",
+    "bytes": 6561199
+  },
+  {
+    "path": "data/nld-aa-taster/nle_data/20220518-053808_pi6ba1x0/nle.2314632.86.ttyrec3.bz2",
+    "bytes": 6322680
+  },
+  {
+    "path": "data/nld-aa-taster/nle_data/20220518-053813_7eyss1fu/nle.2763062.6.ttyrec3.bz2",
+    "bytes": 5356417
+  },
+  {
+    "path": "data/nld-aa-taster/nle_data/20220518-053813_7z8a2cjg/nle.2763070.51.ttyrec3.bz2",
+    "bytes": 5339423
+  },
+  {
+    "path": "data/nld-aa-taster/nle_data/20220518-053814_olnnx8ly/nle.378175.71.ttyrec3.bz2",
+    "bytes": 11405528
+  },
+  {
+    "path": "data/nld-aa-taster/nle_data/20220518-053814_zc3sg7gy/nle.2599333.85.ttyrec3.bz2",
+    "bytes": 8193030
+  },
+  {
+    "path": "data/nld-aa-taster/nle_data/20220518-053816_0_4wmvbj/nle.2678145.82.ttyrec3.bz2",
+    "bytes": 9172684
+  },
+  {
+    "path": "simple_kg_model.pt",
+    "bytes": 5426336
+  }
+]

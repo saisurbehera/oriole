@@ -1,0 +1,42 @@
+{
+  "total_triples": 44,
+  "unique_entities": 38,
+  "unique_relations": 13,
+  "relation_distribution": {
+    "attack_type": 7,
+    "attack_damage": 7,
+    "weight": 4,
+    "armor_class": 3,
+    "difficulty": 3,
+    "base_level": 3,
+    "speed": 3,
+    "damage_type": 3,
+    "has_resistance": 3,
+    "grants_resistance": 3,
+    "alignment": 2,
+    "cost": 2,
+    "eating_effect": 1
+  },
+  "top_entities": {
+    "Medusa": 18,
+    "soldier ant": 14,
+    "Wumpus": 8,
+    "poison resistance": 4,
+    "3": 3,
+    "20": 3,
+    "bite": 3,
+    "neutral": 2,
+    "2d4": 2,
+    "poison": 2,
+    "2": 2,
+    "6": 1,
+    "18": 1,
+    "sting": 1,
+    "3d4": 1,
+    "or tin has a  chance of granting poison resistance": 1,
+    "9": 1,
+    "8": 1,
+    "2500": 1,
+    "3d6": 1
+  }
+}

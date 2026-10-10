@@ -1,0 +1,17 @@
+{
+  "Planning-First Agent": {
+    "progression": 0.0,
+    "time": 2.62856125831604,
+    "episodes": 5
+  },
+  "Feedback MCTS Agent": {
+    "progression": 0.0,
+    "time": 2.308133840560913,
+    "episodes": 5
+  },
+  "Simple Heuristic Agent (baseline)": {
+    "progression": 0.0,
+    "time": 1.869847297668457,
+    "episodes": 5
+  }
+}

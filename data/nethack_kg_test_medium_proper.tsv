@@ -1,0 +1,408 @@
+head	type	tail
+War hat	type_of	helm
+Air elemental	has_resistance	petrification resistance
+Uruk-hai	found_in	NetHack
+Fire vortex	attack_damage	1d10
+Frost giant	base_level	10
+Black mold (SLASHEM)	attack_damage	0d4
+Digging for victory	special_ability	make
+Ring of fire resistance	eating_effect	jewelry has a   chance of successfully absorbing i
+NetHack 3.0.1	appears_on_level	1-1
+Water walking boots	found_in	NetHack
+Skeleton	attack_type	touch
+Lab coat	type_of	cloak
+Abbot	alignment	neutral (0)
+Deeper one (SLASHEM)	type_of	monster_class
+Object materials (dNetHack)	material	mithril
+Sasquatch	attack_damage	1d8
+Giant bat	attack_damage	1d6
+Shield/zh-CN	when_equipped	shield
+Rakuyo	material	metal
+Elf mummy	found_in	NetHack 3
+Kop Kaptain	armor_quality	poor
+Fire giant	speed_category	fast
+Earendil	alignment	chaotic
+Chickatrice	attack_damage	1d2
+Fort Ludios	special_ability	allow
+Illithanachronounbinder	type_of	role
+Baby yellow dragon	special_ability	he eat
+Shade	has_resistance	petrification resistance
+Stone golem	type_of	monster_class
+Artifact (SpliceHack)	material	gold
+Cloak of magic resistance	appears_on_level	20-20
+Sea monster	found_in	NetHack
+Lynx	attack_type	bite
+Player monster	found_in	main dungeon
+Disgusting mold	alignment	neutral (0)
+Orcish chain mail	found_in	NetHack
+Black naga hatchling	attack_type	bite
+Grund the Orc King	base_level	20
+Wax golem	attack_type	claw
+Green-elf	type_of	monster_class
+Drow (SpliceHack)	magic_resistance	60
+Pegasus	found_in	SLASHEM and SlashTHEM
+Intrinsic protection	grants	a bonus
+Wand of striking	type_of	wand
+Baby orange dragon	eating_effect	pets and characters
+Gnoll warrior	difficulty	26
+Shimmering dragon (SLASHEM)	difficulty_category	very hard
+Baby gray dragon	difficulty_category	hard
+Water demon	combat_rating	2.0
+White dragon scale mail	grants	cold resistance
+Purple worm	special_ability	engulf
+Silver spear	found_in	Astral Plane
+Ice devil	armor_class	-4
+Orange dragon scale mail	weight	300
+Kobold shaman	attack_type	spell
+Aligned priest	special_ability	prompt
+Enlightenment	when_equipped	items
+Giant beetle	has_resistance	poison resistance
+Gold golem	type_of	golem
+Baby long worm	found_in	NetHack
+Armr-343.txt	grants	telepathy
+Drow Healer	appears_on_level	1-1
+Master lich	magic_resistance	90
+Arch-lich	magic_resistance	90
+Black naga hatchling	has_resistance	stoning resistance
+Panther	found_in	NetHack-- 3
+Green dragon	attack_damage	3d8
+Plastic golem	speed_category	fast
+Ymir	grants	Temporary intrinsic
+Water nymph	magic_resistance	20
+Barbarian/dNetHack	grants_resistance	magic resistance
+Elven boots	type_of	armor_class
+Meat ring	type_of	comestible
+Hippocrates	difficulty	22
+Black rat	speed	12
+Protection racket	special_ability	result in
+Jackal	attack_type	bite
+Horned devil	magic_resistance	50
+Solar	type_of	monster_class
+Unicorn or horse	found_in	locate level
+Snow ant	speed_category	very fast
+Orcus	survivability_score	20
+Object properties	type_of	wikitable
+The Forge	grants_intrinsic	cold
+Runesword	type_of	weapon_class
+Orcish cloak/zh-CN	grants_resistance	fire resistance
+The Platinum Yendorian Express Card	type_of	artifact
+Lolths Fang	grants_resistance	drain resistance
+Bugle	material	copper
+Yendorian army	found_in	small groups
+Ring mail	type_of	armor_class
+Elf (monster)	armor_class	10
+Blue dragon	appears_on_level	14-14
+Dungeon fern	grants_ability	give
+Black naga	has_resistance	stoning resistance
+Lynx	alignment	neutral (0)
+XNetHack	grants	stealth
+Human zombie	found_in	NetHack
+Rumor messages	causes_teleport	teleport
+Wizard (player monster)	alignment	neutral (0)
+Silver dragon	appears_on_level	15-15
+Black naga	attack_damage	0d0
+Glamdring (EvilHack)	grants_resistance	shock resistance
+Leprechaun wizard	combat_rating	0.0
+Pirate quest	found_in	SlashTHEM
+Blue dragon	found_in	throne rooms at dungeon levels 15 and below
+Lucern hammer	type_of	polearm
+Human zombie	found_in	goal level
+Archaic plate mail	material	copper
+Oracle (level)	found_in	NetHack
+Hawaiian shirt	material	cloth
+Imp or minor demon	found_in	NetHack
+Baby red dragon	attack_type	bite
+Kobold shaman	magic_resistance	10
+Doppelganger	magic_resistance	20
+Gauntlets of protection	found_in	EvilHack and HackEM
+Kobold mummy	found_in	NetHack
+Ring of fire resistance	type_of	ring
+Dispater	speed	15
+Elf-lady (dNetHack)	type_of	monster_class
+Jellyfish	alignment	neutral (0)
+Role difficulty/Variants	appears_on_level	30-30
+Ape	speed	12
+Shrieker	eating_effect	corpses
+Werebane	found_in	ground or as a death drop has a base   chance of b
+High-elf	attack_type	spell
+The Scorpion Carapace	type_of	artifact
+Horned devil	attack_type	claw
+Water moccasin	damage_type	poison
+Vampire (monster class)	found_in	Valley of the Dead
+The Lyre of Orpheus	material	Gold
+Yellow light	has_resistance	poison resistance
+Hippocrates	attack_damage	1d6
+Ice troll	property	genocidable
+Rolling boulder trap	found_in	NetHack
+Orion	magic_resistance	30
+Blue dragon scales	grants_intrinsic	shock
+Yeti	speed	15
+Iron golem	attack_damage	4d6
+Keystone Kop	type_of	monster_class
+Object materials (EvilHack)	material	iron
+Vampire (monster class)	type_of	monster class
+Sheol	special_ability	tell
+Xorn	found_in	upper filler level
+Rogue quest	special_ability	show
+Mastodon	speed	12
+Bugs in NetHack 3.4.3	appears_on_level	0-0
+Wand of slow monster	type_of	beam
+Twoflower	survivability_score	2
+Shadow ogre (HackEM)	property	genocidable
+Arrow	found_in	Hack 1
+Horned devil	found_in	Gehennom
+The Web of Lolth	grants_intrinsic	drain
+Throne room	appears_on_level	5-5
+Durins Bane (UnNetHack)	attack_type	weapon
+Itlachiayaque (SlashTHEM)	type_of	artifact
+Pony	property	genocidable
+Ki-rin	attack_type	kick
+Vorpal jabberwock (SpliceHack)	base_level	20
+Orcish chain mail	type_of	armor_class
+Orcish bow	material	wood
+Pet	drops	sleep
+Prisoner	speed	12
+Spirits (dNetHack)	grants	immunity
+Pony	speed	16
+Noble	grants	telepathy
+Small mimic	property	genocidable
+Gnome lord	survivability_score	0
+Bow	found_in	Hack 1
+Keystone Kop	attack_type	weapon
+Bow	grants_resistance	poison resistance
+Giant scorpion	type_of	monster_class
+Water moccasin	has_resistance	poison resistance
+Amulet versus stone	found_in	SLASHEM
+The Mantle of Wrath	base_item	Orcish cloak
+Monk (player monster)	drops	named player monster statue behind instead of a na
+Art2-343.txt	grants_resistance	magic resistance
+Figurine	found_in	NetHack
+Axe	type_of	artifact weapon
+Human mummy	found_in	NetHack 3
+SlashTHEM	special_ability	prompt
+The Sword of Kas	found_in	EvilHack
+Goblin King	attack_type	covetous
+Carnivorous ape	attack_type	claw
+Golden naga hatchling	attack_type	bite
+Steel golem	speed	15
+Gnome quest	special_ability	help
+Floating eye	appears_on_level	7-7
+Rope golem	attack_type	attack
+Vorpal jabberwock (UnNetHack)	alignment	neutral (0)
+Archeologist (player monster)	difficulty_category	hard
+Bugbear	found_in	Caveman quest
+White dragon scale mail	weight	300
+Confusion	causes_paralysis	stun
+Jackal	found_in	Hack 1
+Werecreature (SLASHEM)	special_ability	follow
+Enormous rat (DynaHack)	found_in	Yeoman quest
+Gnome thief	alignment	neutral (0)
+NetHack 3.0.1	grants_intrinsic	fire
+Ettin mummy	has_resistance	cold resistance
+Potion of polymorph	found_in	NetHack-- 3
+NetHack 3.0.7	type_of	instadeath
+Spirits (dNetHack)	appears_on_level	22-22
+Ape	combat_rating	3.5
+Dwarvish roundshield	material	mithril
+Baby crocodile	property	genocidable
+Shadow dragon scales	found_in	EvilHack and HackEM
+Flying	found_in	NetHack
+Orcus	frequency	Unique
+Jaguar	attack_damage	1d4
+Stalker	found_in	Monk quest
+Gnoll chieftain	armor_class	-5
+Crossbow	found_in	NetHack
+Stomping boots	found_in	SpliceHack and HackEM
+Rope golem	has_resistance	poison resistance
+Weresnake	attack_damage	3d4
+Guardian naga hatchling	eating_effect	corpse or tin has a   chance of conveying poison r
+Twoflower	difficulty	22
+Spellbook of finger of death	appears_on_level	7-7
+Rogue (player monster)	drops	named player monster statue behind instead of a na
+Barbarian (player monster)	speed	12
+Wizard mode	special_ability	find
+Wand of slow monster	type_of	wand
+Basilisk (SLASHEM)	type_of	monster_class
+Silver saber	drops	or in shops
+Monkey	found_in	Healer quest
+Giant mummy	speed_category	fast
+Level teleport	special_ability	save
+Gnome mummy	speed	10
+Naga	found_in	Dungeons & Dragons
+Lynx	found_in	SLASH 6
+Dretch	found_in	SLASHEM
+Grey-elf	speed	12
+Corpse	grants_intrinsic	the aggravate monster
+Lemure	found_in	NetHack 3
+Ring of increase accuracy	found_in	NetHack 3
+Ice	eating_effect	corpse
+Ranger (player monster)	special_ability	result in an unexpected and YASD end to
+Barbed devil	appears_on_level	16-16
+The Iron Ball of Liberation	type_of	artifact
+EvilHack	grants_intrinsic	disintegration
+Spotted jelly	has_resistance	stoning resistance
+The Lyre of Orpheus	type_of	artifact
+Nightmare (SLASHEM)	attack_type	butt
+Dwarf zombie	has_resistance	sleep resistance
+Ogre	found_in	Gnome quest
+Owlbear	alignment	neutral (0)
+Beginners guide to NetHack sources	appears_on_level	6-6
+Ogre (monster class)	type_of	monster class
+Steam vortex	alignment	neutral (0)
+Lemure	type_of	monster_class
+Scroll of teleportation	found_in	Hack 1
+Shocking sphere	alignment	neutral (0)
+Water elemental	found_in	Monk quest
+Tiger	found_in	Caveman quest
+Nightgaunt (SLASHEM)	grants_resistance	cold resistance
+Mist wolf	found_in	Yeoman quest
+Water moccasin	speed	15
+Paralysis	special_ability	protect
+Rumor messages	causes_paralysis	stun
+Doctor Frankenstein	frequency	Unique
+Fox	found_in	Yeoman quest
+Wizard/SLASHEM	appears_on_level	15-15
+Elf-lady (dNetHack)	found_in	dNetHack and notdNetHack
+Armr-343.txt	grants	cold resistance
+Ogresmasher	appears_on_level	30-30
+Kop Sergeant	alignment	10
+Wizard/dNetHack	appears_on_level	8-8
+Astral deva (SLASHEM)	damage_type	stun
+Valkyrie (player monster)	survivability_score	2
+Pixie	type_of	monster_class
+Stone dragon	found_in	throne rooms
+Tool-343.txt	special_ability	bite
+Wood golem	found_in	NetHack
+Warning	type_of	property
+Byakhee (SLASHEM)	found_in	Lethe patch
+Pegasus (EvilHack)	attack_damage	4d4
+Orion	type_of	creature
+Gem	found_in	dungeon
+Chickatrice	drops	corpse
+Galltrit	has_resistance	poison resistance
+Lesser homunculus	found_in	Knight quest
+Chieftain	speed_category	fast
+Yeti	property	genocidable
+Mordor orc	found_in	large groups
+Golden naga	speed	14
+Yellow light	type_of	monster_class
+SpliceHack/Rules changes	appears_on_level	15-15
+Orcish ring mail	type_of	body armor
+Norn	difficulty	23
+Water elemental	has_resistance	poison resistance
+Gray dragon scales	drops	behind scales
+Nightgaunt (dNetHack)	when_equipped	weapon
+Barbed devil	difficulty	10
+Imp or minor demon	found_in	NetHack 3
+Fire elemental	has_resistance	fire resistance
+Wyvern	property	genocidable
+Vampire (starting race in SLASHEM)	special_ability	get
+Golden naga	damage_type	mage
+Object properties	causes_paralysis	stun
+Red naga hatchling	has_resistance	poison resistance
+Leaked development version	appears_on_level	0-0
+Small shield	type_of	shield
+Ring of adornment	type_of	ring
+Athame	weapon_skill	dagger
+Boots	grants	stealth
+Droven spear	size	medium
+Frost Brand	grants_resistance	cold resistance
+Partisan	drops	or in shops
+The Treasury of Proteus	grants	magic resistance
+Dingo	found_in	NetHack-- 3
+Aleax	difficulty	12
+Jumping spider	found_in	Ranger quest
+Doppelganger	difficulty	11
+Chickatrice	attack_type	bite
+Silver dragon scale mail	found_in	NetHack
+Ogre	alignment	chaotic
+Chain mail	type_of	body armor
+Corpseless	type_of	monster_class
+Warg	type_of	monster_class
+Yellow dragon scales	weight	150
+Crystal ice golem	armor_quality	excellent
+Orc (monster)	type_of	monster_class
+Archeologist/ru	appears_on_level	1-1
+Oilskin cloak	grants_resistance	sleep resistance
+Large mimic	alignment	neutral (0)
+Potion of polymorph	found_in	NetHack
+Excalibur	type_of	long sword
+Celestial dragon scales	grants_resistance	sleep resistance
+Large cat	grants_intrinsic	the aggravate monster
+Asphynx	found_in	level creation are given a random item to hide und
+Abominable Snowman (notdNetHack)	grants_resistance	cold resistance
+Ring of polymorph control	type_of	ring
+Heavy iron ball	cost	10
+Pet/ko	causes_paralysis	stun
+Mountain centaur	attack_damage	1d10
+Dwarvish iron helm	grants	+1 AC
+Gnoll	found_in	Various types of fantasy media
+Winter wolf	has_resistance	cold resistance
+Healer	grants_intrinsic	hallucination
+Ogre king	speed_category	fast
+Human mummy	found_in	Undead Slayer quest
+Gauntlets of dexterity/zh-CN	material	silver
+Zombie (GruntHack)	type_of	monster_class
+Human mummy	attack_type	claw
+Shadow dragon scales	type_of	cloak
+Alhoon (EvilHack)	found_in	EvilHack and HackEM
+Elf quest	special_ability	be the last time
+Player monster	appears_on_level	20-20
+Hippocrates	has_resistance	poison resistance
+Weretiger	speed_category	fast
+Baby red dragon	special_ability	Speak with, he said, that is a dragonlord, or at
+Ogre king	type_of	monster_class
+Bard	type_of	artifact weapon
+Yog-Sothoth	appears_on_level	13-13
+Large spider	found_in	level creation are given a random item to hide und
+Drow (SpliceHack)	attack_type	weapon
+Gauntlets of power/zh-CN	grants_intrinsic	drain
+Ring of free action	eating_effect	jewelry has a   chance of successfully absorbing i
+Elder brain	found_in	dNetHack
+Imp	alignment	&minus;7
+Twoflower	alignment	neutral (0)
+Shade	attack_type	touch
+Raven	speed_category	very fast
+Ice troll	difficulty	12
+Cornuthaum	appears_on_level	20-20
+Gnome mummy	has_resistance	poison resistance
+Throne	grants	a wish
+Earth elemental	has_resistance	fire resistance
+Diamond golem	material	inanimate
+Brown mold	found_in	NetHack 3
+NetHack 3.0.4	grants_resistance	fire resistance
+Green mold	damage_type	acid
+Bullwhip	type_of	artifact
+Samurai quest	special_ability	tell
+Ogre lord	attack_damage	2d6
+Manes	found_in	large groups
+Gnome (monster)	survivability_score	0
+Blue dragon scales	weight	300
+Flesh golem	type_of	monster_class
+Blood imp (SLASHEM)	appears_on_level	4-4
+Charon	type_of	monster
+Elf zombie	property	genocidable
+Shimmering dragon (monster)	appears_on_level	15-15
+Potion of healing	found_in	Hack 1
+Coyote	speed	12
+Master Assassin	difficulty_category	hard
+Werepanther	found_in	SLASHEM
+Goblin King	type_of	creature
+Excalibur	appears_on_level	7-7
+Drop	can_use	cause
+Archeologist (player monster)	base_level	10
+Dingo	attack_type	bite
+Spell staves	material	mithril
+Healer	appears_on_level	15-15
+Vorpal jabberwock (GruntHack)	type_of	monster_class
+Ring of poison resistance	found_in	Hack 1
+Giant zombie	has_resistance	sleep resistance
+Punishment	type_of	monster_class
+Deferred features	appears_on_level	20-20
+Fog cloud	type_of	monster_class
+Baby gray dragon	found_in	NetHack
+Baby green dragon	found_in	any dungeon levels
+Centipede	found_in	NetHack
+Crowning	grants_resistance	acid resistance
+Yellow mold	found_in	NetHack 3
+Frost giant	type_of	Giant humanoid

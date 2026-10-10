@@ -1,0 +1,408 @@
+head	type	tail
+Yellow dragon	type_of	monster_class
+Ice devil	attack_damage	1d4
+Gypsy	alignment	neutral (0)
+Gray dragon	attack_type	claw
+Roles and races (HackEM)	appears_on_level	4-4
+Lord Surtur	base_level	15
+DNetHack artifacts	appears_on_level	30-30
+XNetHack	drops	bones
+Spirits (dNetHack)	appears_on_level	1-1
+Valkyrie	appears_on_level	5-5
+HackEM	appears_on_level	30-30
+Artifact (HackEM)	grants_intrinsic	drain
+Quantum mechanic	found_in	NetHack 1
+Vrock	has_resistance	poison resistance
+Vampire	alignment	chaotic
+Noble	grants_intrinsic	shock
+Dragon	found_in	Astral Plane
+Guardian naga	found_in	NetHack 3
+Oracle (monster)	attack_type	attack
+Asmodeus	attack_type	spell
+Watchman	special_ability	follow
+Black dragon	attack_type	claw
+Gypsy	has_resistance	sleep resistance
+Nurse	found_in	NetHack
+Green dragon	attack_type	claw
+Item (SpliceHack)	grants	acid resistance
+Barbarian	grants_intrinsic	magic
+Movanic deva (SLASHEM)	damage_type	fire
+Movanic deva (SLASHEM)	difficulty_category	very hard
+Movanic deva (SLASHEM)	base_level	12
+Monadic deva (SLASHEM)	grants	magic resistance
+Executioner	has_resistance	poison resistance
+Polymorph control/ko	drops	Dragon scales
+Arch-lich	difficulty_category	very hard
+Master mind flayer	speed	12
+Kraken	difficulty_category	very hard
+Unicorn horn	type_of	weapon_class
+Ghoul queen	speed_category	fast
+Food-343.txt	material	metal
+Quantum mechanic	attack_damage	1d4
+Experience level	appears_on_level	12-12
+Corpse	grants_intrinsic	poison
+Ice devil	armor_quality	good
+Water troll	difficulty_category	hard
+Giant ant	found_in	Valkyrie quest
+Artifact YANIs	grants	reflection
+Vlad the Impaler	attack_type	weapon
+Master lich	has_resistance	poison resistance
+Wizard mode ascension	appears_on_level	10-10
+Art1-343.txt	grants_intrinsic	cold
+Archon	has_resistance	fire resistance
+Rabid rat	found_in	Healer quest
+Red dragon	found_in	NetHack 2
+Ice Queens Realm	can_use	cause
+Nightgaunt (HackEM)	found_in	HackEM
+Energy vortex	property	genocidable
+Bone devil	attack_type	weapon
+Comestible	special_ability	make
+Lich	damage_type	cold
+Executioner	frequency	Unique
+Cockatrice	magic_resistance	30
+Object properties	grants_intrinsic	shock
+Fire vortex	has_resistance	poison resistance
+Item (SpliceHack)	grants	disintegration resistance
+Cockatrice	can_use	cause
+XNetHack	grants_intrinsic	poison
+Pit fiend	found_in	NetHack
+Giant mimic	magic_resistance	20
+Giant rat	found_in	Hack 1
+Vampire lord	attack_type	claw
+Orange dragon	found_in	NetHack
+Rumor messages	grants_ability	give
+Ascension kit (dNetHack)	grants	magic resistance
+Titan	attack_damage	2d8
+Archon	difficulty_category	very hard
+Unicorn horn	material	bone
+Purple worm	alignment	neutral (0)
+Thoth Amon	attack_damage	0d0
+Energy vortex	appears_on_level	14-14
+Wraith	found_in	Hack 1
+HackEM	appears_on_level	15-15
+Vampire	speed_category	fast
+Vlad the Impaler	has_resistance	sleep resistance
+EvilHack	type_of	unique monster
+Item (SLASHEM)	grants	reflection
+Guard	base_level	12
+Ice devil	found_in	NetHack 3
+Angel	difficulty_category	hard
+Nightmare (SLASHEM)	speed_category	very fast
+Soldier ant	alignment	neutral (0)
+Queen bee	speed_category	very fast
+Bugs in NetHack 3.4.3	special_ability	kill
+Forest centaur	found_in	goal level
+Artifact (SpliceHack)	grants	fire resistance
+Dragon scales	material	Dragon
+EvilHack	found_in	Gehennom
+EvilHack	grants_ability	give
+Dragon scales	found_in	bones
+Death (monster)	speed_category	fast
+Pestilence	has_resistance	sleep resistance
+Werejackal	has_resistance	poison resistance
+Pit fiend	has_resistance	poison resistance
+Monster (HackEM)	found_in	SlashTHEM
+Leprechaun	speed_category	fast
+Fire vampire	has_resistance	fire resistance
+Nazgul	has_resistance	sleep resistance
+Corpse	grants_ability	give
+Black market (SLASHEM)	drops	corpse
+Quasit	found_in	NetHack
+Quarterstaff	material	bone
+Guardian naga	attack_damage	1d6
+Caveman	grants_intrinsic	magic
+Death (monster)	has_resistance	cold resistance
+Barrow wight	attack_damage	1d4
+Tin	found_in	NetHack
+Monadic deva (SLASHEM)	base_level	15
+Barbarian	found_in	Hack 1
+Energy vortex	magic_resistance	30
+Price identification	appears_on_level	1-1
+Electric eel	property	genocidable
+Monk	appears_on_level	4-4
+Game stages	special_ability	kill
+Intr-343.txt	can_use	cause
+Frankensteins Monster	base_level	20
+Valkyrie	eating_effect	Lord Surtur
+Corpse	grants	shock resistance
+Vecna (SLASHEM)	attack_damage	0d0
+Magic portal	found_in	NetHack
+Rumor messages	special_ability	protect
+Executioner	found_in	UnNetHack
+Roles and races (HackEM)	appears_on_level	3-3
+Croesus	alignment	15
+Nurse dancing	appears_on_level	3-3
+Werewolf	type_of	monster_class
+High priest	frequency	Unique
+White dragon	damage_type	cold
+Demilich	found_in	NetHack
+Barrow wight	has_resistance	sleep resistance
+Little dog	type_of	monster_class
+Medusa	speed	12
+Disenchanter	combat_rating	0.0
+Quantum mechanic	attack_type	claw
+HackEM	appears_on_level	4-4
+Cockatrice	eating_effect	corpses
+Archon	alignment	15
+Frankensteins Monster	has_resistance	shock resistance
+Salamander	has_resistance	sleep resistance
+Mountain nymph	alignment	neutral (0)
+Nalzok	base_level	16
+Marilith	alignment	chaotic
+Baby white dragon	type_of	monster_class
+Vecna (SLASHEM)	has_resistance	fire resistance
+Vampire	attack_type	bite
+White dragon	grants	cold resistance
+Yeenoghu	speed_category	very fast
+Medusa	frequency	Unique
+Price identification	appears_on_level	2-2
+Demilich	damage_type	cold
+Quantum mechanic	has_resistance	poison resistance
+Guardian naga	has_resistance	poison resistance
+Wish	appears_on_level	20-20
+Mail daemon	armor_class	10
+Titan	found_in	Gehennom
+Object properties	grants	drain resistance
+Pit fiend	difficulty	16
+Mountain nymph	property	genocidable
+Gray dragon	type_of	monster_class
+Artifact (SpliceHack)	grants	cold resistance
+Deep dragon (SLASHEM)	type_of	monster_class
+Thoth Amon	has_resistance	poison resistance
+Wish/ko	appears_on_level	20-20
+Experience level	appears_on_level	30-30
+Arch-lich	attack_damage	0d0
+Corpse	special_ability	make
+Protection racket	appears_on_level	1-1
+Tourist quest	special_ability	help
+Rint-343.txt	combat_action	attack
+EvilHack	appears_on_level	10-10
+Black dragon	found_in	Dragon lairs and the wyrm caves
+Shop	appears_on_level	2-2
+Barbarian	appears_on_level	1-1
+Bone devil	armor_quality	good
+Disenchanter	difficulty_category	hard
+Giant eel	found_in	Hack 1
+Water troll	speed_category	fast
+Quarterstaff	material	mithril
+Genocide	appears_on_level	10-10
+SlashTHEM items	grants_intrinsic	fire
+Cockatrice	alignment	neutral (0)
+Shade	has_resistance	sleep resistance
+Ki-rin	attack_damage	2d6
+Disenchanter	attack_type	attack
+Werewolf	attack_type	weapon
+DNetHack artifacts	grants_intrinsic	poison
+Archon	appears_on_level	30-30
+Xorn	type_of	monster_class
+Water troll	attack_type	bite
+Art1-343.txt	grants	magic resistance
+Baby blue dragon	found_in	NetHack 3
+Kraken	property	genocidable
+Ascension kit	grants	magic resistance
+Nazgul	speed_category	fast
+Nalfeshnee	attack_type	spell
+Rabid rat	alignment	neutral (0)
+Lord Surtur	frequency	Unique
+Mail daemon	armor_quality	poor
+Spellbook	appears_on_level	5-5
+Gypsy	has_resistance	poison resistance
+Noble	grants	magic resistance
+Lich	alignment	chaotic
+Watchman	found_in	NetHack
+Mind flayer	attack_type	weapon
+Doppelganger (starting race)	found_in	SLASHEM
+Artifact (SpliceHack)	material	silver
+EvilHack	appears_on_level	4-4
+Wraith	property	genocidable
+SlashTHEM artifacts	grants_intrinsic	drain
+Troll	speed_category	fast
+Object properties	grants	shock resistance
+White dragon	survivability_score	15
+Electric eel	has_resistance	poison resistance
+XNetHack	appears_on_level	10-10
+DNetHack artifacts	grants_intrinsic	drain
+Watchman	alignment	chaotic
+Djinni	speed_category	fast
+Gypsy	difficulty_category	very hard
+XNetHack	appears_on_level	5-5
+Property	appears_on_level	15-15
+Disenchanter	property	genocidable
+DNetHack artifacts	grants	acid resistance
+Cloak of displacement	found_in	NetHack
+Artifact (SpliceHack)	material	bone
+Red dragon	base_level	15
+Nightgaunt (HackEM)	found_in	small groups
+Giant eel	alignment	neutral (0)
+Werejackal	speed	12
+Red dragon	attack_type	claw
+Quarterstaff	material	iron
+Price identification/ko	appears_on_level	15-15
+Vampire (starting race in SLASHEM)	grants_ability	give
+Ice devil	attack_type	cold
+Skeleton	base_level	12
+Genocide/ko	appears_on_level	10-10
+Xorn	has_resistance	stoning resistance
+Wood nymph	speed_category	fast
+Salamander	armor_quality	good
+XNetHack	material	silver
+Monster (HackEM)	appears_on_level	10-10
+Shade	survivability_score	2
+Salamander	appears_on_level	8-8
+Deep dragon (SLASHEM)	armor_quality	good
+Weap-343.txt	appears_on_level	30-30
+Property	can_use	cause
+Troll	attack_type	claw
+Xorn	attack_damage	1d3
+Sapphire golem	has_resistance	cold resistance
+Quasit	type_of	creature
+Ice devil	alignment	chaotic
+Cockatrice	attack_type	bite
+Fountain	appears_on_level	5-5
+HackEM	special_ability	protect
+SlashTHEM artifacts	grants	drain resistance
+Wraith	type_of	monster_class
+Fire ant	speed_category	very fast
+Binder	appears_on_level	30-30
+Mail daemon	type_of	monster_class
+Dragon scales	type_of	armor_class
+Bone devil	speed	15
+Pet/ko	appears_on_level	9-9
+Red dragon	found_in	NetHack
+DNetHack artifacts	grants	poison resistance
+Roles and races (HackEM)	appears_on_level	30-30
+Dragon	grants	fire resistance
+Deep dragon (SLASHEM)	alignment	chaotic
+Movanic deva (SLASHEM)	attack_type	weapon
+Medusa	speed_category	fast
+Arch-lich	damage_type	cold
+Minotaur	found_in	Hack 1
+Death (monster)	has_resistance	sleep resistance
+Nalzok	attack_type	weapon
+Experience level	appears_on_level	4-4
+Werejackal	found_in	SLASH 6
+Titan	speed_category	very fast
+Red dragon	armor_quality	good
+Delayed instadeath	can_use	cause
+Corpse/ko	drops	corpse
+Roles and races (HackEM)	appears_on_level	9-9
+Cockatrice	drops	corpses
+Wand of speed monster	found_in	NetHack
+Nalfeshnee	attack_damage	0d0
+Vampire lord	base_level	12
+Mind flayer	found_in	NetHack
+Shopkeeper	found_in	NetHack
+Genocide	found_in	SLASHEM
+Asmodeus	attack_type	claw
+Titan	attack_type	spell
+Vecna (SLASHEM)	damage_type	cold
+DNetHack artifacts	grants	fire resistance
+Fire ant	found_in	Valkyrie quest
+Ixoth	difficulty_category	very hard
+Roles and races (HackEM)	appears_on_level	12-12
+Sapphire golem	alignment	neutral (0)
+Purple worm	attack_type	bite
+Object properties	grants_intrinsic	magic
+Forest centaur	attack_type	weapon
+Guardian naga	found_in	Dungeons & Dragons
+Master lich	damage_type	cold
+Binder	appears_on_level	1-1
+Wizard mode ascension	grants_intrinsic	magic
+Forest centaur	speed	18
+Minotaur	found_in	NetHack
+Spirits (dNetHack)	drops	corpse
+Nightgaunt (HackEM)	speed_category	very fast
+Intr-343.txt	eating_effect	Quantum mechanic
+Hill giant	found_in	Caveman quest
+Vampire (starting race in UnNetHack)	can_use	cause
+Gray dragon	damage_type	magic
+Hell hound	found_in	NetHack
+Lessons learned the hard way	appears_on_level	3-3
+Vampire lord	found_in	NetHack
+Armor	grants	magic resistance
+Why do I keep dying?	special_ability	poison
+Roles and races (HackEM)	found_in	SpliceHack
+Angel	has_resistance	poison resistance
+Thoth Amon	difficulty_category	very hard
+EvilHack	grants	poison resistance
+Yeenoghu	damage_type	magic
+Mountain nymph	found_in	NetHack
+Thoth Amon	magic_resistance	10
+Plate mail	found_in	NetHack
+Aphrodite (SLASHEM)	attack_type	claw
+Xan	alignment	neutral (0)
+Black dragon scales	grants_intrinsic	fire
+Warned of monster type	appears_on_level	1-1
+Kraken	attack_type	bite
+Baby white dragon	found_in	NetHack 3
+Minotaur	speed_category	fast
+Gnome king	armor_quality	poor
+Gnome king	armor_class	10
+Executioner	armor_quality	good
+Sokoban	appears_on_level	4-4
+EvilHack	grants_intrinsic	cold
+Lawful Quest	special_ability	kill
+Experience level	appears_on_level	16-16
+Black light	found_in	NetHack
+Chromatic Dragon	alignment	chaotic
+Thoth Amon	attack_type	spell
+Guard	found_in	NetHack
+Shop	appears_on_level	15-15
+Vampire (starting race in SLASHEM)	eating_effect	corpse
+Experience level	appears_on_level	8-8
+EvilHack	material	iron
+Tinning kit	grants_intrinsic	poison
+FIQHack	appears_on_level	5-5
+Hill giant	speed	10
+Balrog	survivability_score	16
+Baby blue dragon	attack_type	bite
+Djinni	speed	12
+SlashTHEM artifacts	grants_intrinsic	cold
+Soldier ant	found_in	NetHack
+Wizard	appears_on_level	15-15
+GDSM versus SDSM	eating_effect	Black dragon
+Executioner	survivability_score	16
+Yellow dragon	attack_type	bite
+Disenchanter	base_level	12
+Sewer rat	property	genocidable
+Bone devil	difficulty	13
+Gray dragon	property	genocidable
+Plate mail	grants_resistance	magic resistance
+Queen bee	damage_type	poison
+Master lich	drops	corpse
+Purple worm	difficulty_category	hard
+Gray dragon	has_resistance	magic resistance
+Astral deva (SLASHEM)	has_resistance	poison resistance
+SlashTHEM artifacts	grants_intrinsic	shock
+Monadic deva (SLASHEM)	alignment	15
+Yellow dragon	also_known_as	Yellow dragon
+Wish/ko	grants_ability	give
+Vecna (SLASHEM)	frequency	Unique
+Black dragon	difficulty_category	hard
+Giant mimic	property	genocidable
+Xorn	attack_type	bite
+Asmodeus	found_in	Dungeons & Dragons
+Watchman	property	genocidable
+Wizard mode ascension	grants_intrinsic	fire
+Juiblex	found_in	NetHack
+Price identification	appears_on_level	6-6
+Marilith	difficulty_category	hard
+Pestilence	found_in	NetHack
+Shopkeeper	speed	18
+White dragon	attack_damage	1d4
+Art1-343.txt	appears_on_level	3-3
+Unofficial conduct	grants_ability	give
+Glowing dragon	property	genocidable
+Roles and races (HackEM)	appears_on_level	7-7
+EvilHack	grants_intrinsic	drain
+XNetHack	drops	corpse
+Rumor messages	appears_on_level	1-1
+ZAPM	appears_on_level	30-30
+Deva	appears_on_level	30-30
+Red dragon	difficulty_category	hard
+Astral deva (SLASHEM)	attack_type	weapon
+Displacer beast	property	genocidable
+Monk	appears_on_level	1-1
+Medusa	base_level	20
+Monadic deva (SLASHEM)	appears_on_level	10-10
+Bone devil	found_in	Gehennom

@@ -1,0 +1,23 @@
+head	type	tail	source
+they	located_in	Pictographic Tiles section of the Tiles page.	NetHackWiki:Community Portal
+that	appears_in	''[[NetHack]]''. The soldier ant is an [[oviparous]] and [[carnivorous]] [[insect]] that is a stronger, [[poisonous]] cousin of the [[giant ant]]. Soldier ants are among the most common source of early-game deaths, and as of May 2025 they occupy the #3 position on [[NAO]]'s [https://alt.org/nethack/topdeaths.html list of most frequent deaths].	Soldier ant
+may	appears_in	small [[group]]s of 2-4.	Soldier ant
+first	appears_in	[[NetHack 3.0.0]]. In Hack 1.21 and Hack for PDP-11, which are based on [[Jay Fenlason's Hack]], and from [[Hack 1.0]] to [[NetHack 2.3e]], the giant ant behaves much like the modern soldier ant does, attacking with a poisonous sting and leaving a poisonous corpse.	Soldier ant
+that	appears_in	''[[NetHack]]''. The wumpus is a type of [[omnivorous]] [[quadruped]] that is [[strong]], can cling to [[ceiling]]s, and can be seen via [[infravision]].	Wumpus
+first	appears_in	Hack 1.21, which is based on [[Jay Fenlason's Hack]]: in this version, it uses the {{white|W}} glyph. From [[Hack 1.0]] to [[NetHack 2.3e]], the wumpus is only generated if the <tt>NOWORM</tt> [[compile-time option]] is defined, and is otherwise replaced by the [[long worm]]&mdash;both use the {{white|w}} glyph. [[NetHack 3.0.0]] adds both monsters to the default bestiary and moves the wumpus to the quadruped monster class with the [[leocrotta]] and several other monsters.	Wumpus
+it	grants_resistance	[[magic	Archeologist
+typically	appears_in	random rooms-and-corridors levels in the [[Dungeons of Doom]], never in mazes or cavern levels, although many [[special level]]s also contain special rooms.	Special room
+they	appears_in	below table. Rooms lower on the table can only be generated if all rooms higher on the table failed to generate. For example, a temple is created with probability 1/5 from level 9 onwards in an ordinary rooms-and-corridors level in the main dungeon, provided the level does not already have a shop, a throne room, a leprechaun hall or a zoo.{{refsrc|src/mklev.c|776|version=NetHack 3.6.6}}	Special room
+which	damage	1d8	Weapon
+To	attack_type	wielded weapon, simply try to move into a monster's space, or use {{kbd|Shift|F}} to attack in any direction.	Weapon
+that	appears_in	NetHack|the #monster extended command|Monster (command)}}	Monster
+that	appears_in	''[[NetHack]]''. She is a dangerous [[humanoid]] being that is the only [[human or elf]] to neither be [[Human (monster attribute)|human]] nor [[Elf (monster attribute)|elven]]. Medusa is a [[strong]] [[omnivore]] that is [[amphibious]] and capable of [[swimming]], has [[flight]], and can be seen via [[infravision]]. She cannot be [[tamed]] or even pacified.{{refsrc|src/dog.c|871|version=NetHack 3.6.7}}	Medusa
+directly	appears_in	[[bones]] file.{{refsrc|src/bones.c|397|version=NetHack 3.6.7}}	Medusa
+may	appears_in	map and in messages as random or nonexistent trap types, though any messages resulting from triggering the trap are unchanged.}}	Trap
+that	appears_in	''[[NetHack]]''.	Wand of digging
+and	weight	20	Amulet
+that	appears_in	"''[[NetHack]]'' and is represented by a cyan [[double quotation mark]], {{cyan|""}}."	Amulet
+you	drops	something into a pit, and then plug the pit with a [[boulder]], the objects become buried and are totally inaccessible to monsters. While a somewhat easier [[stash]]ing method, this is not entirely practical: Organic materials (including [[large box]]es and [[chest]]s) will rot away within 250 turns, and you would need a new boulder for each access.{{refsrc|dig.c|1324}}	Pit
+You	drops	uncursed cockatrice corpse.  It explodes!|}}	Yet Another Funny Message
+that	appears_in	"''[[NetHack]]''. Statues are represented on screen by a bold white [[monster]] glyph or a grayscale monster tile. A statue always depicts some specific monster, e.g. ""a statue of a kobold"" (which displays on-screen as {{white|k}})."	Statue
+always	appears_in	top or bottom edge of a room, never at the sides.{{refsrc|src/mklev.c|457|nethack=3.6.7}} Monsters can be generated inside closets just like on any other square.	Closet

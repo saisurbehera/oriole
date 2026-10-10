@@ -1,0 +1,37 @@
+[
+  {
+    "milestone": "started",
+    "keys": 0,
+    "turn": 1,
+    "depth": 1,
+    "recorded_at": "2026-10-10T13:26:08.231769+00:00"
+  },
+  {
+    "milestone": "reached_floor_1",
+    "keys": 0,
+    "turn": 1,
+    "depth": 1,
+    "recorded_at": "2026-10-10T13:26:08.231769+00:00"
+  },
+  {
+    "milestone": "first_damage",
+    "keys": 5,
+    "turn": 3,
+    "depth": 1,
+    "recorded_at": "2026-10-10T13:26:20.759266+00:00"
+  },
+  {
+    "milestone": "first_monster_killed",
+    "keys": 6,
+    "turn": 4,
+    "depth": 1,
+    "recorded_at": "2026-10-10T13:26:22.196437+00:00"
+  },
+  {
+    "milestone": "reached_floor_2",
+    "keys": 40,
+    "turn": 34,
+    "depth": 2,
+    "recorded_at": "2026-10-10T13:27:09.884695+00:00"
+  }
+]

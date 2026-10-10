@@ -1,0 +1,21 @@
+{
+  "total_triples": 22,
+  "unique_entities": 35,
+  "unique_relations": 7,
+  "relation_distribution": {
+    "located_in": 1,
+    "appears_in": 15,
+    "grants_resistance": 1,
+    "damage": 1,
+    "attack_type": 1,
+    "weight": 1,
+    "drops": 2
+  },
+  "game_specific_relations": {
+    "grants_resistance": 1,
+    "damage": 1,
+    "attack_type": 1,
+    "weight": 1,
+    "drops": 2
+  }
+}
