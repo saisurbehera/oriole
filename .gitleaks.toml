@@ -1,0 +1,14 @@
+title = "Oriole secret checks"
+
+[extend]
+useDefault = true
+
+[[allowlists]]
+description = "Tokenizer function arguments are not an API key"
+regexTarget = "match"
+regexes = ['tokenizer,\s*enable_thinking=True']
+
+[[allowlists]]
+description = "NetHack Windows key-handling enum names are not credentials"
+regexTarget = "match"
+regexes = ['ray_keyhandling,\s*nh340_keyhandling']

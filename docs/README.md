@@ -5,6 +5,8 @@ and agent research. Start with the [root README](../README.md) to install and pl
 
 - [Gameplay](gameplay.md): commands, prompts, persistent sessions, and wiki lookup.
 - [Model trials](model-trials.md): measured results, setup, limits, and published musing.
+- [Credential checks](credential-checks.md): history scan, exclusions, and CI guard.
+- [Historical archive](../old/README.md): older projects and their execution paths.
 - [Repository layout](repository-layout.md): maintained code, historical experiments,
   vendored dependencies, and files deliberately kept local.
 - [Vendor provenance](vendor-provenance.json): upstream snapshot commit IDs.

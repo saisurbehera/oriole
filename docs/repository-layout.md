@@ -7,10 +7,10 @@ under the parent repository, so clones contain the actual implementation.
 
 ## Dependencies
 
-`nle/`, `ultra/`, and `BALROG/` are source snapshots rather than Git submodules.
+`old/nle/`, `old/ultra/`, and `old/BALROG/` are source snapshots rather than Git submodules.
 Their existing local changes are included. Previously nested source projects
 inside NLE and BALROG are included too, apart from redundant duplicate checkouts
-(`nle/ultra/` and `BALROG/BALROG/`). The duplicate directories remain on disk.
+(`old/nle/ultra/` and `old/BALROG/BALROG/`). The duplicate directories remain on disk.
 Upstream commit IDs are recorded in `vendor-provenance.json`. The broken absolute AutoAscend glyph mapping link was replaced with an import
 from NLE so the source snapshot is portable. Upstream licenses
 remain in their respective directories; consult them before distributing code or
@@ -25,19 +25,19 @@ prompts enabled; it supports old Gym and new Gymnasium reset/step result formats
 
 ## Historical experiments
 
-Root Python experiments moved together into `research/` so sibling imports still
-resolve. Run them from the repository root to preserve relative paths to `data/`
-and `ultra/`. Shell scripts moved into `scripts/legacy/` and references to root
+Root Python experiments are archived together in `old/research/` so sibling imports still
+resolve. Run them from `old/` to preserve relative paths to archived `data/`
+and `ultra/`. Shell scripts are in `old/scripts/legacy/` and references to root
 Python scripts were updated. These scripts remain historical experiments, not a
 fully verified research suite. Installing their old CUDA stacks is unnecessary for
 local gameplay. The old API can still be run with
-`python research/nethack_qa_server.py` in a suitable research environment; it needs
+`cd old && python research/nethack_qa_server.py` in a suitable research environment; it needs
 its separate vLLM service and server requirements.
 
 ## What belongs in Git
 
 Source code, configuration, documentation, notebooks, and small derived graph
-files are tracked. Local credentials (including BALROG/SECRETS), virtual
+files are tracked. Local credentials (including old/BALROG/SECRETS), virtual
 environments, compiled output, caches, new gameplay logs, model weights, raw wiki data,
 trajectory archives, training datasets, and generated run directories are ignored.
 No local artifact was deleted as part of organization.
@@ -72,3 +72,9 @@ These are selected game observations, not Codex event logs or account data.
 `python scripts/archive-trials.py` rebuilds the archive from the original local
 logs while they remain available. Fresh clones can replay the archive without
 those local logs. See [the project guide](README.md) for the documentation map.
+
+The root `data/` keeps the runtime wiki graph and selected trial archives.
+Historical derived graphs are in `old/data/`. Large ignored files were preserved
+on disk; the root-owned `data/nethack_ultra/` directory remains ignored after its tracked
+files were copied to `old/data/nethack_ultra/`.
+An empty obsolete `.gitmodules` was removed because snapshots are ordinary files.

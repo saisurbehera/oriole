@@ -39,12 +39,12 @@ it survives command exits, but not process shutdown or a machine reboot.
 ## Development
 
 The maintained local interface is `oriole/`. Historical experiments are in
-`research/`; run them from the repository root (`python research/example.py`) so
-their existing data paths work. Historical shell scripts are in `scripts/legacy/`.
+`old/research/`; run them from `old/` (`cd old; python research/example.py`) so
+their existing data paths work. Historical shell scripts are in `old/scripts/legacy/`.
 Do not run those installers as part of local gameplay.
 
 Run `.local/play-venv/bin/python -m unittest discover -s tests -v` for the gameplay checks.
-Vendor source snapshots are tracked in `nle/`, `ultra/`, and `BALROG/`, including
+Vendor source snapshots are tracked in `old/nle/`, `old/ultra/`, and `old/BALROG/`, including
 local edits. Provenance is in `docs/vendor-provenance.json`. Source files and small
 derived datasets belong in Git; environments, credentials, checkpoints, raw data,
 caches, and episode logs do not. See `docs/repository-layout.md` for exclusions.
@@ -61,3 +61,7 @@ prefer unexplored paths, and avoid repeated searches around the same room.
 with forced ChatGPT authentication. They require a subscription login and preserve
 traces under `.local/trials/`. `./play results` summarizes them. `watch` and `replay`
 are read-only views; the trial closes its game process after saving its final state.
+
+Never commit credentials, auth files, or local Codex session logs. Run the
+Gitleaks history and tracked-file checks described in `docs/credential-checks.md`
+before publishing changes. Keep new experiments out of `old/`, which is archival.

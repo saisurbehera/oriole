@@ -63,7 +63,7 @@ The [project guide](docs/README.md) maps the code, recorded experiment, and next
 
 See [trial results](docs/model-trials.md) for measured runs and their limits.
 The maintained interface is in `oriole/`; historical experiments are in
-`research/`. [Gameplay details](docs/gameplay.md) and [repository layout](docs/repository-layout.md)
+`old/research/`. [Gameplay details](docs/gameplay.md) and [repository layout](docs/repository-layout.md)
 explain the rest. Source, small graph data, and the four archived game replays are tracked.
 New run logs and environments stay local. Replay the published experiment after cloning:
 
@@ -83,6 +83,9 @@ New run logs and environments stay local. Replay the published experiment after 
 | `scripts/` | Setup, interactive Codex launcher, and recorded-trial export |
 | `tests/` | Checks for game state, isolated trials, authentication, and archives |
 | `docs/`, `data/trials/` | Experiment notes, measurements, and replayable evidence |
-| `research/`, `scripts/legacy/` | Historical knowledge-graph, training, and API experiments |
-| `nle/`, `ultra/`, `BALROG/` | Vendored research dependencies with original licenses |
+| `old/` | Archived research, datasets, notebooks, and dependency snapshots |
+| `.gitleaks.toml` | Credential scan rules used locally and in CI |
 | `.local/` | Ignored environments, live sessions, and new trial outputs |
+
+Historical code is archived rather than deleted. See [old/README.md](old/README.md).
+[Credential checks](docs/credential-checks.md) describe the tracked-file and history audit.
